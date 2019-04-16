@@ -1,6 +1,5 @@
 ---
 title: ビー玉からくり第三弾の歴史
-url: ja/episode/2007/june/it-all-started-here/
 tags: [ "mt3", "ビデオ", "歴史" ]
 author: Rob Nugen
 youtube: mlUqu6QE7bw

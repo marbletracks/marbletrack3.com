@@ -1,6 +1,5 @@
 ---
 title: フランソワがステージを蹴った
-url: ja/episode/2017/september/mt3-francois-kicked-the-stage-into-place/
 tags: [ "mt3", "フランソワ" ]
 author: Rob Nugen
 youtube: xc4JXLveuMc
