@@ -175,9 +175,9 @@
     VideoType = 1
   [Videos.3mEt932GttA]
     VideoId = "3mEt932GttA"
-    Title = "Marble Track 3 construction Live Stream"
+    Title = "Marble Track 3 construction Live Stream: Finished curving Triple Splitter Small Feeder Inner Bar"
     Published = 2019-04-16T07:48:18Z
-    Duration = 0
+    Duration = 5172000000000
     VideoType = 1
   [Videos.3uneHQljsOc]
     VideoId = "3uneHQljsOc"
@@ -1055,6 +1055,12 @@
     Published = 2018-07-20T03:40:00Z
     Duration = 115000000000
     VideoType = 2
+  [Videos.Qq0v6IfNqu4]
+    VideoId = "Qq0v6IfNqu4"
+    Title = "Marble Track 3: finished curving Triple Splitter Small Feeder Inner Bar"
+    Published = 2019-04-19T00:47:38Z
+    Duration = 38000000000
+    VideoType = 2
   [Videos.QwFmLmx6V2c]
     VideoId = "QwFmLmx6V2c"
     Title = "Marble Track 3 construction Live Stream: just before gluing 7th rib"
@@ -1594,6 +1600,12 @@
     Title = "Marble Track 3 construction Live Stream: finished 80 frames as Rabby walks on stage"
     Published = 2017-07-07T13:55:12Z
     Duration = 2412000000000
+    VideoType = 1
+  [Videos.fV3JgWuSpHI]
+    VideoId = "fV3JgWuSpHI"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2019-04-19T00:43:21Z
+    Duration = 0
     VideoType = 1
   [Videos.fWNuuGVUCgQ]
     VideoId = "fWNuuGVUCgQ"
