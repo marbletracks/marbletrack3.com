@@ -761,6 +761,12 @@
     Published = 2018-03-17T06:33:05Z
     Duration = 13000000000
     VideoType = 2
+  [Videos.JgJBAhSNFPo]
+    VideoId = "JgJBAhSNFPo"
+    Title = "Marble Track 3 construction Live Stream: prepared Triple Splitter Small Feeder Outer Bar"
+    Published = 2019-04-22T11:10:30Z
+    Duration = 644000000000
+    VideoType = 1
   [Videos.JvyGwxF-1eY]
     VideoId = "JvyGwxF-1eY"
     Title = "Marble Track 3 construction Live Stream: moving chopstick"
@@ -791,6 +797,12 @@
     Published = 2017-11-23T23:47:07Z
     Duration = 43000000000
     VideoType = 2
+  [Videos.KtjAgrVFyfo]
+    VideoId = "KtjAgrVFyfo"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2019-04-22T10:39:18Z
+    Duration = 0
+    VideoType = 1
   [Videos.KvyPd_OLky4]
     VideoId = "KvyPd_OLky4"
     Title = "Marble Track 3: rolled twice more"
@@ -1603,9 +1615,9 @@
     VideoType = 1
   [Videos.fV3JgWuSpHI]
     VideoId = "fV3JgWuSpHI"
-    Title = "Marble Track 3 construction Live Stream"
+    Title = "Marble Track 3 construction Live Stream: glued Triple Splitter Small Feeder Inner Bar"
     Published = 2019-04-19T00:43:21Z
-    Duration = 0
+    Duration = 4685000000000
     VideoType = 1
   [Videos.fWNuuGVUCgQ]
     VideoId = "fWNuuGVUCgQ"
