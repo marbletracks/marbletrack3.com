@@ -27,6 +27,6 @@ History:
 
 [![2019 feb 05 csfer](//b.robnugen.com/art/marble_track_3/construction/2019/thumbs/2019_feb_05_csfer.jpg)](//b.robnugen.com/art/marble_track_3/construction/2019/2019_feb_05_csfer.jpg)
 
-* 2019 Jan 02: Planned to be brought onto the set by [Squarehead](/w/square).
+* 2019 Jan 02: Using the demonstration [Outer Spiral](/p/os) to decide where exacle [Squarehead](/w/square) should place the piece.
 
 [![2019 jan 02 caret splitter feeder extension reflection stand-in](//b.robnugen.com/art/marble_track_3/track/parts/2019/thumbs/2019_jan_02_caret_splitter_feeder_extension_reflection_stand-in.jpg)](//b.robnugen.com/art/marble_track_3/track/parts/2019/2019_jan_02_caret_splitter_feeder_extension_reflection_stand-in.jpg)
