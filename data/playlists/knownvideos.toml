@@ -801,7 +801,7 @@
     VideoId = "KtjAgrVFyfo"
     Title = "Marble Track 3 construction Live Stream"
     Published = 2019-04-22T10:39:18Z
-    Duration = 0
+    Duration = 3313000000000
     VideoType = 1
   [Videos.KvyPd_OLky4]
     VideoId = "KvyPd_OLky4"
@@ -904,6 +904,12 @@
     Title = "Marble Track 3: lil brother hitches a ride"
     Published = 2018-03-29T06:28:52Z
     Duration = 27000000000
+    VideoType = 2
+  [Videos.N7qDJfq9NMo]
+    VideoId = "N7qDJfq9NMo"
+    Title = "Marble Track 3: finished curving triple splitter small feeder outer bar"
+    Published = 2019-04-27T23:45:47Z
+    Duration = 41000000000
     VideoType = 2
   [Videos.NEOKk8BgDUI]
     VideoId = "NEOKk8BgDUI"
@@ -1156,6 +1162,12 @@
     Title = "Marble Track 3 construction Live Stream: retesting large marble"
     Published = 2018-05-02T01:33:32Z
     Duration = 2861000000000
+    VideoType = 1
+  [Videos.Tlb7LvQ71D0]
+    VideoId = "Tlb7LvQ71D0"
+    Title = "Marble Track 3 construction Live Stream: curved triple splitter small feeder outer bar"
+    Published = 2019-04-27T23:39:26Z
+    Duration = 7324000000000
     VideoType = 1
   [Videos.TwaZkt_T7wk]
     VideoId = "TwaZkt_T7wk"
@@ -1864,6 +1876,12 @@
     Title = "Marble Track 3 construction Live Stream: chopstick fell into place"
     Published = 2018-09-20T01:02:14Z
     Duration = 3200000000000
+    VideoType = 1
+  [Videos.n2mMeJZ6urc]
+    VideoId = "n2mMeJZ6urc"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2019-04-27T23:03:19Z
+    Duration = 0
     VideoType = 1
   [Videos.n9n6qG0FJGs]
     VideoId = "n9n6qG0FJGs"
