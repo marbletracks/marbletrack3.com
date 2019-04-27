@@ -64,4 +64,4 @@ Fart1oncheese**:
 
 No doubt about that!  But I assured him the livestreams were not to be
 viewed so much as to be a timer showing how long I have worked on
-Marble Track 3.  Approximately 316 hours as of now.
+Marble Track 3.  Approximately 318 hours as of now.
