@@ -71,6 +71,12 @@
     Published = 2018-03-31T10:07:29Z
     Duration = 5516000000000
     VideoType = 1
+  [Videos.0VTDIW441Zg]
+    VideoId = "0VTDIW441Zg"
+    Title = "Marble Track 3 construction Live Stream: rebooting computer"
+    Published = 2019-04-29T09:01:51Z
+    Duration = 124000000000
+    VideoType = 1
   [Videos.0WYv_Gs8tnw]
     VideoId = "0WYv_Gs8tnw"
     Title = "Marble Track 3 construction Live Stream: test-add bearings to stage"
@@ -95,6 +101,12 @@
     Published = 2017-08-31T03:23:14Z
     Duration = 9000000000
     VideoType = 2
+  [Videos.14ke5rE6Ys8]
+    VideoId = "14ke5rE6Ys8"
+    Title = "Marble Track 3 construction Live Stream: rebooting computer"
+    Published = 2019-04-29T08:47:55Z
+    Duration = 626000000000
+    VideoType = 1
   [Videos.1MN__3q4Lfw]
     VideoId = "1MN__3q4Lfw"
     Title = "Marble Track 3: finished drilling holes"
@@ -1037,6 +1049,12 @@
     Published = 2017-06-27T04:24:48Z
     Duration = 4310000000000
     VideoType = 1
+  [Videos.QSvjw7CfJ7c]
+    VideoId = "QSvjw7CfJ7c"
+    Title = "Marble Track 3: begin rotating stage for super spoony"
+    Published = 2019-04-30T00:47:18Z
+    Duration = 44000000000
+    VideoType = 2
   [Videos.QUclLu9leYI]
     VideoId = "QUclLu9leYI"
     Title = "Marble Track 3: what's on the ramp?"
@@ -1090,6 +1108,12 @@
     Title = "Marble Track 3 construction Live Stream: Helpful Snakes"
     Published = 2018-05-15T06:10:58Z
     Duration = 5236000000000
+    VideoType = 1
+  [Videos.R1hO1nM-nRM]
+    VideoId = "R1hO1nM-nRM"
+    Title = "Marble Track 3 construction Live Stream: Snakes rolled away"
+    Published = 2019-04-29T10:40:13Z
+    Duration = 3874000000000
     VideoType = 1
   [Videos.RIIhbfqS6KQ]
     VideoId = "RIIhbfqS6KQ"
@@ -1186,6 +1210,12 @@
     Title = "Marble Track 3 construction Live Stream:glue U turn"
     Published = 2018-04-14T05:39:01Z
     Duration = 3701000000000
+    VideoType = 1
+  [Videos.U76Id0QAlEc]
+    VideoId = "U76Id0QAlEc"
+    Title = "Marble Track 3 construction Live Stream: rotate stage for super spoony"
+    Published = 2019-04-29T23:39:20Z
+    Duration = 2571000000000
     VideoType = 1
   [Videos.UAhlgQTAN4U]
     VideoId = "UAhlgQTAN4U"
@@ -1559,6 +1589,12 @@
     Published = 2017-09-22T11:36:16Z
     Duration = 13000000000
     VideoType = 2
+  [Videos.dHFbmVwOSZU]
+    VideoId = "dHFbmVwOSZU"
+    Title = "Marble Track 3 construction Live Stream: reglued triple splitter small feeder outer bar"
+    Published = 2019-04-29T03:21:02Z
+    Duration = 1625000000000
+    VideoType = 1
   [Videos.dTfrFcJaXJ4]
     VideoId = "dTfrFcJaXJ4"
     Title = "Marble Track 3 construction Live Stream: too fast reaction time"
@@ -1739,6 +1775,12 @@
     Published = 2017-10-17T03:30:44Z
     Duration = 78000000000
     VideoType = 2
+  [Videos.iLriprQAnr0]
+    VideoId = "iLriprQAnr0"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2019-04-30T00:29:55Z
+    Duration = 0
+    VideoType = 1
   [Videos.iU2f6ACl6qo]
     VideoId = "iU2f6ACl6qo"
     Title = "Marble Track 3 construction Live Stream: helpful snakes"
@@ -1847,6 +1889,12 @@
     Published = 2018-02-01T06:39:14Z
     Duration = 5784000000000
     VideoType = 1
+  [Videos.mBCwGhsGj68]
+    VideoId = "mBCwGhsGj68"
+    Title = "Marble Track 3 construction Live Stream: super spoony brings marbles up ramp"
+    Published = 2019-04-29T23:53:27Z
+    Duration = 4892000000000
+    VideoType = 1
   [Videos.mRz9HZXbxdM]
     VideoId = "mRz9HZXbxdM"
     Title = "Marble Track 3 construction Live Stream: before glued dual track rail"
@@ -1879,9 +1927,9 @@
     VideoType = 1
   [Videos.n2mMeJZ6urc]
     VideoId = "n2mMeJZ6urc"
-    Title = "Marble Track 3 construction Live Stream"
+    Title = "Marble Track 3 construction Live Stream: almost glued tssfob"
     Published = 2019-04-27T23:03:19Z
-    Duration = 0
+    Duration = 2746000000000
     VideoType = 1
   [Videos.n9n6qG0FJGs]
     VideoId = "n9n6qG0FJGs"
