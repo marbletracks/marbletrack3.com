@@ -14,6 +14,10 @@ Aliases = [
 date = 2018-11-15T10:23:59+09:00
 +++
 
-This catches small marbles almost immediately after they hit the Triple Splitter.
+This catches small marbles almost immediately after they hit the [Triple Splitter](/p/ts).  This hangs from the Triple Splitter, suspended above the [Back Right Medium Landing Zone](/p/brmlz).  It sends marbles down to the [Right Side Small Landing Zone](/p/rsslz).
 
-As of Nov 2018, the marbles do not roll out from under the Triple Splitter onto the [Little Wiggly Track](/p/lwt/), but they should.
+History:
+
+* 29 Apr 2019: small marbles now roll out properly, but they have not yet been fully tested within the final film.
+
+* 15 Nov 2018: small marbles do not roll out from under the Triple Splitter onto the [Little Wiggly Track](/p/lwt/), but they should.
