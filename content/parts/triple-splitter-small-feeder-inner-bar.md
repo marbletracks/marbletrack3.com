@@ -7,11 +7,10 @@ thumbnail = "https://b.robnugen.com/art/marble_track_3/workers/2019/thumbs/2019_
 description = "Inner rail of the Triple Splitter Small Feeder"
 workers = [
 	"backpack_jack",
-    "mr_mcglues",
+    "mr_mcglue",
     "g_choppys"
 ]
 aliases = [
-    "/p/1tssfb",
     "/p/tssfib",
     "/parts/1st-triple-splitter-small-feeder-bar/"
 ]

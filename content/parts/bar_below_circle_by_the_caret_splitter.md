@@ -10,7 +10,6 @@ workers = [
     "mr_mcglue"
 ]
 Aliases = [
-    "/p/bbcbtcs",
     "/p/bbcbcs"
 ]
 date = 2018-12-25T13:44:03+09:00

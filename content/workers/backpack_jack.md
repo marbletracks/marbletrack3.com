@@ -16,6 +16,13 @@ I found him in my room during end of year cleaning as we entered 2019.
 
 Tasks so far:
 
-* Bring [Triple Splitter Small Feeder](/p/tssf) onto set and give it to [Candy Mama](/w/cm)
-* Bring [Decorative Wall](/p/dwatlsms) pieces for [Pinky](/w/pink)
-* Hold [Caret Splitter Feeder Extension Reflection Stanchion](/p/csfers)
+* Bring [Triple Splitter Small Feeder Outer Bar Lower Support](/p/tssfobls)
+
+[![2019 apr 24 Backpack Jack carrying Triple Splitter Small Feeder Outer Bar Lower Support](//b.robnugen.com/art/marble_track_3/track/parts/2019/thumbs/2019_apr_24_bpj_bringing_tssfobls.jpg)](//b.robnugen.com/art/marble_track_3/track/parts/2019/2019_apr_24_bpj_bringing_tssfobls.jpg)
+
+* Bring [Triple Splitter Small Feeder](/parts/triple-splitter-small-feeder/) onto set and give it to [Candy Mama](/workers/candy_mama/)
+
+[![2019 jan 01 backpack jack awaits](//b.robnugen.com/art/marble_track_3/workers/2019/thumbs/2019_jan_01_backpack_jack_awaits.jpg)](//b.robnugen.com/art/marble_track_3/workers/2019/2019_jan_01_backpack_jack_awaits.jpg)
+
+* Bring [Decorative Wall](/parts/decorative_walls_after_the_lowest_small-medium_splitter/") pieces for [Pinky](/workers/pinky/)
+* Hold [Caret Splitter Feeder Extension Reflection Stanchion](/parts/caret-splitter-feeder-extension-reflection-stanchion/)

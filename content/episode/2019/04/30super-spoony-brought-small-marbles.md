@@ -53,5 +53,3 @@ up and the heavy marble in place over him, but should be worth it.
 [![00010 002 10 X1 0566](//b.robnugen.com/art/marble_track_3/frames/2019/thumbs/00010_002_10_X1_0566.jpg)](//b.robnugen.com/art/marble_track_3/frames/2019/00010_002_10_X1_0566.jpg)
 [![00010 002 10 X1 0567](//b.robnugen.com/art/marble_track_3/frames/2019/thumbs/00010_002_10_X1_0567.jpg)](//b.robnugen.com/art/marble_track_3/frames/2019/00010_002_10_X1_0567.jpg)
 [![00010 002 10 X1 0568](//b.robnugen.com/art/marble_track_3/frames/2019/thumbs/00010_002_10_X1_0568.jpg)](//b.robnugen.com/art/marble_track_3/frames/2019/00010_002_10_X1_0568.jpg)
-
-

@@ -3,7 +3,7 @@ title = "Lower Zig Zag Net"
 type = "parts"
 Thumbnail = "https://b.robnugen.com/art/marble_track_3/track/parts/thumbs/2018_nov_29_making_lower_zig_zag_net.jpg"
 Image = "https://b.robnugen.com/art/marble_track_3/track/parts/2018_nov_29_making_lower_zig_zag_net.jpg"
-Description = "For small marbles, next to Triple Splitter"
+Description = "Catches small marbles falling in Lower Zig Zag, next to Triple Splitter"
 workers = [
 	"dr_sugar",
 	"mr_greene",

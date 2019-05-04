@@ -28,21 +28,21 @@ will soon take over to be the [Caret Splitter](/p/cs)'s
 [Right Hand Inner Side](/p/csrhis), although he needs to move quickly
 as the stage is turning the Caret Splitter away from the camera.
 
-[Pinky](/w/pinky) has nearly completed her [Decorative Walls](/p/pdw) and
+[Pinky](/workers/pinky/) has nearly completed her [Decorative Walls after the Lowest Small-Medium Splitter](/parts/decorative_walls_after_the_lowest_small-medium_splitter/") and
 will soon jump off the stage to immediately reappear on the other side
 with a circle to finish them.
 
-About to be on the camera-side of the stage, [Candy Mama](/w/cm) is
+About to be on the camera-side of the stage, [Candy Mama](/workers/candy_mama/) is
 leaning down, about to lift the
-[First Triple Splitter Small Feeder Bar](/p/1tssfb) along with the
-[Second Triple Splitter Small Feeder Bar](/p/2tssfb) so
-[Mr Greene](/w/mg) can test the small orange marble on the
-[Lower Zig Zag](/p/lzz), which should be just about perfectly in front
+[Triple Splitter Small Feeder Inner Bar](/parts/triple-splitter-small-feeder-inner-bar/) along with the
+[Triple Splitter Small Feeder Outer Bar](/parts/triple-splitter-small-feeder-outer-bar/) so
+[Mr Greene](/workers/mr_greene/) can test the small orange marble on the
+[Lower Zig Zag](/parts/lower_zig_zag/), which should be just about perfectly in front
 when the marble rolls down.
 
-[Lil Brother](/w/lil) is still spinning on top of the
-[Triple Splitter](/p/ts).  I don't know if I will have him fall down
-or just walk up the [Triple Splitter Small Feeder](/p/tssf) once it is
+[Little Brother](/workers/lil_brother/) is still spinning on top of the
+[Triple Splitter](/parts/triple_splitter/).  I don't know if I will have him fall down
+or just walk up the [Triple Splitter Small Feeder](/parts/triple-splitter-small-feeder/) once it is
 in place, and have him spin on top of that.
 
 Here are frames taken today.

@@ -11,7 +11,6 @@ workers = [
     "g_choppy"
 ]
 aliases = [
-    "/p/2tssfb",
     "/p/tssfob",
     "/parts/2nd-triple-splitter-small-feeder/"
 ]

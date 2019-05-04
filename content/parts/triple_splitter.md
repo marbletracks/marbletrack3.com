@@ -18,10 +18,11 @@ Aliases = [
 date = 2018-09-21T17:38:54+09:00
 +++
 
-The (top of the) Triple Splitter sits opposite the [Caret Splitter](/p/cs).  The Triple Splitter is a section of track with non-parallel rails.  The large marbles make it all the way down the Triple Splitter, but the small marbles and medium marbles fall in the beginning and at the middle of the track, respectively.
+The (top of the) Triple Splitter sits opposite the [Caret Splitter](/parts/caret-splitter/).  The Triple Splitter is a section of track with non-parallel rails.  The large marbles make it all the way down the Triple Splitter, but the small marbles and medium marbles fall in the beginning and at the middle of the track, respectively.
 
 #### Construction History
 
-November 2018:  The Triple Splitter does *not* have a catchment for the medium marbles.  They just fall down beside the [Lower Zig Zag](/lzz).  Unfortunately, because I have built the Lower Zig Zag, building the catchment for the medium marbles will be tricky.  I need to work on that sooner than later!
+* May 2018: The [Triple Splitter Small Feeder](/parts/triple-splitter-small-feeder/) now feeds small marbles onto the Triple Splitter.  The marbles properly roll under the rail onto the
+* November 2018:  The Triple Splitter does *not* have a catchment for the medium marbles.  They just fall down beside the [Lower Zig Zag](/parts/lower_zig_zag/).  Unfortunately, because I have built the Lower Zig Zag, building the catchment for the medium marbles will be tricky.  I need to work on that sooner than later!
 
-The small marble catchment works, but the small marbles do not currently pass under the rail of the Triple Splitter to reach the [Little Wiggly Track](/p/lwt). 
+The small marble catchment works, but the small marbles do not currently pass under the rail of the Triple Splitter to reach the [Little Wiggly Track](/parts/little_wiggly_track/).
