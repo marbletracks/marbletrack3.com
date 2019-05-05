@@ -1,5 +1,5 @@
 +++
-title = "Lower Zig Zag 3ban Upper Base Base"
+title = "Lower Zig Zag 3 ban Upper Base Base"
 type = "parts"
 tags = [ "lzz3bubb", "vertical", "support" ]
 image = "https://b.robnugen.com/art/marble_track_3/track/parts/2019/2019_may_03_lzz_3_ban_upper_base_base_2.jpg"
