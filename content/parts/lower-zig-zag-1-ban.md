@@ -6,8 +6,10 @@ image = "https://b.robnugen.com/art/marble_track_3/construction/2018/2018_nov_08
 thumbnail = "https://b.robnugen.com/art/marble_track_3/construction/2018/thumbs/2018_nov_08_lower_zig_zag_ready_to_test.jpg"
 description = "Lowest track of the Lower Zig Zag"
 workers = [
-    "mr_mcglue",
-    "g_choppy"
+  "mr_mcglue",
+  "dr_sugar",
+  "mr_greene",
+  "autosticks"
 ]
 aliases = [
     "/p/lzz1b"
