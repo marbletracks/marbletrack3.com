@@ -17,13 +17,13 @@ Aliases = [
 date = 2018-09-21T17:38:54+09:00
 +++
 
-The Lower Zig Zag currently has a zig and a zag.  I had planned to make it have 3 or 4 zigs and zags, but there simply was not room to have that many back and forth tracks in the (original) vertical space.
+The Lower Zig Zag currently has a [zig](/parts/lower-zig-zag-2-ban/) and a [zag](/parts/lower-zig-zag-1-ban/).  I had planned to make it have 3 or 4 zigs and zags, but there simply was not room to have that many back and forth tracks in the (original) vertical space.
 
 But *above* the original space, there is more space.
 
 History:
 
-* May 2019: Now planning to make [Lower Zig Zag 3 ban](/p/lzz3b), a third bar for Lower Zig Zag.
+* May 2019: Now planning to make [Lower Zig Zag 3 ban](/parts/lower-zig-zag-3-ban/), a third bar (and another zag) for Lower Zig Zag.
 * 2018 Sep: planning the Lower Zig Zag:
 
 [![2018 sep 21 top view of future lower zig zag](//b.robnugen.com/art/marble_track_3/track/parts/thumbs/2018_sep_21_top_view_of_future_lower_zig_zag.jpg)](//b.robnugen.com/art/marble_track_3/track/parts/2018_sep_21_top_view_of_future_lower_zig_zag.jpg)

@@ -18,4 +18,4 @@ date = 2019-05-05T20:53:05+09:00
 
 History:
 
-* 2019 May 05: planned to be created by adding toothpicks to lzz3bubb 
+* 2019 May 05: planned to be created by adding toothpicks to [Lower Zig Zag 3 ban Upper Base Base](/parts/lower-zig-zag-3-ban-upper-base-base/) 
