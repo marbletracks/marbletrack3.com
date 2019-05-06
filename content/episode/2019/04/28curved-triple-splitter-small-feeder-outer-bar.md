@@ -9,14 +9,14 @@ date: 2019-04-28T08:39:41+09:00
 ---
 
 Today I finished curving the
-[Triple Splitter Small Feeder Outer Bar](/p/tssfob).
+[Triple Splitter Small Feeder Outer Bar](/parts/triple-splitter-small-feeder-outer-bar/).
 
 Mr Greene has cleared off the stage below the Lower Zig Zag, and is
 now carrying a stick which will be placed at the top of the
-[Triple Splitter Small Feeder](/p/tssf).
+[Triple Splitter Small Feeder](/parts/triple-splitter-small-feeder/).
 
 Pinky is pushing the Medium Blue Marble up the track toward the
-[Caret Splitter](/p/cs).
+[Caret Splitter](/parts/caret-splitter/).
 
 I added about a second worth of frames to the end of the video
 snippets.

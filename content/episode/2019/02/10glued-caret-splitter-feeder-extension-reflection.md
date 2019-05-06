@@ -24,7 +24,7 @@ chop, not easily seen in the movie because it is on the opposite side
 of the stage from the camera, and it takes less than a second to
 complete.  [Reversibly Guy](/w/rg) is holding the piece cut from the
 top of the [Ninth Placed Outer Spiral Support](/p/9poss), which he
-will soon take over to be the [Caret Splitter](/p/cs)'s
+will soon take over to be the [Caret Splitter](/parts/caret-splitter/)'s
 [Right Hand Inner Side](/p/csrhis), although he needs to move quickly
 as the stage is turning the Caret Splitter away from the camera.
 

@@ -22,9 +22,9 @@ come up the ramp with the [2nd Triple Splitter Small Feeder](/p/2tssf).  The
 Triple Splitter Small Feeders will be put in place vaguely soon,
 probably before the Outer Spiral is even really started.
 
-[Lil Brother](/w/lil) is spinning on the top of the [Triple Splitter](/p/ts).
+[Lil Brother](/w/lil) is spinning on the top of the [Triple Splitter](/parts/triple_splitter/).
 
 Mr Greene is testing the small orange marble on the
 [Lower Zig Zag](/parts/lower_zig_zag/), after just having put in place the
-[Lower Zig Zag Net](/p/lzzn) along with Dr Sugar.
+[Lower Zig Zag Net](/parts/lower_zig_zag_net/) along with Dr Sugar.
 

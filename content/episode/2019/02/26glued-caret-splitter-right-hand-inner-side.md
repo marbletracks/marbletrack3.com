@@ -30,7 +30,7 @@ Pinky has just teleported to the ramp to bring the new
 [Triple Splitter Small Feeder Inner Bar Lower Support](/p/tssfibls)
 which will go onto the
 [8th Placed Outer Spiral Support](/parts/008p_eighth-placed-outer-spiral-support/)
-and hold the [Triple Splitter Small Feeder Inner Bar](/p/tssfib)
+and hold the [Triple Splitter Small Feeder Inner Bar](/parts/triple-splitter-small-feeder-inner-bar/)
 
 Lil Brother is still spinning on the Triple Splitter.
 

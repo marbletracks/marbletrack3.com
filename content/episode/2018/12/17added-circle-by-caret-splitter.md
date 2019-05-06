@@ -9,7 +9,7 @@ date: 2018-12-17T13:14:17+09:00
 
 Today I got 7 frames taken in under 2 hours.  Not a lot, but I got two
 pieces glued, including another toothpick for the
-[Lower Zig Zag Net](/p/lzzn) and the newly named
+[Lower Zig Zag Net](/parts/lower_zig_zag_net/) and the newly named
 [Circle by the Caret Splitter](/p/cbtcs).
 
 The trickiest bits today dealt with toothpicks; they kept falling,

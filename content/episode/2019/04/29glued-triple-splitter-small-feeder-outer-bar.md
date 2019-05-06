@@ -9,13 +9,13 @@ date: 2019-04-28T15:24:51+09:00
 ---
 
 This was a relatively quick livestream in which I was just able to
-glue the [Triple Splitter Small Feeder Outer Bar](/p/tssfob) before I
+glue the [Triple Splitter Small Feeder Outer Bar](/parts/triple-splitter-small-feeder-outer-bar/) before I
 had to go.
 
 ##### 11:56 Monday 29 April 2019 JST
 
-The next day, I noticed the [outer bar](/p/tssfob) was glued a little bit higher
-than the [inner bar](/p/tssfib) on the
-[Triple Splitter Small Feeder](/p/tssf).  Small marbles still rolled
+The next day, I noticed the [outer bar](/parts/triple-splitter-small-feeder-outer-bar/) was glued a little bit higher
+than the [inner bar](/parts/triple-splitter-small-feeder-inner-bar/) on the
+[Triple Splitter Small Feeder](/parts/triple-splitter-small-feeder/).  Small marbles still rolled
 down it, but I figured it would be better if flatter so I took [a few
 minutes to explain the problem and fix it](https://www.youtube.com/watch?v=dHFbmVwOSZU).

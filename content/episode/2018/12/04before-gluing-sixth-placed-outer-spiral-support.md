@@ -12,7 +12,7 @@ got three (3) pieces glued:
 
 * the [Caret Splitter Feeder Extension](/p/csfe)
 * the [Fifth Placed Outer Spiral Support](/p/5poss)
-* one piece from the [Lower Zig Zag Net](/p/lzzn)
+* one piece from the [Lower Zig Zag Net](/parts/lower_zig_zag_net/)
 
 Here is the most recent snippet {{< youtube BxD8w0_8iew >}}
 

@@ -21,4 +21,4 @@ She was temporarily off the set after having a dizzy spell from being spun aroun
 
 Her two sons work on the set.
 
-She is currently helping install [Triple Splitter Small Feeder](/p/tssf).
+She is currently helping install [Triple Splitter Small Feeder](/parts/triple-splitter-small-feeder/).

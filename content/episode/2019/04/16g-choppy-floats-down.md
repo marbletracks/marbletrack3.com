@@ -10,7 +10,7 @@ date: 2019-04-16T16:57:04+09:00
 
 Another 1.5 hours of livestream (but my hour counter is currently
 broken, blarg) and got G Choppy to float down to the stage so he has
-easier access to curve the [Triple Splitter Small Feeder Inner Bar](/p/tssfib).  It
+easier access to curve the [Triple Splitter Small Feeder Inner Bar](/parts/triple-splitter-small-feeder-inner-bar/).  It
 has two breaks in it now, and will have three soon!
 
 Here is the latest vid, the last 14 frames of which were taken in the

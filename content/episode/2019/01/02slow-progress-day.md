@@ -24,6 +24,6 @@ different glue dry.
 
 [![2019 jan 02 waiting for lzzn 6 to dry](//b.robnugen.com/art/marble_track_3/construction/2019/thumbs/2019_jan_02_waiting_for_lzzn_6_to_dry.jpg)](//b.robnugen.com/art/marble_track_3/construction/2019/2019_jan_02_waiting_for_lzzn_6_to_dry.jpg)
 
-The sixth vertical toothpick in the [Lower Zig Zag Net](/p/lzzn) is
+The sixth vertical toothpick in the [Lower Zig Zag Net](/parts/lower_zig_zag_net/) is
 waiting for its glue to dry.  This toothpick is standing vertically
 held in place with a pipe cleaner twisted like a paperclip.

@@ -13,7 +13,7 @@ suspended in air for 6 frames, or 1/2 of a second of playback time,
 and [Reversible Guy](/w/rg) has just caught it.
 
 But the trickiest bit was at the back of the stage!  Trying to get the
-[Lower Zig Zag Net](/p/lzzn) in place required some patience to get
+[Lower Zig Zag Net](/parts/lower_zig_zag_net/) in place required some patience to get
 the pieces in place.  The space is quite small, and the pieces even
 smaller.  I've got little toothpicks moving around, trying to be glued
 from underneath the lowest bar of the [Lower Zig Zag](/parts/lower_zig_zag/)

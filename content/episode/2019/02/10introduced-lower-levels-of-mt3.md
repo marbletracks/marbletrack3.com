@@ -14,5 +14,5 @@ to introduce the track at its current state.
 highest tracks:
 
 * [Lower Zig Zag](/parts/lower_zig_zag/)
-* [Triple Splitter](/p/ts)
+* [Triple Splitter](/parts/triple_splitter/)
 * [Caret Splitter Feeder Extension Reflection](/p/csfer)

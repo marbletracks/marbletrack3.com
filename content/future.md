@@ -2,16 +2,16 @@
 Title: "Future plans"
 ---
 
-### 　● [Triple Splitter](/p/ts)
+### 　● [Triple Splitter](/parts/triple_splitter/)
 
-The bars of the [Triple Splitter](/p/ts) sort the marbles correctly, but I still need to:
+The bars of the [Triple Splitter](/parts/triple_splitter/) sort the marbles correctly, but I still need to:
 
 * make enough space for the small marbles to pass under the bar and down the [Little Wiggly Track](/p/lwt).
 * make a track to catch the medium marbles when they fall through the triple splitter.
 
 ### 　● [Outer Spiral](/parts/outer_spiral/)
 
-Feeding into the [Triple Splitter](/p/ts), the [Outer Spiral](/parts/outer_spiral/) will circumnavigate the entire track.  Large and medium marbles will roll around the entire track in a clockwise motion (as seen from the top), and small marbles will feed into the triple splitter from the other direction, though I don't know exactly how far around the track they will go.
+Feeding into the [Triple Splitter](/parts/triple_splitter/), the [Outer Spiral](/parts/outer_spiral/) will circumnavigate the entire track.  Large and medium marbles will roll around the entire track in a clockwise motion (as seen from the top), and small marbles will feed into the triple splitter from the other direction, though I don't know exactly how far around the track they will go.
 
 One idea I just now had is to allow the small marbles to circumnavigate the track on an inner loop, going the opposite direction.
 

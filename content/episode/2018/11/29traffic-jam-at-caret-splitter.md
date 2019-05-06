@@ -19,7 +19,7 @@ the Caret Extension while Reversible, G Choppy, and Mr McGlue  are
 working on the [Fifth Placed Outer Spiral Support](/p/5poss).
 
 In the back of the set, I bent two toothpicks which will be part of
-what I am calling [Lower Zig Zag Net](/p/lzzn), though it does not
+what I am calling [Lower Zig Zag Net](/parts/lower_zig_zag_net/), though it does not
 exist yet.
 
 [![2018 nov 29 making lower zig zag net](//b.robnugen.com/art/marble_track_3/track/parts/thumbs/2018_nov_29_making_lower_zig_zag_net.jpg)](//b.robnugen.com/art/marble_track_3/track/parts/2018_nov_29_making_lower_zig_zag_net.jpg)

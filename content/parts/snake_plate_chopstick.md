@@ -15,4 +15,4 @@ Aliases = [
 date = 2018-11-15T10:23:59+09:00
 +++
 
-Though it has a short name, this is a short stick with limited value.  It is part of the entrance to the Snake Plate U-Turn, but the [Triple Splitter](/p/ts) does most of the work.
+Though it has a short name, this is a short stick with limited value.  It is part of the entrance to the Snake Plate U-Turn, but the [Triple Splitter](/parts/triple_splitter/) does most of the work.

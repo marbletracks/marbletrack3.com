@@ -18,7 +18,7 @@ date = 2018-12-20T17:49:46+09:00
 
 [![2018 Dec 20 medium catcher below triple splitter overview](//b.robnugen.com/art/marble_track_3/construction/2018/thumbs/2018_Dec_20_medium_catcher_below_triple_splitter_overview.jpg)](//b.robnugen.com/art/marble_track_3/construction/2018/2018_Dec_20_medium_catcher_below_triple_splitter_overview.jpg)
 
-The Medium Catcher Below [Triple Splitter](/p/ts) is an oval which
+The Medium Catcher Below [Triple Splitter](/parts/triple_splitter/) is an oval which
 guides medium marbles toward the
 [Back Right Medium Landing Zone](/p/brmlz).
 

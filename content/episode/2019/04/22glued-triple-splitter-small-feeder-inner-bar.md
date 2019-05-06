@@ -9,7 +9,7 @@ date: 2019-04-22T21:54:46+09:00
 ---
 
 In just a bit over an hour, I got the
-[Triple Splitter Small Feeder Inner Bar](/p/tssfib) moved and glued in
+[Triple Splitter Small Feeder Inner Bar](/parts/triple-splitter-small-feeder-inner-bar/) moved and glued in
 place.  During this time, [Big Brother](/w/big) pushed the large red
 marble into the snakes, which has set them into motion.  Backpack Jack
 is bringing the
@@ -19,7 +19,7 @@ the ramp, and Mr Greene is clearing the landing zone below the
 
 I turned off the livestream once I glued the tssfib in place, and then
 realized I could get a jump start on next livestream by bending and
-gluing the [Triple Splitter Small Feeder Outer Bar](/p/tssfob).
+gluing the [Triple Splitter Small Feeder Outer Bar](/parts/triple-splitter-small-feeder-outer-bar/).
 [So I glued Triple Splitter Small Feeder Outer Bar in 11 minutes](https://www.youtube.com/watch?v=JgJBAhSNFPo)
 
 Frames from today:
@@ -31,4 +31,3 @@ Frames from today:
 [![00010 002 10 X1 0502](//b.robnugen.com/art/marble_track_3/frames/2019/thumbs/00010_002_10_X1_0502.jpg)](//b.robnugen.com/art/marble_track_3/frames/2019/00010_002_10_X1_0502.jpg)
 [![00010 002 10 X1 0503](//b.robnugen.com/art/marble_track_3/frames/2019/thumbs/00010_002_10_X1_0503.jpg)](//b.robnugen.com/art/marble_track_3/frames/2019/00010_002_10_X1_0503.jpg)
 [![00010 002 10 X1 0504](//b.robnugen.com/art/marble_track_3/frames/2019/thumbs/00010_002_10_X1_0504.jpg)](//b.robnugen.com/art/marble_track_3/frames/2019/00010_002_10_X1_0504.jpg)
-

@@ -18,7 +18,7 @@ date = 2019-02-10T21:34:06+09:00
 
 The Caret Splitter Right Hand Inner Side should keep small marbles on
 track once they eventually can use the right hand side of the
-[Caret Splitter](/p/cs).  The plan is to use the [Caret Splitter Rudder](/p/csr) to push the pieces
+[Caret Splitter](/parts/caret-splitter/).  The plan is to use the [Caret Splitter Rudder](/p/csr) to push the pieces
 towa... oh that won't work well UNLESS the medium marbles push the
 rudder and ensure they themselves will only go down the track IFF the
 rudder is pushed toward the right, to send them down toward the left.
@@ -36,7 +36,7 @@ History:
 [![2019 feb 22 rg brings csrhis 20](//b.robnugen.com/art/marble_track_3/track/parts/2019/thumbs/2019_feb_22_rg_brings_csrhis_20.jpg)](//b.robnugen.com/art/marble_track_3/track/parts/2019/2019_feb_22_rg_brings_csrhis_20.jpg)
 
 * 2019 Feb 10: Decided to be a piece which would go on the right hand
-  side of the [Caret Splitter](/p/cs)
+  side of the [Caret Splitter](/parts/caret-splitter/)
 
 * 2019 Feb 09: Held by [Reversible Guy](/w/rg) after [G. Choppy](/workers/g_choppy/)
   cut it from the top of the

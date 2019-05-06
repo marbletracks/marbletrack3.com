@@ -16,12 +16,12 @@ future self:
   (finished as of this entry)
 * [Pinky](/w/pink) bring chopstick to [Reversible Guy](/w/rg)
 * [Reversible Guy](/w/rg) get chopstick from [Pinky](/w/pinky) (to be used as Outer Spiral Supports)
-* Autosticks move into place for [Lower Zig Zag Net](/p/lzzn)
+* Autosticks move into place for [Lower Zig Zag Net](/parts/lower_zig_zag_net/)
 * [G-Choppy](/w/gc) cut other autosticks on [Caret Splitter Feeder Extension](/p/csfe)
-* [Mr Greene](/w/mg) test [Lower Zig Zag Net](/p/lzzn) with small marble
+* [Mr Greene](/w/mg) test [Lower Zig Zag Net](/parts/lower_zig_zag_net/) with small marble
 * [Big Brother](/w/big) push medium green marble up U-turns to test Triple Splitter
 * [Squarehead](/w/square) install [guides](/p/tecots) on [Medium Catcher Below Triple Splitter](/p/mcbts)
 
 I took seven frames today, all of which seem good to be used in the final video.  Funny thing: [Pinky](/w/pinky) was off screen for just two frames and magically appeared on the other side of the set with a chopstick.  I did that with the hopes that [G-Choppy](/w/gc) can cut the [7th Placed Outer Spiral Support](/parts/007p_seventh-placed-outer-spiral-support/) while that side of the stage is in view.
 
-The [7th Placed Outer Spiral Support](/parts/007p_seventh-placed-outer-spiral-support/) will support the [Triple Splitter Small Feeder](/p/tssf).
+The [7th Placed Outer Spiral Support](/parts/007p_seventh-placed-outer-spiral-support/) will support the [Triple Splitter Small Feeder](/parts/triple-splitter-small-feeder/).

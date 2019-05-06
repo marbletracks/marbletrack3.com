@@ -15,8 +15,8 @@ the way.
 
 [G. Choppy](/workers/g_choppy/) is suspended above the track about to fly over to
 that area to help curve the
-[Triple Splitter Small Feeder Inner Bar](/p/tssfib), and maybe the
-[Triple Splitter Small Feeder Outer Bar](/p/tssfob).
+[Triple Splitter Small Feeder Inner Bar](/parts/triple-splitter-small-feeder-inner-bar/), and maybe the
+[Triple Splitter Small Feeder Outer Bar](/parts/triple-splitter-small-feeder-outer-bar/).
 
 
 Here are the frames from today.

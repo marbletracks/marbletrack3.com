@@ -12,7 +12,7 @@ I glued two more toothpicks on the [Lower Zig Zag](/lzz) today.
 find it fails, but will hopefully get it to work by the time the Lower
 Zig Zag comes around to the front of the scene again.
 
-[Pinky](/w/pink) will push the medium marble up the ramp above the [Caret Splitter](/p/cs)
+[Pinky](/w/pink) will push the medium marble up the ramp above the [Caret Splitter](/parts/caret-splitter/)
 to test, and will find that the medium marble works perfectly, because
 it does.`(*)`  In real life. Perfectly, every time.
 

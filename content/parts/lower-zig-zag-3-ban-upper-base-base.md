@@ -15,7 +15,7 @@ aliases = [
 date = 2019-05-03T16:16:46+09:00
 +++
 
-These are two toothpics that make up the [Lower Zig Zag Net](/p/lzzn),
+These are two toothpics that make up the [Lower Zig Zag Net](/parts/lower_zig_zag_net/),
 which was put in place to catch small marbles as they fall from the
 (newly named) [Lower Zig Zag 2ban](/p/lzz2b) to [Lower Zig Zag 1ban](/p/lzz1b)
 
