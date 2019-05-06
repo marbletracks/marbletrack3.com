@@ -13,7 +13,7 @@ Today I took 11 frames.  I wanted to get a frame after gluing the
 get it to stay in place without moving the stage and characters out of
 the way.
 
-[G Choppy](/w/gc) is suspended above the track about to fly over to
+[G. Choppy](/workers/g_choppy/) is suspended above the track about to fly over to
 that area to help curve the
 [Triple Splitter Small Feeder Inner Bar](/p/tssfib), and maybe the
 [Triple Splitter Small Feeder Outer Bar](/p/tssfob).

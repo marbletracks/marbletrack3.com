@@ -16,7 +16,7 @@ The trickiest bits today dealt with toothpicks; they kept falling,
 repeatedly, and were a general nuisance to deal with.
 
 Right now, the demo outer spiral is on the track so I can figure out
-where to place the [Sixth Placed Outer Spiral Support](/p/6poss), but
+where to place the [Sixth Placed Outer Spiral Support](/parts/006p_sixth_placed_outer_spiral_support/), but
 it has not been placed yet.  I plan to put it at an angle from the
 stage just inside the [Left Side Small Landing Zone](/p/lsslz).
 

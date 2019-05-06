@@ -22,6 +22,6 @@ future self:
 * [Big Brother](/w/big) push medium green marble up U-turns to test Triple Splitter
 * [Squarehead](/w/square) install [guides](/p/tecots) on [Medium Catcher Below Triple Splitter](/p/mcbts)
 
-I took seven frames today, all of which seem good to be used in the final video.  Funny thing: [Pinky](/w/pinky) was off screen for just two frames and magically appeared on the other side of the set with a chopstick.  I did that with the hopes that [G-Choppy](/w/gc) can cut the [7th Placed Outer Spiral Support](/p/7poss) while that side of the stage is in view.
+I took seven frames today, all of which seem good to be used in the final video.  Funny thing: [Pinky](/w/pinky) was off screen for just two frames and magically appeared on the other side of the set with a chopstick.  I did that with the hopes that [G-Choppy](/w/gc) can cut the [7th Placed Outer Spiral Support](/parts/007p_seventh-placed-outer-spiral-support/) while that side of the stage is in view.
 
-The [7th Placed Outer Spiral Support](/p/7poss) will support the [Triple Splitter Small Feeder](/p/tssf).
+The [7th Placed Outer Spiral Support](/parts/007p_seventh-placed-outer-spiral-support/) will support the [Triple Splitter Small Feeder](/p/tssf).

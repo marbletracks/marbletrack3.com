@@ -18,7 +18,7 @@ the top of the
 [Caret Splitter Feeder Extension Reflection Stanchion](/p/csfers) and
 floated in midair for perhaps too long until he could grab it.
 
-[G Choppy](/w/gc) has cut the
+[G. Choppy](/workers/g_choppy/) has cut the
 [Ninth Placed Outer Spiral Support](/p/9poss) with his first backswing
 chop, not easily seen in the movie because it is on the opposite side
 of the stage from the camera, and it takes less than a second to

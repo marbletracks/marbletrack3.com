@@ -25,6 +25,6 @@ probably before the Outer Spiral is even really started.
 [Lil Brother](/w/lil) is spinning on the top of the [Triple Splitter](/p/ts).
 
 Mr Greene is testing the small orange marble on the
-[Lower Zig Zag](/p/lzz), after just having put in place the
+[Lower Zig Zag](/parts/lower_zig_zag/), after just having put in place the
 [Lower Zig Zag Net](/p/lzzn) along with Dr Sugar.
 

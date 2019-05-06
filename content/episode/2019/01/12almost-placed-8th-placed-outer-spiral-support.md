@@ -9,7 +9,7 @@ date: 2019-01-12T12:57:35+09:00
 ---
 
 I took some time to measure the length and positions of
-[8poss](/p/8poss) and [csfers](/p/csfers) by putting the [os](/p/os)
+[8poss](/p/8poss) and [csfers](/p/csfers) by putting the [os](/parts/outer_spiral/)
 on the track to make sure it would all work.
 
 [![2019 jan 12 measuring pieces](//b.robnugen.com/art/marble_track_3/construction/2019/thumbs/2019_jan_12_measuring_pieces.jpg)](//b.robnugen.com/art/marble_track_3/construction/2019/2019_jan_12_measuring_pieces.jpg)

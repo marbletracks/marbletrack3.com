@@ -15,7 +15,7 @@ marble into the snakes, which has set them into motion.  Backpack Jack
 is bringing the
 [Triple Splitter Small Feeder Outer Bar Lower Support](/p/tssfobls) up
 the ramp, and Mr Greene is clearing the landing zone below the
-[Lower Zig Zag](/p/lzz).
+[Lower Zig Zag](/parts/lower_zig_zag/).
 
 I turned off the livestream once I glued the tssfib in place, and then
 realized I could get a jump start on next livestream by bending and

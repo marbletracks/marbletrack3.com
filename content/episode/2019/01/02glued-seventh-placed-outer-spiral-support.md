@@ -10,7 +10,7 @@ date: 2019-01-02T22:26:10+09:00
 
 After some false starts, I got a decent amount of work done today.
 Primarily, I cut and glued the
-[Seventh Placed Outer Spiral Support](/p/7poss).  Secondarily, I
+[Seventh Placed Outer Spiral Support](/parts/007p_seventh-placed-outer-spiral-support/).  Secondarily, I
 planned what [Backpack Jack](/w/bpj) will do next: get the support for
 the [Caret Splitter Feeder Extension Reflection](/p/csfer), which will
 be installed by [Squarehead](/w/square) soon.

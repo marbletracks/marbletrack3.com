@@ -17,7 +17,7 @@ the [Little Wiggly Track](/p/lwt/) and finally to the
 [Right Side Small Landing Zone](/p/rsslz).
 
 They worked perfectly! (So long as someone ([Mr McGlue](/w/mmg)) stood
-where the lower end of [The Outer Spiral](/p/os) will be, allowing the
+where the lower end of [The Outer Spiral](/parts/outer_spiral/) will be, allowing the
 marbles to bounce off him and remain between the rails of the
 [Triple Splitter](/p/ts).)
 

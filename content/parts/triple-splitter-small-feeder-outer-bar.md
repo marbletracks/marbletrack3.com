@@ -17,9 +17,9 @@ aliases = [
 date = 2019-01-30T21:30:59+09:00
 +++
 
-This is the second half of the [Triple Splitter Small Feeder](/p/tssf),
+This is the second half of the [Triple Splitter Small Feeder](/parts/triple-splitter-small-feeder/),
 which will feed small marbles into the top of the
-[Triple Splitter](/p/ts).
+[Triple Splitter](/parts/triple_splitter/).
 
 History:
 

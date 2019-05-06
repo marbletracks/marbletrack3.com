@@ -13,7 +13,7 @@ He is about the same size as Dr Sugar, so maybe they can be partners
 of a sort.  Is Mr Greene a nurse?  Is Dr Sugar a woman?
 
 Right at the moment, Mr Greene is climbing up onto the stage to help
-Dr Sugar put together the [Lower Zig Zag](/p/lzz), but I am super
+Dr Sugar put together the [Lower Zig Zag](/parts/lower_zig_zag/), but I am super
 pressed for time if I want to get anything done before the stage
 rotates around again.  I guess they will be working on it for a full
 rotation.

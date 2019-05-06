@@ -19,7 +19,7 @@ Splitter Small Feeder](/p/tssf).
 Candy Mama is on her way to pick it up from him, but first she has to
 go around the end of the Triple Splitter, not because she is not
 ghostable as needed, but because the
-[Seventh Placed Outer Spiral Support](/p/7poss) does not yet exist.
+[Seventh Placed Outer Spiral Support](/parts/007p_seventh-placed-outer-spiral-support/) does not yet exist.
 It is going to hold the top end of the [Triple
 Splitter Small Feeder](/p/tssf) as well as the 20th-or-so segment of
 the outer spiral (once it exists).

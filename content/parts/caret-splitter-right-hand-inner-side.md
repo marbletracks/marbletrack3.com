@@ -38,7 +38,7 @@ History:
 * 2019 Feb 10: Decided to be a piece which would go on the right hand
   side of the [Caret Splitter](/p/cs)
 
-* 2019 Feb 09: Held by [Reversible Guy](/w/rg) after [G Choppy](/w/gc)
+* 2019 Feb 09: Held by [Reversible Guy](/w/rg) after [G. Choppy](/workers/g_choppy/)
   cut it from the top of the
   [Ninth Placed Outer Spiral Support](/p/9poss)
 

@@ -16,9 +16,9 @@ Zig Zag comes around to the front of the scene again.
 to test, and will find that the medium marble works perfectly, because
 it does.`(*)`  In real life. Perfectly, every time.
 
-[G Choppy](/w/gc) has his sword raised, poised to cut the chopped chopstick that
+[G. Choppy](/workers/g_choppy/) has his sword raised, poised to cut the chopped chopstick that
 [Reversible Guy](/w/rg) placed haphazardly in what turns out to be *exactly the
-right spot* for the [Outer Spiral](/p/os).  This will be the third support for
+right spot* for the [Outer Spiral](/parts/outer_spiral/).  This will be the third support for
 the outer spiral.  After cutting this one, G Choppy will cut the stick
 [Mr Greene](/w/mg) has just swung around, lifting Square Head up from being
 pulled around the track.

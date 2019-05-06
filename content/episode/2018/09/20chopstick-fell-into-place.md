@@ -12,8 +12,8 @@ scene.
 
 Here is the latest version of the sixth snippet.  The last few frames
 show a chopstick falling out of the sky.  The chopstick is not yet
-fixed in place, but once [G Choppy](/w/gc) cuts it, I will glue it into
-place as a support for the [Outer Spiral](/p/os).
+fixed in place, but once [G. Choppy](/workers/g_choppy/) cuts it, I will glue it into
+place as a support for the [Outer Spiral](/parts/outer_spiral/).
 
 {{< youtube 9iMiziOs6lU >}}
 

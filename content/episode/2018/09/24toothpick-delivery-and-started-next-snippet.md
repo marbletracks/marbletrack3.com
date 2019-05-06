@@ -9,7 +9,7 @@ date: 2018-09-24T15:31:25+09:00
 
 Today was split into two livestreams, though both were quite short.  I
 got a piece glued behind the Caret Split, and had toothpicks delivered
-by Mr Shikatama for use in the [Lower Zig Zag](/p/lzz)
+by Mr Shikatama for use in the [Lower Zig Zag](/parts/lower_zig_zag/)
 
 Here is Toothpick Delivery, the longest version of the sixth snippet
 in the original silent mt3s.robnugen.com playlist.

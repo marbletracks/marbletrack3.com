@@ -15,7 +15,7 @@ it will continue to work as a support.
 
 In order to save a lot of time, I have decided to allow toothpics to
 move themselves.  I need at least two toothpicks to hold the lower end
-of the second-to-bottom track on the [Lower Zig Zag](/p/lzz), but
+of the second-to-bottom track on the [Lower Zig Zag](/parts/lower_zig_zag/), but
 there are no characters nearby the cache of toothpicks.  I want to get
 a good deal of the Lower Zig Zag built during this current pass in
 front of the camera, so allowing the toothpicks to move will save time

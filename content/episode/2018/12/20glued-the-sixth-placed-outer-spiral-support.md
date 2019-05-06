@@ -7,7 +7,7 @@ episode_image: https://b.robnugen.com/art/marble_track_3/construction/2018/2018_
 date: 2018-12-20T12:33:11+09:00
 ---
 
-Today G Choppy cut the [Sixth Placed Outer Spiral Support](/p/6poss) which will soon glued by Mr McGlue.  On the other side of the track, Lil Brother is holding the
+Today G Choppy cut the [Sixth Placed Outer Spiral Support](/parts/006p_sixth_placed_outer_spiral_support/) which will soon glued by Mr McGlue.  On the other side of the track, Lil Brother is holding the
 [Medium Catcher below Triple Splitter](/p/mcbts) until Mr McGlue can glue *it* as well.
 
 Of the frames taken today, I think two had to be deleted.

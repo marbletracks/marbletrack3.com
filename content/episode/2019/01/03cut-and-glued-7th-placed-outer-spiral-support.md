@@ -10,6 +10,6 @@ date: 2019-01-03T18:22:06+09:00
 
 Pretty good progress today, with over 1 second worth of video frames
 taken.  I got stuck near the end because several characters were all
-converged around the [7th Placed Outer Spiral Support](/p/7poss) which
+converged around the [7th Placed Outer Spiral Support](/parts/007p_seventh-placed-outer-spiral-support/) which
 has now been cut, and the traffic jam is soon to be untangled.
 

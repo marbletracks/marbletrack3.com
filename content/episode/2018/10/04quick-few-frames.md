@@ -15,7 +15,7 @@ After testing the ILG4CS, I had enough time to take a few frames,
 which I posted below.
 
 The unnamed white guy with green head has just delivered short
-popsicle sticks(*) which will be used in the [Lower Zig Zag](/p/lzz).
+popsicle sticks(*) which will be used in the [Lower Zig Zag](/parts/lower_zig_zag/).
 I think I will make him ghostable.  He will be working with Dr Sugar,
 who is apparently *not* ghostable, so it will be a good combination to
 have their differing styles of motion working together.

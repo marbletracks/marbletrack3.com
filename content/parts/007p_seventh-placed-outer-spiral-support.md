@@ -11,7 +11,7 @@ workers = [
     "mr_greene"
 ]
 aliases = [
-    "/p/7poss"
+    "/parts/007p_seventh-placed-outer-spiral-support/"
 ]
 date = 2018-12-27T18:42:08+09:00
 +++

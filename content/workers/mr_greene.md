@@ -13,6 +13,6 @@ Aliases = [
 
 Mr Greene was recently named after a dot on a drawing I gave Chris a couple years ago.
 
-He is currently testing the small marble on the [Lower Zig Zag](/p/lzz).
+He is currently testing the small marble on the [Lower Zig Zag](/parts/lower_zig_zag/).
 
 [![29 oct 2018 mr greene holding lower zig zag](//b.robnugen.com/art/marble_track_3/construction/2018/thumbs/29_oct_2018_mr_greene_holding_lower_zig_zag.jpg)](//b.robnugen.com/art/marble_track_3/construction/2018/29_oct_2018_mr_greene_holding_lower_zig_zag.jpg)

@@ -9,7 +9,7 @@ date: 2018-11-07T10:06:31+09:00
 
 Today before lunch I did
 [a livestream](https://www.youtube.com/watch?v=0tzMgVT_6oY) in which
-toothpicks moved themselves up toward the [Lower Zig Zag](/p/lzz), where
+toothpicks moved themselves up toward the [Lower Zig Zag](/parts/lower_zig_zag/), where
 they will be rails on the second level of the Zig Zag, while the two
 toothpicks which had been so fiddly before were cut by [G-Choppy](/w/gc)
 and glued into place (by me, not yet by [Mr McGlue](/w/mmg)).
