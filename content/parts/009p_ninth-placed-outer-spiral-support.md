@@ -16,13 +16,13 @@ aliases = [
 date = 2019-02-05T13:41:41+09:00
 +++
 
-This is a support for the outer spiral, placed on the track by Pinky's
+This is a support for the outer spiral, placed on the track by [Pinky](/workers/pinky/)'s
 [Decorative Wall](/p/dwatlsms)
 
 The piece cut from the top of the Ninth Placed Outer Spiral Support
-will be used as the [Caret Splitter Right Hand Inner Side](/p/csrhis).
+will be used as the [Caret Splitter Right Hand Inner Side](/parts/caret-splitter-right-hand-inner-side/).
 
 History:
 
-* 2019 Feb 05: Cut with a backswing by G Choppy
-* 2019 Feb: Held in place by Reversible Guy
+* 2019 Feb 05: Cut with a backswing by [G. Choppy](/workers/g_choppy/)
+* 2019 Feb: Held in place by [Reversible Guy](/workers/reversible/)

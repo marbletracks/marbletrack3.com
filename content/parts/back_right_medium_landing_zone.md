@@ -14,8 +14,8 @@ Aliases = [
 date = 2018-11-15T14:06:52+09:00
 +++
 
-This landing zone balances the Front Left Medium Landing Zone, and
-will eventually be fed by the Triple Splitter.  It has a toothpick
+This landing zone balances the [Front Left Medium Landing Zone](/parts/front_left_medium_landing_zone/), and
+will eventually be fed by the [Triple Splitter](/parts/triple_splitter/).  It has a toothpick
 placed at an angle to keep marbles from rolling back once they arrive
 at the end.
 
@@ -25,6 +25,6 @@ at the end.
 
 #### Construction history
 
-* 01 Jan 2019: [Dr Sugar](/w/ds) has placed the first (of two?) [Guides into Back Right Medium Landing Zone](/p/gibrmlz).
-* 20 Dec 2018: [Little Brother](/w/lil) is holding [Medium Catcher Below Triple Splitter](/p/mcbts) until Mr McGlue can glue it in place.
-* 15 Nov 2018: this landing zone is not yet connected to the Triple Spliter.  That's somewhat of a problem because the [Lower Zig Zag](/p/lzz) makes it hard to put anything under the Triple Splitter, much less a medium track.  Good thing it only needs to be short and straight.
+* 01 Jan 2019: [Doctor Sugar](/workers/dr_sugar/) has placed the first (of two?) [Guides into Back Right Medium Landing Zone](/parts/guides-into-back-right-medium-landing-zone/).
+* 20 Dec 2018: [Little Brother](/workers/lil_brother/) is holding [Medium Catcher Below Triple Splitter](/parts/medium-catcher-below-triple-splitter/) until Mr McGlue can glue it in place.
+* 15 Nov 2018: this landing zone is not yet connected to the Triple Spliter.  That's somewhat of a problem because the [Lower Zig Zag](/parts/lower_zig_zag/) makes it hard to put anything under the Triple Splitter, much less a medium track.  Good thing it only needs to be short and straight.

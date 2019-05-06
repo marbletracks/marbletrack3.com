@@ -16,9 +16,9 @@ aliases = [
 date = 2019-01-13T02:12:32+09:00
 +++
 
-This piece will support the [Triple Splitter Small Feeder](/p/tssf).
+This piece will support the [Triple Splitter Small Feeder](/parts/triple-splitter-small-feeder/).
 
 History:
 
-* 2019 Jan 14: cut by G Choppy
-* 2019 Jan 13: almost placed by Reversible Guy
+* 2019 Jan 14: cut by [G. Choppy](/workers/g_choppy/)
+* 2019 Jan 13: almost placed by [Reversible Guy](/workers/reversible/)

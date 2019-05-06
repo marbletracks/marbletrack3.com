@@ -19,6 +19,6 @@ This piece stands at an angle from just inside the [Left Side Small Landing Zone
 
 History:
 
-* 20 Dec 2018: G Choppy cut the piece which will soon be glued in place by Mr McGlue
-* 17 Dec 2018: decided to put it just inside the [Left Side Small Landing Zone](/p/lsslz)
-* 04 Dec 2018: miscounted the [5th placed outer spiral support](/p/5poss) as this one
+* 20 Dec 2018: [G. Choppy](/workers/g_choppy/) cut the piece which will soon be glued in place by [Mr McGlue](/workers/mr_mcglue/)
+* 17 Dec 2018: decided to put it just inside the [Left Side Small Landing Zone](/parts/left_side_small_landing_zone/)
+* 04 Dec 2018: miscounted the [Fifth Placed Outer Spiral Support](/parts/005p_fifth_placed_outer_spiral_support/) as this one

@@ -4,7 +4,8 @@ date = "2017-08-01T09:12:39-05:00"
 Type = "workers"
 Weight = 0050
 Aliases = [
-    "/w/spoon/"
+    "/w/spoon/",
+    "/w/sup/"
 ]
 Thumbnail = "https://b.robnugen.com/art/marble_track_3/workers/2018/thumbs/super_spoony.jpg"
 Image = "https://b.robnugen.com/art/marble_track_3/workers/2018/super_spoony.jpg"

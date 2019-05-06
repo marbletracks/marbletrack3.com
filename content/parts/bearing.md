@@ -16,7 +16,7 @@ date = 2018-09-21T17:38:54+09:00
 
 The bearing is actually just a convenience for me, but has become a somewhat important part of the movie of the Marble Track 3 construction.
 
-The first time I tried to create a stop motion animation of a marble track, I had no way to easily reach the back side of the track, which made it difficult to manipulate things without it being obvious that things had moved.
+The first time I tried to create a stop motion animation of the construction of a marble track, I had no way to easily reach the back side of the track, which made it difficult to manipulate things without it being obvious that (other) things had moved.
 
 With the bearing, it's not just obvious that things moved, it's usually required that the stage moves each frame!
 
