@@ -15,4 +15,4 @@ Aliases = [
 date = 2018-11-15T10:23:59+09:00
 +++
 
-This landing zone balances the Back Right Medium Landing Zone, and will soon be fed by the Caret Splitter.
+This landing zone balances the [Back Right Medium Landing Zone](/parts/back_right_medium_landing_zone/), and will soon be fed by the [Caret Splitter](/parts/caret-splitter/).

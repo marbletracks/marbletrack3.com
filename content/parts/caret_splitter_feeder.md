@@ -15,10 +15,10 @@ Aliases = [
 date = 2018-11-17T15:33:21+09:00
 +++
 
-The Caret Splitter Feeder sends small and medium marbles to the [Caret Splitter](/p/cs).
+The Caret Splitter Feeder sends small and medium marbles to the [[Caret Splitter](/parts/caret-splitter/).
 
-In the future, it will extend back to the [Outer Spiral](/p/os) via [Caret Splitter Feeder Extension](/p/csfe).
+In the future, it will extend back to the [Outer Spiral](/parts/outer_spiral/) via [Caret Splitter Feeder Extension](/parts/caret_splitter_feeder_extension/).
 
 History:
 
-* 2018 Dec: successfully tested by Pinky using the blue medium marble
+* 2018 Dec: successfully tested by [Pinky](/workers/pinky/) using the blue medium marble

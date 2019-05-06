@@ -15,17 +15,17 @@ Aliases = [
 date = 2018-11-09T21:37:34+09:00
 +++
 
-The Caret Splitter sits opposite the (top of the) [Triple Splitter](/p/ts).  It is the small section of track which spans the end of the medium marble resting point which does *not* involve the [Triple Splitter](/p/ts).  I named it Caret Splitter because it is shaped like vaguely like a caret ^.  It is actually shaped more like the Japanese character へ, when viewed from the direction the marbles will reach it.
+The Caret Splitter sits opposite the (top of the) [Triple Splitter](/parts/triple_splitter/).  It is the small section of track which spans the end of the medium marble resting point which does *not* involve the [Triple Splitter](/parts/triple_splitter/).  I named it Caret Splitter because it is shaped like vaguely like a caret ^.  It is actually shaped more like the Japanese character へ, when viewed from the direction the marbles will reach it.
 
 #### Construction History
 
-* February? 2019: Will be augmented with [Caret Splitter Right Hand Inner Side](/p/csrhis).
+* February? 2019: Will be augmented with [Caret Splitter Right Hand Inner Side](/parts/caret-splitter-right-hand-inner-side/).
 
-* 22 Feb 2019 [Reversible Guy](/w/rg) brought [Caret Splitter Right Hand Inner Side](/p/csrhis) to Caret Splitter Right Track
+* 22 Feb 2019 [Reversible Guy](/w/rg) brought [Caret Splitter Right Hand Inner Side](/parts/caret-splitter-right-hand-inner-side/) to Caret Splitter Right Track
 
 [![2019 feb 22 rg brings csrhis 21](//b.robnugen.com/art/marble_track_3/track/parts/2019/thumbs/2019_feb_22_rg_brings_csrhis_21.jpg)](//b.robnugen.com/art/marble_track_3/track/parts/2019/2019_feb_22_rg_brings_csrhis_21.jpg)
 
-* 25 Dec 2018: Added [Bar Below Circle by Caret Splitter](/p/bbcbcs) which will keep small marbles on track.
+* 25 Dec 2018: Added [Bar Below Circle by Caret Splitter](/parts/bar_below_circle_by_the_caret_splitter/) which will keep small marbles on track.
 * 17 Dec 2018: Added [Circle by Caret Splitter](/parts/circle_by_the_caret_splitter/) which will hold a bar to keep small marbles on track.
 * Nov 2018: The medium marbles work perfectly (~100% of the time), but [the small marbles work 0% of the time](/episode/2018/november/glued-two-more-toothpicks-on-lower-zig-zag/).  If the small marbles hit the left side, they fall willy nilly.  If they hit the right side, they get stuck.
 
