@@ -23,7 +23,7 @@ This piece fell from the sky into [Reversible Guy](/workers/reversible/)'s hand 
 
 [![00010 002 09 X1 1608](//b.robnugen.com/art/marble_track_3/frames/2018/thumbs/00010_002_09_X1_1608.jpg)](//b.robnugen.com/art/marble_track_3/frames/2018/00010_002_09_X1_1608.jpg)
 
-* 21 Sept 2018 [[G. Choppy](/workers/g_choppy/) cut the chopstick
+* 21 Sept 2018 [[G Choppy](/workers/g_choppy/) cut the chopstick
 
 [![00010 002 09 X1 1624](//b.robnugen.com/art/marble_track_3/frames/2018/thumbs/00010_002_09_X1_1624.jpg)](//b.robnugen.com/art/marble_track_3/frames/2018/00010_002_09_X1_1624.jpg)
 

@@ -17,7 +17,7 @@ Title: "後の予定"
 
 <!-- One idea I just now had is to allow the small marbles to circumnavigate the track on an inner loop, going the opposite direction. -->
 
-Right now [くるりん](/w/rg) is in the process of adding the first support that will hold up the Outer Spiral.
+Right now [くるりん](/workers/reversible/) is in the process of adding the first support that will hold up the Outer Spiral.
 
 Though the stand-in Outer Spiral is a polygon of sorts, I plan to make the real spiral smoother somehow.
 

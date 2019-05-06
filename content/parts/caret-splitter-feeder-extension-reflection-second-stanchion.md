@@ -16,6 +16,7 @@ aliases = [
 date = 2019-02-26T14:47:20+09:00
 +++
 
+[Backpack Jack](/workers/backpack_jack/) carried this and patiently held it until it could be glued by [Mr McGlue](/workers/mr_mcglue/).  It stands on the  supports the [Caret Splitter Feeder Extension Reflection](/parts/caret-splitter-feeder-extension-reflection/)
 
 History:
 

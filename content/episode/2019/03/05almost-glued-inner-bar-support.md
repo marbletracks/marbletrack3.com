@@ -9,11 +9,11 @@ date: 2019-03-05T15:55:19+09:00
 ---
 
 Today I took 11 frames.  I wanted to get a frame after gluing the
-[Triple Splitter Small Feeder Inner Bar Lower Support](/p/tssfibls), but I could not
+[Triple Splitter Small Feeder Inner Bar Lower Support](/parts/triple-splitter-small-feeder-inner-bar-lower-support/), but I could not
 get it to stay in place without moving the stage and characters out of
 the way.
 
-[G. Choppy](/workers/g_choppy/) is suspended above the track about to fly over to
+[G Choppy](/workers/g_choppy/) is suspended above the track about to fly over to
 that area to help curve the
 [Triple Splitter Small Feeder Inner Bar](/parts/triple-splitter-small-feeder-inner-bar/), and maybe the
 [Triple Splitter Small Feeder Outer Bar](/parts/triple-splitter-small-feeder-outer-bar/).

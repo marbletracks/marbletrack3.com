@@ -13,8 +13,8 @@ first day after New Year's eve celebrations last night. --> the second
 (an hour long) is featured above.  The [first segment](https://www.youtube.com/watch?v=X_bCbcVJRaY) and [third
 segment](https://www.youtube.com/watch?v=2-o5PIPV5O4) were about 30 minutes each.
 
-The great news: I think I got the [Medium Catcher Below Triple Splitter](/p/mcbts)
-connected to the [Back Right Medium Landing Zone](/p/brmlz).  They are connected by [Guides into Back Right Medium Landing Zone](/p/gibrmlz). I have not tested them yet though.
+The great news: I think I got the [Medium Catcher Below Triple Splitter](/parts/medium-catcher-below-triple-splitter/)
+connected to the [Back Right Medium Landing Zone](/parts/back_right_medium_landing_zone/).  They are connected by [Guides into Back Right Medium Landing Zone](/p/gibrmlz). I have not tested them yet though.
 
 The oops news: I broke the
 [Upper Splitter off the Lowest Small-Medium Splitter](/p/usotlsms) and

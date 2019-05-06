@@ -12,6 +12,6 @@ days ago.  Been busy on Version 2 of the website so did not write this
 entry right after doing the live stream.
 
 There was another live stream the same day, where I got
-[Reversible Guy](/w/rg) closer to placing the Fourth Support.
+[Reversible Guy](/workers/reversible/) closer to placing the Fourth Support.
 
 {{< youtube WmN2ltNT51g >}}

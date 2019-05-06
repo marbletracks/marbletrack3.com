@@ -21,7 +21,7 @@ might be just slightly above the
 
 History:
 
-* 2019 May 04: [Reversible Guy](/w/rg) brought the piece up along with
+* 2019 May 04: [Reversible Guy](/workers/reversible/) brought the piece up along with
 pieces for [Lower Zig Zag 2 ban top](/parts/lower-zig-zag-2-ban-top/)
 
 [![2019 may 03 bringing lzz3b etc](//b.robnugen.com/art/marble_track_3/track/parts/2019/thumbs/2019_may_03_bringing_lzz3b_etc.jpg)](//b.robnugen.com/art/marble_track_3/track/parts/2019/2019_may_03_bringing_lzz3b_etc.jpg)

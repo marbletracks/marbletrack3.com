@@ -8,7 +8,7 @@ date: 2018-11-20T13:46:02+09:00
 ---
 
 Today I glued the [Fourth Placed Outer Spiral Support](/p/4poss) after
-[G. Choppy](/workers/g_choppy/) cut it.
+[G Choppy](/workers/g_choppy/) cut it.
 
 In the background the orange marble has rolled off the top of the
 [Lower Zig Zag](/parts/lower_zig_zag/), where [Mr Greene](/w/mg) is going to help

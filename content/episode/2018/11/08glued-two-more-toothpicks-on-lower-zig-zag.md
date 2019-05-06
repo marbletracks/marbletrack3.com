@@ -12,12 +12,12 @@ I glued two more toothpicks on the [Lower Zig Zag](/lzz) today.
 find it fails, but will hopefully get it to work by the time the Lower
 Zig Zag comes around to the front of the scene again.
 
-[Pinky](/w/pink) will push the medium marble up the ramp above the [Caret Splitter](/parts/caret-splitter/)
+[Pinky](/workers/pinky/) will push the medium marble up the ramp above the [Caret Splitter](/parts/caret-splitter/)
 to test, and will find that the medium marble works perfectly, because
 it does.`(*)`  In real life. Perfectly, every time.
 
-[G. Choppy](/workers/g_choppy/) has his sword raised, poised to cut the chopped chopstick that
-[Reversible Guy](/w/rg) placed haphazardly in what turns out to be *exactly the
+[G Choppy](/workers/g_choppy/) has his sword raised, poised to cut the chopped chopstick that
+[Reversible Guy](/workers/reversible/) placed haphazardly in what turns out to be *exactly the
 right spot* for the [Outer Spiral](/parts/outer_spiral/).  This will be the third support for
 the outer spiral.  After cutting this one, G Choppy will cut the stick
 [Mr Greene](/w/mg) has just swung around, lifting Square Head up from being

@@ -7,7 +7,7 @@ episode_image: https://b.robnugen.com/art/marble_track_3/construction/2018/nearl
 date: 2018-09-13T09:37:18+09:00
 ---
 
-今日はたくさん写真を取りました。 <!-- I took a lot of pictures today -->　落ちるお箸の準備がすぐできそうです。  <!-- Very soon we will be ready for the falling chopstick --> その箸は円周螺旋の保持になる。<!-- that chopstick will be used to hold the outer spiral --> [Reversible Guy](/w/rg)がその箸を置きます。<!-- RG will put the chopstick in place -->
+今日はたくさん写真を取りました。 <!-- I took a lot of pictures today -->　落ちるお箸の準備がすぐできそうです。  <!-- Very soon we will be ready for the falling chopstick --> その箸は円周螺旋の保持になる。<!-- that chopstick will be used to hold the outer spiral --> [Reversible Guy](/workers/reversible/)がその箸を置きます。<!-- RG will put the chopstick in place -->
 
 友達プレンチスさんが生配信を見てくれてありがたい。 <!-- Thanks to Prentiss for watching my livestream --> 生配信しながら、動画の作りそうなキャラの説明をしました。　<!-- while streaming, I introduced the characters -->
 

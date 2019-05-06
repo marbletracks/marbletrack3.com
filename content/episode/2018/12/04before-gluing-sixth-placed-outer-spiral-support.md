@@ -10,7 +10,7 @@ date: 2018-12-04T12:59:08+09:00
 Today I got the traffic jam sorted by the Caret Splitter, and actually
 got three (3) pieces glued:
 
-* the [Caret Splitter Feeder Extension](/p/csfe)
+* the [Caret Splitter Feeder Extension](/parts/caret_splitter_feeder_extension/)
 * the [Fifth Placed Outer Spiral Support](/p/5poss)
 * one piece from the [Lower Zig Zag Net](/parts/lower_zig_zag_net/)
 

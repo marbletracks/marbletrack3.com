@@ -10,10 +10,10 @@ date: 2019-04-22T21:54:46+09:00
 
 In just a bit over an hour, I got the
 [Triple Splitter Small Feeder Inner Bar](/parts/triple-splitter-small-feeder-inner-bar/) moved and glued in
-place.  During this time, [Big Brother](/w/big) pushed the large red
+place.  During this time, [Big Brother](/workers/big_brother/) pushed the large red
 marble into the snakes, which has set them into motion.  Backpack Jack
 is bringing the
-[Triple Splitter Small Feeder Outer Bar Lower Support](/p/tssfobls) up
+[Triple Splitter Small Feeder Outer Bar Lower Support](/parts/triple-splitter-small-feeder-inner-bar-outer-support/) up
 the ramp, and Mr Greene is clearing the landing zone below the
 [Lower Zig Zag](/parts/lower_zig_zag/).
 

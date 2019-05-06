@@ -16,8 +16,8 @@ Pinky is a character who was present in the first attempt at making Marble Track
 
 Some things she's done:
 
-* April/May 2019: push medium blue marble from under the [Caret Splitter](/parts/caret-splitter/) up to the top of the [Caret Splitter Feeder Extension Reflection](/p/csfer).
-* February 2019: Carry the [Triple Splitter Small Feeder Inner Bar Lower Support](/p/tssfibls) up the ramp
+* April/May 2019: push medium blue marble from under the [Caret Splitter](/parts/caret-splitter/) up to the top of the [Caret Splitter Feeder Extension Reflection](/parts/caret-splitter-feeder-extension-reflection/).
+* February 2019: Carry the [Triple Splitter Small Feeder Inner Bar Lower Support](/parts/triple-splitter-small-feeder-inner-bar-lower-support/) up the ramp
 
 [![2019 feb 26 pinky carrying triple splitter small feeder inner bar lower support](//b.robnugen.com/art/marble_track_3/track/parts/2019/thumbs/2019_feb_26_pinky_carrying_triple_splitter_small_feeder_inner_bar_lower_support.jpg)](//b.robnugen.com/art/marble_track_3/track/parts/2019/2019_feb_26_pinky_carrying_triple_splitter_small_feeder_inner_bar_lower_support.jpg)
 

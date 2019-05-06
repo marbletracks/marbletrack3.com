@@ -20,7 +20,7 @@ Great news is that we are very close to finishing this snippet with
 a chopstick falling out of the sky, and therefore close to filming the
 backstory of how that chopstick came to fall in such a manner.
 
-The falling / fallen chopstick will be cut by [G. Choppy](/workers/g_choppy/) and used as a
+The falling / fallen chopstick will be cut by [G Choppy](/workers/g_choppy/) and used as a
 support for the outer spiral.
 
 Here are the frames taken today:

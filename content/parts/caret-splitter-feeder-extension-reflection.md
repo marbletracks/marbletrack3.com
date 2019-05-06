@@ -17,9 +17,9 @@ date = 2019-01-02T22:34:20+09:00
 
 This piece will essentially roll small and medium marbles from the
 middle of the track to bounce off the [outer spiral](/parts/outer_spiral/) and then into the
-[Caret Splitter](/parts/caret-splitter/) via its [Extension](/p/csfe) and [Feeder](/p/csf).
+[Caret Splitter](/parts/caret-splitter/) via its [Extension](/parts/caret_splitter_feeder_extension/) and [Feeder](/parts/caret_splitter_feeder/).
 
-Will be supported by the [Caret Splitter Feeder Extension Reflection Stanchion](/p/csfers).
+Will be supported by the [Caret Splitter Feeder Extension Reflection Stanchion](/parts/caret-splitter-feeder-extension-reflection-stanchion/).
 
 History:
 

@@ -7,10 +7,10 @@ episode_image: https://b.robnugen.com/art/marble_track_3/track/parts/2018_Dec_10
 date: 2018-12-10T11:48:48+09:00
 ---
 
-Today I hung the top of the bar [G. Choppy](/workers/g_choppy/) cut last livestream,
+Today I hung the top of the bar [G Choppy](/workers/g_choppy/) cut last livestream,
 the [Fifth Placed Outer Spiral Support](/p/5poss).  The top of the bar remained
 suspended in air for 6 frames, or 1/2 of a second of playback time,
-and [Reversible Guy](/w/rg) has just caught it.
+and [Reversible Guy](/workers/reversible/) has just caught it.
 
 But the trickiest bit was at the back of the stage!  Trying to get the
 [Lower Zig Zag Net](/parts/lower_zig_zag_net/) in place required some patience to get

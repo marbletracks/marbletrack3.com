@@ -8,10 +8,10 @@ episode_thumbnail: "https://b.robnugen.com/art/marble_track_3/construction/2019/
 date: 2019-01-22T13:24:45+09:00
 ---
 
-Today [G-Choppy](/w/gc) began his walk across the not-yet-placed
-[Caret Splitter Feeder Extension Reflection](/p/csfer) on his way to
+Today [G-Choppy](/workers/g_choppy/) began his walk across the not-yet-placed
+[Caret Splitter Feeder Extension Reflection](/parts/caret-splitter-feeder-extension-reflection/) on his way to
 cut the
-[Caret Splitter Feeder Extension Reflection Stanchion](/p/csfers),
+[Caret Splitter Feeder Extension Reflection Stanchion](/parts/caret-splitter-feeder-extension-reflection-stanchion/),
 being held by [Backpack Jack](/w/bpj).
 
 The livestream got interrupted by work, but I got six frames taken,

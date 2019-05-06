@@ -14,7 +14,7 @@ Aliases = [
 date = 2018-11-15T10:23:59+09:00
 +++
 
-This catches small marbles almost immediately after they hit the [Triple Splitter](/parts/triple_splitter/).  This hangs from the Triple Splitter, suspended above the [Back Right Medium Landing Zone](/p/brmlz).  It sends marbles down to the [Right Side Small Landing Zone](/p/rsslz).
+This catches small marbles almost immediately after they hit the [Triple Splitter](/parts/triple_splitter/).  This hangs from the Triple Splitter, suspended above the [Back Right Medium Landing Zone](/parts/back_right_medium_landing_zone/).  It sends marbles down to the [Right Side Small Landing Zone](/p/rsslz).
 
 History:
 

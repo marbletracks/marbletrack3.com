@@ -11,5 +11,5 @@ Description = "Provide sweets and translation!"
 +++
 
 Thanks to the Sweets Party Attendants for providing support in terms of sweets,
-naming several characters: [G-Choppy](/w/gc), [Candy Mama](/candy/),
-[くるりん](/w/rg), and encouragement plus help translating the site!
+naming several characters: [G-Choppy](/workers/g_choppy/), [Candy Mama](/candy/),
+[くるりん](/workers/reversible/), and encouragement plus help translating the site!

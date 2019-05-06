@@ -20,5 +20,5 @@ This piece will support the [Triple Splitter Small Feeder](/parts/triple-splitte
 
 History:
 
-* 2019 Jan 14: cut by [G. Choppy](/workers/g_choppy/)
+* 2019 Jan 14: cut by [G Choppy](/workers/g_choppy/)
 * 2019 Jan 13: almost placed by [Reversible Guy](/workers/reversible/)

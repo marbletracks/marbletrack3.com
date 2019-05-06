@@ -17,10 +17,10 @@ date = 2019-01-12T01:59:30+09:00
 +++
 
 The Caret Splitter Feeder Extension Reflection Stanchion will support
-the [Caret Splitter Feeder Extension Reflection](/p/csfer)
+the [Caret Splitter Feeder Extension Reflection](/parts/caret-splitter-feeder-extension-reflection/)
 
 History:
 
 * 2019 Jan ?: Cut by G Choppy
 * 2019 Jan 13: nearly put in place by Backpack Jack, but he will have
-  to hold it for a while until [G. Choppy](/workers/g_choppy/) can cut it to size.
+  to hold it for a while until [G Choppy](/workers/g_choppy/) can cut it to size.

@@ -8,7 +8,7 @@ date: 2018-09-13T09:37:18+09:00
 ---
 
 Pretty great progress today..  *nearly* ready to have the bamboo stick
-"fall down from the heavens" into place where [Reversible Guy](/w/rg)
+"fall down from the heavens" into place where [Reversible Guy](/workers/reversible/)
 will put it where it can support the outer spiral, coming soon.
 
 Special thanks to Prentiss for watching live; in the livestream, I

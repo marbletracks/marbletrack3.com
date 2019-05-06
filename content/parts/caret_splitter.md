@@ -21,7 +21,7 @@ The Caret Splitter sits opposite the (top of the) [Triple Splitter](/parts/tripl
 
 * February? 2019: Will be augmented with [Caret Splitter Right Hand Inner Side](/parts/caret-splitter-right-hand-inner-side/).
 
-* 22 Feb 2019 [Reversible Guy](/w/rg) brought [Caret Splitter Right Hand Inner Side](/parts/caret-splitter-right-hand-inner-side/) to Caret Splitter Right Track
+* 22 Feb 2019 [Reversible Guy](/workers/reversible/) brought [Caret Splitter Right Hand Inner Side](/parts/caret-splitter-right-hand-inner-side/) to Caret Splitter Right Track
 
 [![2019 feb 22 rg brings csrhis 21](//b.robnugen.com/art/marble_track_3/track/parts/2019/thumbs/2019_feb_22_rg_brings_csrhis_21.jpg)](//b.robnugen.com/art/marble_track_3/track/parts/2019/2019_feb_22_rg_brings_csrhis_21.jpg)
 

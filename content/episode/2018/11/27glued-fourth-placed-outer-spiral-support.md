@@ -12,7 +12,7 @@ hours or so.
 
 Main issue was having so many characters active at the same time!  I
 realized after the first frame that I had not moved the Autosticks
-(toothpicks) toward the [Caret Splitter Feeder](/p/csf), so they are paused
+(toothpicks) toward the [Caret Splitter Feeder](/parts/caret_splitter_feeder/), so they are paused
 for about 4 or 5 frames.  I am sure it will be fine, though.
 
 I have added reminders to move them over the next several frames.
@@ -26,7 +26,7 @@ should be thinking about making that track, so I need to bring some
 characters now to work on it.  What indeed should they have?  Maybe
 little brother can work on it with some ice cream spoons.
 
-Today Squarehead has started bringing the [Caret Splitter Feeder](/p/csf) up
+Today Squarehead has started bringing the [Caret Splitter Feeder](/parts/caret_splitter_feeder/) up
 the ramp that Big Brother just put into place.
 
 G Choppy has just cut the Fourth Placed Outer Spiral Support and is

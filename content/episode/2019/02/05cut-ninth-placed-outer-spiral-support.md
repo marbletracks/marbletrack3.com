@@ -8,9 +8,9 @@ episode_thumbnail: "https://b.robnugen.com/art/marble_track_3/construction/2019/
 date: 2019-02-05T13:33:18+09:00
 ---
 
-Today, with a glorious backswing, [G. Choppy](/workers/g_choppy/) cut the [Ninth Placed Outer Spiral Support](/p/9poss), which [Reversible Guy](/w/rg) has been holding for a while.  I cut the piece and glued it into place, which is good because [Mr McGlue](/w/mmg) has already glued it, even though he was supposed to glue the [Caret Splitter Feeder Extension Reflection Stanchion](/p/csfers) first.
+Today, with a glorious backswing, [G Choppy](/workers/g_choppy/) cut the [Ninth Placed Outer Spiral Support](/parts/009p_ninth-placed-outer-spiral-support/), which [Reversible Guy](/workers/reversible/) has been holding for a while.  I cut the piece and glued it into place, which is good because [Mr McGlue](/workers/mr_mcglue/) has already glued it, even though he was supposed to glue the [Caret Splitter Feeder Extension Reflection Stanchion](/parts/caret-splitter-feeder-extension-reflection-stanchion/) first.
 
-At the same time, [Pinky](/w/pink) has been continuing construction of the [Decorative Wall](/p/pdw), while [Big Brother](/w/big) is busy fixing the [Snake Plate U-turn Berm Bar](/p/sputbb).
+At the same time, [Pinky](/workers/pinky/) has been continuing construction of the [Decorative Wall](/p/pdw), while [Big Brother](/workers/big_brother/) is busy fixing the [Snake Plate U-turn Berm Bar](/p/sputbb).
 
 Here is an overview pic from today.
 

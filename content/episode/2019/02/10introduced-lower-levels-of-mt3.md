@@ -15,4 +15,4 @@ highest tracks:
 
 * [Lower Zig Zag](/parts/lower_zig_zag/)
 * [Triple Splitter](/parts/triple_splitter/)
-* [Caret Splitter Feeder Extension Reflection](/p/csfer)
+* [Caret Splitter Feeder Extension Reflection](/parts/caret-splitter-feeder-extension-reflection/)

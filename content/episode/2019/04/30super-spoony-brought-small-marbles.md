@@ -16,7 +16,7 @@ come onto the stage](https://www.youtube.com/watch?v=U76Id0QAlEc)
 
 Several images take today, as just a couple characters were moving.
 
-Entertainingly (to me), [Little Brother](/w/lil) can be seen in the
+Entertainingly (to me), [Little Brother](/workers/lil_brother/) can be seen in the
 background as he begins to do a back roll, allowing the Medium Blue
 Marble to roll up the ramp over him.  It is a bit tricky to hold him
 up and the heavy marble in place over him, but should be worth it.

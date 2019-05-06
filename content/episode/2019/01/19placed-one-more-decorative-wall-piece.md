@@ -10,7 +10,7 @@ date: 2019-01-19T17:37:46+09:00
 
 Today I livestreamed for a bit over two hours, including a decent
 amount of time waiting for glue to dry on the
-[decorative wall](/p/dwatlsms).
+[decorative wall](/parts/decorative_walls_after_the_lowest_small-medium_splitter/).
 
 During the glue-drying time, I found a good way to plan ahead on
 construction AND finish the Step by Step part of the website.

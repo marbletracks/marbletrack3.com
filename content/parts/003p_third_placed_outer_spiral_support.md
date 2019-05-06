@@ -16,6 +16,6 @@ date = 2018-11-17T14:19:45+09:00
 +++
 
 This piece stands at an angle near the
-[Decorative Walls](/parts/decorative_walls_after_the_lowest_small-medium_splitter/"), and is cool because
+[Decorative Walls](/parts/decorative_walls_after_the_lowest_small-medium_splitter/), and is cool because
 [Reversible Guy](/workers/reversible/) kinda dropped it there without paying too much
 attention.
