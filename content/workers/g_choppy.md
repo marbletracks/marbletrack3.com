@@ -22,4 +22,4 @@ But cuts are essentially binary.  A piece is either cut or not cut, so it takes 
 
 G Choppy, then known as "the green cutter", was in the first attempt at marble track 3 movie from back 6 years ago or so.
 
-As of this writing (Nov 2018) G Choppy has just cut the fourth chopstick which will support the [Outer Spiral](/parts/outer_spiral/).  It is quite close to the beginning of the outer spiral, listing at an angle near the [Lowest Largest U-turn](/p/llut).
+As of this writing (Nov 2018) G Choppy has just cut the fourth chopstick which will support the [Outer Spiral](/parts/outer_spiral/).  It is quite close to the beginning of the outer spiral, listing at an angle near the [Lowest Largest U-turn](/parts/lowest_largest_u_turn/).

@@ -19,7 +19,7 @@ snake does the swipe, and do the swipe before I put the support up
 because the small marble keeps making the support sag downward.
 
 In reality, that means I either have to delete 25 frames (not likely
-to happen) or work out a way to hide support until [Dr Sugar](/w/ds) can add
+to happen) or work out a way to hide support until [Dr Sugar](/workers/dr_sugar/) can add
 support.
 
 Here are frames taken and then *deleted* today.

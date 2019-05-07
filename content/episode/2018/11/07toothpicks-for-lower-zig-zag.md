@@ -19,9 +19,9 @@ During this time, coming up from the camera point of view,
 which looks suspiciously like it might be the ramp to get onto the
 stage.  (Mainly because it is the ramp.)
 
-*And*, after ghosting through the triple splitter, [Mr Greene](/w/mg)
+*And*, after ghosting through the triple splitter, [Mr Greene](/workers/mr_greene/)
 has picked up the chopstick carried onto the stage by
-[Squarehead](/w/square), who is currently being pulled around the stage
+[Squarehead](/workers/squarehead/), who is currently being pulled around the stage
 with his hand caught in something, and will soon inadvertantly help
 Squarehead stand upright again with the chopstick.
 

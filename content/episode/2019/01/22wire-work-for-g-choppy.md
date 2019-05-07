@@ -12,7 +12,7 @@ Today [G-Choppy](/workers/g_choppy/) began his walk across the not-yet-placed
 [Caret Splitter Feeder Extension Reflection](/parts/caret-splitter-feeder-extension-reflection/) on his way to
 cut the
 [Caret Splitter Feeder Extension Reflection Stanchion](/parts/caret-splitter-feeder-extension-reflection-stanchion/),
-being held by [Backpack Jack](/w/bpj).
+being held by [Backpack Jack](/workers/backpack_jack/).
 
 The livestream got interrupted by work, but I got six frames taken,
 but the second to last below had to be reshot because Backpack Jack

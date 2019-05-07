@@ -8,7 +8,7 @@ date: 2018-11-08T13:22:31+09:00
 ---
 
 I glued two more toothpicks on the [Lower Zig Zag](/lzz) today.
-[Dr Sugar](/w/ds) will be able to test the Lower Zig Zag soon, and will
+[Dr Sugar](/workers/dr_sugar/) will be able to test the Lower Zig Zag soon, and will
 find it fails, but will hopefully get it to work by the time the Lower
 Zig Zag comes around to the front of the scene again.
 
@@ -20,7 +20,7 @@ it does.`(*)`  In real life. Perfectly, every time.
 [Reversible Guy](/workers/reversible/) placed haphazardly in what turns out to be *exactly the
 right spot* for the [Outer Spiral](/parts/outer_spiral/).  This will be the third support for
 the outer spiral.  After cutting this one, G Choppy will cut the stick
-[Mr Greene](/w/mg) has just swung around, lifting Square Head up from being
+[Mr Greene](/workers/mr_greene/) has just swung around, lifting Square Head up from being
 pulled around the track.
 
 In other words, things are running quite smoothly on the track.  But,

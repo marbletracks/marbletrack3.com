@@ -8,10 +8,9 @@ episode_thumbnail: "https://b.robnugen.com/art/marble_track_3/construction/2019/
 date: 2019-04-30T09:37:28+09:00
 ---
 
-Today's livestream was in two parts.  In the first, above, [Super
-Spoony](/w/ss) carried two orange marbles up the ramp.
+Today's livestream was in two parts.  In the first, above, [Super Spoony](/workers/super_spoony/) carried two orange marbles up the ramp.
 
-In the second, [Dr Sugar](/w/ds) [rotated the stage to let Super Spoony
+In the second, [Dr Sugar](/workers/dr_sugar/) [rotated the stage to let Super Spoony
 come onto the stage](https://www.youtube.com/watch?v=U76Id0QAlEc)
 
 Several images take today, as just a couple characters were moving.

@@ -13,7 +13,7 @@ Today I glued the
 [Caret Splitter Feeder Extension Reflection Stanchion](/parts/caret-splitter-feeder-extension-reflection-stanchion/) and
 have a plan for a mini stanchion that is not yet named.
 
-[Backpack Jack](/w/bpj) will carry the new piece, which was cut from
+[Backpack Jack](/workers/backpack_jack/) will carry the new piece, which was cut from
 the top of the
 [Caret Splitter Feeder Extension Reflection Stanchion](/parts/caret-splitter-feeder-extension-reflection-stanchion/) and
 floated in midair for perhaps too long until he could grab it.

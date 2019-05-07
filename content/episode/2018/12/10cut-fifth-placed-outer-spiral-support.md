@@ -8,7 +8,7 @@ date: 2018-12-10T11:48:48+09:00
 ---
 
 Today I hung the top of the bar [G Choppy](/workers/g_choppy/) cut last livestream,
-the [Fifth Placed Outer Spiral Support](/p/5poss).  The top of the bar remained
+the [Fifth Placed Outer Spiral Support](/parts/005p_fifth_placed_outer_spiral_support/).  The top of the bar remained
 suspended in air for 6 frames, or 1/2 of a second of playback time,
 and [Reversible Guy](/workers/reversible/) has just caught it.
 

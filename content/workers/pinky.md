@@ -21,5 +21,5 @@ Some things she's done:
 
 [![2019 feb 26 pinky carrying triple splitter small feeder inner bar lower support](//b.robnugen.com/art/marble_track_3/track/parts/2019/thumbs/2019_feb_26_pinky_carrying_triple_splitter_small_feeder_inner_bar_lower_support.jpg)](//b.robnugen.com/art/marble_track_3/track/parts/2019/2019_feb_26_pinky_carrying_triple_splitter_small_feeder_inner_bar_lower_support.jpg)
 
-* February 2019: create [Decorative Walls](/p/pdw)
+* February 2019: create [Decorative Walls](/parts/decorative_walls_after_the_lowest_small-medium_splitter/)
 * November 2018: test the medium blue marble on the [Caret Splitter](/parts/caret-splitter/).  She found it works perfectly, but the small marble does not.

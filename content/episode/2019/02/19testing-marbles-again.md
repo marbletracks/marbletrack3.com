@@ -8,7 +8,7 @@ episode_thumbnail: "https://b.robnugen.com/art/marble_track_3/construction/2019/
 date: 2019-02-19T12:38:13+09:00
 ---
 
-Today, due to a traffic jam of sorts back by the [Decorative Walls](/p/pdw),
+Today, due to a traffic jam of sorts back by the [Decorative Walls](/parts/decorative_walls_after_the_lowest_small-medium_splitter/),
 it took  34 minutes to get the first frame taken.  After that, the
 frames came faster, although if I recall correctly, the second was
 taken around 55 minutes into the livestream today.

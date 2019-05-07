@@ -14,6 +14,6 @@ Though Dr Sugar has really short arms, he is also quite gymnastic and can flip a
 
 Dr Sugar's TODO list:
 
-* Dec 2018: Working with [Mr Greene](/w/mg) on [Lower Zig Zag Net](/parts/lower_zig_zag_net/)
+* Dec 2018: Working with [Mr Greene](/workers/mr_greene/) on [Lower Zig Zag Net](/parts/lower_zig_zag_net/)
 * Nov 2018: ~~working on making the [Lower Zig Zag](/parts/lower_zig_zag/)~~
 * ~~trying to get the triple ball splitter to be sized correctly.~~

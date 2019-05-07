@@ -13,8 +13,8 @@ keep up with all its tasks, I rebooted and tested the small orange
 marbles rolling down the [Triple Splitter Small Feeder](/parts/triple-splitter-small-feeder/) to
 the (top of the) [Triple Splitter](/parts/triple_splitter/), where they immediately fall
 onto [the Triple Splitter Small Marble Catcher](/parts/the_triple_splitter_small_marble_catcher/), down onto
-the [Little Wiggly Track](/p/lwt/) and finally to the
-[Right Side Small Landing Zone](/p/rsslz).
+the [Little Wiggly Track](/parts/little_wiggly_track/) and finally to the
+[Right Side Small Landing Zone](/parts/right_side_small_landing_zone/).
 
 They worked perfectly! (So long as someone ([Mr McGlue](/workers/mr_mcglue/) stood
 where the lower end of [The Outer Spiral](/parts/outer_spiral/) will be, allowing the
@@ -36,7 +36,7 @@ been placed:
 * Reversible Guy is now able to move again and has gotten out of the
   way of Mr Greene
 * Mr Greene is carrying a plank which was blocking the
-  [Right Side Small Landing Zone](/p/rsslz) so it can be used as the
+  [Right Side Small Landing Zone](/parts/right_side_small_landing_zone/) so it can be used as the
   not yet existing Triple Splitter Small Feeder Feeder.  I am not yet
   sure it will in fact be called that nor even exist soon.  He might
   end up using it to shovel marbles up during the upcoming test.

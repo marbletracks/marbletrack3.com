@@ -18,7 +18,7 @@ repeatedly, and were a general nuisance to deal with.
 Right now, the demo outer spiral is on the track so I can figure out
 where to place the [Sixth Placed Outer Spiral Support](/parts/006p_sixth_placed_outer_spiral_support/), but
 it has not been placed yet.  I plan to put it at an angle from the
-stage just inside the [Left Side Small Landing Zone](/p/lsslz).
+stage just inside the [Left Side Small Landing Zone](/parts/left_side_small_landing_zone/).
 
 [![00010 002 10 X1 0251](//b.robnugen.com/art/marble_track_3/frames/2018/thumbs/00010_002_10_X1_0251.jpg)](//b.robnugen.com/art/marble_track_3/frames/2018/00010_002_10_X1_0251.jpg)
 [![00010 002 10 X1 0252](//b.robnugen.com/art/marble_track_3/frames/2018/thumbs/00010_002_10_X1_0252.jpg)](//b.robnugen.com/art/marble_track_3/frames/2018/00010_002_10_X1_0252.jpg)

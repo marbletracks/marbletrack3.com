@@ -15,4 +15,4 @@ Aliases = [
 date = 2018-11-15T14:06:52+09:00
 +++
 
-This is a single chopstick which guides the Largest Marble down from the [Snake Plate U-Turn](/p/sput) to the [Lowest Largest U-Turn](/p/llut).
+This is a single chopstick which guides the Largest Marble down from the [Snake Plate U-Turn](/parts/snake_plate_u_turn/) to the [Lowest Largest U-Turn](/parts/lowest_largest_u_turn/).

@@ -16,7 +16,7 @@ scan those notes.  They were basically plans for upcoming stuff.
 
 There is a bit of a challenge in how to get Squarehead up to add onto
 the Caret Extension while Reversible, G Choppy, and Mr McGlue  are
-working on the [Fifth Placed Outer Spiral Support](/p/5poss).
+working on the [Fifth Placed Outer Spiral Support](/parts/005p_fifth_placed_outer_spiral_support/).
 
 In the back of the set, I bent two toothpicks which will be part of
 what I am calling [Lower Zig Zag Net](/parts/lower_zig_zag_net/), though it does not

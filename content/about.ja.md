@@ -41,8 +41,8 @@ Introducing.... **Marble Track 3 Construction Crew**...
 
 [![2018 nov marble track 3 construction crew](//b.robnugen.com/art/marble_track_3/construction/2018/thumbs/2018_nov_marble_track_3_construction_crew.jpg)](//b.robnugen.com/art/marble_track_3/construction/2018/2018_nov_marble_track_3_construction_crew.jpg)
 
-Back Row: [Candy Mama](/workers/candy_mama/), [G Choppy](/workers/g_choppy/), [Reversible Guy](/workers/reversible/), [Squarehead](/w/square), [Mr McGlue](/workers/mr_mcglue/)<br/>
-Front Row: [Mr Greene](/w/mg), [Pinky](/workers/pinky/), [Dr Sugar](/w/ds), [Big Brother](/workers/big_brother/), [Little Brother](/workers/lil_brother/), [Super Spoony](/workers/super_spoony/)
+Back Row: [Candy Mama](/workers/candy_mama/), [G Choppy](/workers/g_choppy/), [Reversible Guy](/workers/reversible/), [Squarehead](/workers/squarehead/), [Mr McGlue](/workers/mr_mcglue/)<br/>
+Front Row: [Mr Greene](/workers/mr_greene/), [Pinky](/workers/pinky/), [Dr Sugar](/workers/dr_sugar/), [Big Brother](/workers/big_brother/), [Little Brother](/workers/lil_brother/), [Super Spoony](/workers/super_spoony/)
 
 These guys are great!  Just look at them go!
 

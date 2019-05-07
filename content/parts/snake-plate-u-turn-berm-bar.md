@@ -15,7 +15,7 @@ aliases = [
 date = 2019-01-30T21:36:52+09:00
 +++
 
-This is the non-U-turn part of the [Snake Plate U-turn Berm](/p/sputb)
+This is the non-U-turn part of the [Snake Plate U-turn Berm](/parts/snake_plate_u_turn_berm/)
 which has been on the track for months, but not yet glued in place.
 Big Brother has just discovered this problem, and is inspecting now.
 

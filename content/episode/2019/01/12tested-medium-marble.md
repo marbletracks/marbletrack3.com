@@ -9,5 +9,5 @@ date: 2019-01-12T12:54:33+09:00
 ---
 
 Made good progress during this video up until I needed to measure the
-[Eighth Placed Outer Spiral Support](/p/8poss) and the
+[Eighth Placed Outer Spiral Support](/parts/008p_eighth-placed-outer-spiral-support/) and the
 [Caret Splitter Feeder Extension Reflection Stanchion](/parts/caret-splitter-feeder-extension-reflection-stanchion/).

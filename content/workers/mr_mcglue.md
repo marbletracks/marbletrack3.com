@@ -20,7 +20,7 @@ more difficult to let him pass through most areas of the track.  I had considere
 shoes, but they are glued to his feet in a way that would damage his
 feet too much.  So on 29th of September 2018 [I made a copy of Mr McGlue](/episode/2018/september/three-mr-mcglues/) with short feet.
 
-* 29 Nov 2018: Mr McGlue after gluing [Fourth Place Outer Spiral Support](/p/5poss)
+* 29 Nov 2018: Mr McGlue after gluing [Fourth Place Outer Spiral Support](/parts/005p_fifth_placed_outer_spiral_support/)
 
 [![2018 nov 29 mr mcglue after gluing 4poss](//b.robnugen.com/art/marble_track_3/workers/2018/thumbs/2018_nov_29_mr_mcglue_after_gluing_4poss.jpg)](//b.robnugen.com/art/marble_track_3/workers/2018/2018_nov_29_mr_mcglue_after_gluing_4poss.jpg)
 

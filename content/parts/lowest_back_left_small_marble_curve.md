@@ -16,4 +16,4 @@ Aliases = [
 date = 2018-11-15T14:06:52+09:00
 +++
 
-This curve comes after the [Decorative Walls](/parts/decorative_walls_after_the_lowest_small-medium_splitter/) that Pinky put in place.  It feeds into the [Left Side Small Landing Zone](/p/lsslz)
+This curve comes after the [Decorative Walls](/parts/decorative_walls_after_the_lowest_small-medium_splitter/) that Pinky put in place.  It feeds into the [Left Side Small Landing Zone](/parts/left_side_small_landing_zone/)

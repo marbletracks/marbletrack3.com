@@ -10,7 +10,7 @@ date: 2019-02-05T13:33:18+09:00
 
 Today, with a glorious backswing, [G Choppy](/workers/g_choppy/) cut the [Ninth Placed Outer Spiral Support](/parts/009p_ninth-placed-outer-spiral-support/), which [Reversible Guy](/workers/reversible/) has been holding for a while.  I cut the piece and glued it into place, which is good because [Mr McGlue](/workers/mr_mcglue/) has already glued it, even though he was supposed to glue the [Caret Splitter Feeder Extension Reflection Stanchion](/parts/caret-splitter-feeder-extension-reflection-stanchion/) first.
 
-At the same time, [Pinky](/workers/pinky/) has been continuing construction of the [Decorative Wall](/p/pdw), while [Big Brother](/workers/big_brother/) is busy fixing the [Snake Plate U-turn Berm Bar](/p/sputbb).
+At the same time, [Pinky](/workers/pinky/) has been continuing construction of the [Decorative Wall](/parts/decorative_walls_after_the_lowest_small-medium_splitter/), while [Big Brother](/workers/big_brother/) is busy fixing the [Snake Plate U-turn Berm Bar](/parts/snake-plate-u-turn-berm-bar/).
 
 Here is an overview pic from today.
 
