@@ -209,6 +209,12 @@
     Published = 2017-12-09T07:46:49Z
     Duration = 3947000000000
     VideoType = 1
+  [Videos.4QlQd7XPFfU]
+    VideoId = "4QlQd7XPFfU"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2019-05-07T01:10:54Z
+    Duration = 0
+    VideoType = 1
   [Videos.4VMQiS3-XaM]
     VideoId = "4VMQiS3-XaM"
     Title = "Marble Track 3: ready to glue u turn"
@@ -1883,6 +1889,12 @@
     Published = 2018-09-11T02:55:54Z
     Duration = 133000000000
     VideoType = 2
+  [Videos.lgJqu80ayqc]
+    VideoId = "lgJqu80ayqc"
+    Title = "Marble Track 3: brought small marbles"
+    Published = 2019-05-03T22:19:01Z
+    Duration = 45000000000
+    VideoType = 2
   [Videos.m-fGyW9vMaQ]
     VideoId = "m-fGyW9vMaQ"
     Title = "Marble Track 3 construction Live Stream"
@@ -1900,6 +1912,12 @@
     Title = "Marble Track 3 construction Live Stream: before glued dual track rail"
     Published = 2018-03-23T05:45:13Z
     Duration = 3462000000000
+    VideoType = 1
+  [Videos.mbemIWX61-o]
+    VideoId = "mbemIWX61-o"
+    Title = "Marble Track 3 construction Live Stream: startled squarehead"
+    Published = 2019-05-07T01:48:37Z
+    Duration = 5113000000000
     VideoType = 1
   [Videos.mhopfe-_tFk]
     VideoId = "mhopfe-_tFk"
@@ -2131,9 +2149,9 @@
     VideoType = 2
   [Videos.s44pOiQ7UeE]
     VideoId = "s44pOiQ7UeE"
-    Title = "Marble Track 3 construction Live Stream"
+    Title = "Marble Track 3 construction Live Stream: Reversible Guy carries new track pieces"
     Published = 2019-05-03T04:46:00Z
-    Duration = 0
+    Duration = 3389000000000
     VideoType = 1
   [Videos.sH6YdvTf7N8]
     VideoId = "sH6YdvTf7N8"

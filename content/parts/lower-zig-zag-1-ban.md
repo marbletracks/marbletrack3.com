@@ -20,4 +20,4 @@ date = 2019-05-05T21:48:13+09:00
 
 History:
 
-* 2019 May 05:  recently named lowest track of the [Lower Zig Zag](/parts/lower_zig_zag/)
+* 2019 May 05: recently named lowest track of the [Lower Zig Zag](/parts/lower_zig_zag/)
