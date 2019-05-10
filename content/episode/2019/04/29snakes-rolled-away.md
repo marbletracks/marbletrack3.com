@@ -21,23 +21,23 @@ where the lower end of [The Outer Spiral](/parts/outer_spiral/) will be, allowin
 marbles to bounce off him and remain between the rails of the
 [Triple Splitter](/parts/triple_splitter/).)
 
-As of this writing, just after the Triple Splitter Small Feeder has
+As of this writing, just after the [Triple Splitter Small Feeder](/parts/triple-splitter-small-feeder/) has
 been placed:
 
 * The snakes have rolled away after [Big Brother](/workers/big_brother/) bumped into
   them with the Large Orange Marble.
-* Squarehead has just seen the snakes and is jumping back in surprise.
-* Super Spoony has just started up the ramp carrying two Small
+* [Squarehead](/workers/squarehead/) has just seen the snakes and is jumping back in surprise.
+* [Super Spoony](/workers/super_spoony/) has just started up the ramp carrying two Small
   Marbles, which will be used to show the characters testing the
   sequence I tested above.
-* Candy Mama is able to move again, which allows Big Brother to move
-* Big Brother is now pushing the Large Orange Marble up toward the
-  Triple Splitter.
+* [Candy Mama](/workers/candy_mama/) is able to move again, which allows [Big Brother](/workers/big_brother/) to move
+* [Big Brother](/workers/big_brother/) is now pushing the Large Orange Marble up toward the
+  [Triple Splitter](/parts/triple_splitter/).
 * Reversible Guy is now able to move again and has gotten out of the
   way of Mr Greene
 * Mr Greene is carrying a plank which was blocking the
   [Right Side Small Landing Zone](/parts/right_side_small_landing_zone/) so it can be used as the
-  not yet existing Triple Splitter Small Feeder Feeder.  I am not yet
+  not yet existing [Triple Splitter Small Feeder Feeder](/parts/triple-splitter-small-feeder-feeder/).  I am not yet
   sure it will in fact be called that nor even exist soon.  He might
   end up using it to shovel marbles up during the upcoming test.
 * [Little Brother](/workers/lil_brother/) has jumped over to the

@@ -10,7 +10,7 @@ date: 2018-11-07T10:06:31+09:00
 Today before lunch I did
 [a livestream](https://www.youtube.com/watch?v=0tzMgVT_6oY) in which
 toothpicks moved themselves up toward the [Lower Zig Zag](/parts/lower_zig_zag/), where
-they will be rails on the second level of the Zig Zag, while the two
+they will be rails on the [second level of the Zig Zag](/parts/lower-zig-zag-2-ban/), while the two
 toothpicks which had been so fiddly before were cut by [G-Choppy](/workers/g_choppy/)
 and glued into place (by me, not yet by [Mr McGlue](/workers/mr_mcglue/).
 
@@ -19,17 +19,17 @@ During this time, coming up from the camera point of view,
 which looks suspiciously like it might be the ramp to get onto the
 stage.  (Mainly because it is the ramp.)
 
-*And*, after ghosting through the triple splitter, [Mr Greene](/workers/mr_greene/)
+*And*, after ghosting through the [Triple Splitter](/parts/triple_splitter/), [Mr Greene](/workers/mr_greene/)
 has picked up the chopstick carried onto the stage by
 [Squarehead](/workers/squarehead/), who is currently being pulled around the stage
-with his hand caught in something, and will soon inadvertantly help
-Squarehead stand upright again with the chopstick.
+with his hand caught in something, and will soon inadvertently help
+[Squarehead](/workers/squarehead/) stand upright again with the chopstick.
 
 All of that was before lunch!
 
 After lunch, I did a [second livestream](https://youtu.be/pOOpjwUYhqk) the same
 day, during which [Reversable Guy](/workers/reversible/) added a guide to keep marbles
-on the lower central track (which runs adjacent to the lowest track
+on the lower central track (which runs adjacent to [The First Track](/parts/the_first_track/)
 for large marbles).
 
 Here are the frames taken yesterday.  Some of them (two?) will not be
