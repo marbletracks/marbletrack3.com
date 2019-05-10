@@ -9,7 +9,7 @@ date: 2019-01-01T12:13:47+09:00
 ---
 
 Today's livestream was split into 3 segments, <!-- given that today is the
-first day after New Year's eve celebrations last night. --> the second
+first day after New Year's eve celebrations last night. --> the second livestream
 (an hour long) is featured above.  The [first segment](https://www.youtube.com/watch?v=X_bCbcVJRaY) and [third
 segment](https://www.youtube.com/watch?v=2-o5PIPV5O4) were about 30 minutes each.
 
