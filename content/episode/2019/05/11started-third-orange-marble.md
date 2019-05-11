@@ -12,6 +12,10 @@ Today went pretty smoothly as I got the third marble started down the [Triple Sp
 
 I stopped streaming after I glued the [Lower Zig Zag 2 ban top](/parts/lower-zig-zag-2-ban-top/) to the [Lower Zig Zag 2 ban](/parts/lower-zig-zag-2-ban/) after determining it did not look *too* weird if it just appeared there.  I may have [Reversible Guy](/workers/reversible/) futz around in the area for a bit to ensure he has had enough time to make it.
 
+Here is the most recent snippet
+
+{{< youtube X_KIcCIPfIg >}}
+
 These are the images from today:
 
 [![00010 002 10 X1 0603](//b.robnugen.com/art/marble_track_3/frames/2019/thumbs/00010_002_10_X1_0603.jpg)](//b.robnugen.com/art/marble_track_3/frames/2019/00010_002_10_X1_0603.jpg)
