@@ -67,9 +67,9 @@
     VideoType = 1
   [Videos.03VW8mf1Vxw]
     VideoId = "03VW8mf1Vxw"
-    Title = "Marble Track 3 construction Live Stream"
+    Title = "Marble Track 3 construction Live Stream: started third orange marble"
     Published = 2019-05-10T08:19:56Z
-    Duration = 0
+    Duration = 5214000000000
     VideoType = 1
   [Videos.0OxizSrkOAU]
     VideoId = "0OxizSrkOAU"
@@ -1690,6 +1690,12 @@
     Title = "Marble Track 3 construction Live Stream"
     Published = 2018-05-04T03:34:45Z
     Duration = 3759000000000
+    VideoType = 1
+  [Videos.gERnY8M1j-w]
+    VideoId = "gERnY8M1j-w"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2019-05-11T01:46:48Z
+    Duration = 0
     VideoType = 1
   [Videos.gF5_2PXsNkM]
     VideoId = "gF5_2PXsNkM"
