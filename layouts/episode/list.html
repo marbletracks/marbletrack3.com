@@ -1,5 +1,21 @@
 {{ define "main" }}
-
+    <!-- /.Breadcrum Start -->
+    <div class="page-header">
+        <div class="container">
+        <div class="row">
+            <div class="col-12 page-title-inner">
+                <h1 class="page-title">
+                    {{ .Title }}
+                </h1>
+            </div>
+            <!-- /.col-12 -->
+        </div>
+        <!-- /.row -->
+        </div>
+        <!-- /.container -->
+        <div class="line-bg"></div>
+    </div>
+    <!-- /.Breadcrum End-->
 {{ if isset $.Site.Params "site_layout" }}
   {{ if eq $.Site.Params.site_layout "grid" }}
     {{- partial "grid.html" . }}
