@@ -1,0 +1,168 @@
+{{ define "main" }}
+
+<!-- Rob smashing css into here because I do not know where it should go yet -->
+<style>
+a {color:#c36;} /* pink links, but not ideal because it affects language link at top of page */
+</style>
+<!-- end Rob smashing css into here because I do not know where it should go yet -->
+
+ <!-- /.Breadcrum Start -->
+ <div class="page-header">
+    <div class="container">
+      <div class="row">
+        <div class="col-12 page-title-inner">
+          <h1 class="page-title">
+              {{ title .Title }}
+          </h1>
+          <small class="text-white pt-3">Posted on {{ dateFormat "Monday, Jan 2, 2006" .Date }}</small>
+          <div class="page-bradcrumb">
+            <nav class="navigation pagination w-100 text-center">
+              <div class="nav-links">
+              {{ if .NextInSection }}
+                <a class="prev page-numbers" href="{{.NextInSection.Permalink}}" target="_blank"><i class="fas fa-angle-double-left"></i> Prev</a>
+              {{ else }}
+                <a class="prev page-numbers disabled" href="#"><i class="fas fa-angle-double-left"></i> Prev</a>
+              {{ end }}
+              {{ if .PrevInSection }}
+                <a class="next page-numbers" href="{{.PrevInSection.Permalink}}" target="_blank">Next <i class="fas fa-angle-double-right"></i></a>
+                
+              {{ else }}
+                <a class="next page-numbers disabled" href="#">Next <i class="fas fa-angle-double-right"></i></a>
+              {{ end }}
+              </div>
+            </nav>
+          </div>
+        </div>
+        <!-- /.col-12 -->
+      </div>
+      <!-- /.row -->
+    </div>
+    <!-- /.container -->
+    <div class="line-bg"></div>
+  </div>
+  <!-- /.Breadcrum End-->
+
+
+  {{ if isset .Params "episode_banner" }}
+    {{ if ne .Params.episode_banner "" }}
+      <div class = "row">
+      <div class = "col">
+        <a href="{{ .Params.episode_banner | absURL }}">
+          <img src="{{ .Params.episode_banner | absURL }}" class="img-fluid episode_image"/>
+        </a>
+      </div>
+      </div>
+      <div class = "row">
+      <div class = "col">
+        {{ .Description | markdownify }}
+      </div>
+      </div>
+    {{ end }}
+    {{ else }}
+    <!-- begin square row -->
+    {{- if isset .Params "episode_image" -}}
+      {{- if ne .Params.episode_image "" -}}
+        <div class="row">
+          <div class="col-md-3">
+            <a href="{{ .Params.episode_image | absURL }}">
+              <img src="{{ .Params.episode_image | absURL }}" class="img-fluid episode_image"/>
+            </a>
+          </div>
+          <div class="col-md-8">
+            {{ .Description | markdownify }}
+          </div>
+        </div>
+      {{- end -}}
+      {{- else -}}
+      <div class="row">
+        <div class="col">
+          {{ .Description | markdownify }}
+        </div>
+      </div>
+      {{- end -}}
+
+    <!-- end square row -->
+    {{ end }}
+    {{- with .Params.podcast_file -}}
+      <div class="row">
+        <div class="col-md-12 player_row">
+          <audio src="{{ $.Site.Params.media_prefix }}{{ . }}" preload="auto"/>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-11 col-md-offset-1">
+          <a href="{{ $.Site.Params.media_prefix }}{{ . }}">Direct Download</a>
+        </div>
+      </div>
+    {{- end -}}
+  {{- with .Params.youtube -}}
+    <div class = "row youtube_row">
+      <div class = "col">
+        <div class="embed-responsive embed-responsive-16by9">
+          <iframe class="embed-responsive-item" src="//www.youtube.com/embed/{{ . }}" allowfullscreen></iframe>
+        </div>
+      </div>
+    </div>
+  {{- end -}}
+
+  <div class="row">
+    <div class="col">
+      <h2>Snippet Steps</h2>
+      {{ .Content }}
+    </div>
+  </div>
+
+
+      <div class="row">
+        <!-- sharing begins -->
+        <div class="col-md-12">
+          <div id="share"></div>
+        </div>
+      </div>
+      <!-- sharing ends -->
+      {{ with .Site.Params.disqusShortname }}
+      <!-- disqus begins -->
+      <div class="row">
+        <div class="col-md-12">
+          {{ partial "disqus.html" . }}
+        </div>
+      </div>
+      <!-- disqus ends -->
+      {{ end }}
+      <!-- pager begin -->
+      <div class="row">
+        <div class="col-md-12">
+          <nav>
+            <ul class="pagination">
+              {{ if .PrevInSection }}
+                <li class="page-item">
+                  <a href="{{.PrevInSection.Permalink}}" class="page-link">
+                    <span aria-hidden="true">&larr;</span>
+                    Previous</a>
+                </li>
+                {{ else }}
+                <li class="page-item disabled">
+                  <a href="#" class="page-link">
+                    <span aria-hidden="true">&larr;</span>
+                    Previous</a>
+                </li>
+              {{ end }}
+              {{ if .NextInSection }}
+                <li class="page-item">
+                  <a href="{{.NextInSection.Permalink}}" class="page-link">Next
+                    <span aria-hidden="true">&rarr;</span>
+                  </a>
+                </li>
+                {{ else }}
+                <li class="page-item disabled">
+                  <a href="#" class="page-link">Next
+                    <span aria-hidden="true">&rarr;</span>
+                  </a>
+                </li>
+              {{ end }}
+            </ul>
+          </nav>
+        </div>
+      </div>
+      <!-- pager end -->
+    {{ end }}
