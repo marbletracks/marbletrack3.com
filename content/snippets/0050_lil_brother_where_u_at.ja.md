@@ -11,6 +11,7 @@ Description: "Tensions rise and fall after Lil Brother falls off the back of the
 Aliases: [
   "/snip/0050"
 ]
+draft: true
 ---
 
 0050_lil_brother_where_u_at.ja.md
