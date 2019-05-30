@@ -25,15 +25,15 @@ paginate = "15"
     identifier = "050_parts"
     url = "parts"
 
-#[[languages.en.Menu.Main]]
-#    name = "Step by step"
-#    identifier = "060_snippets"
-#    url = "snippets"
-#
-#[[languages.ja.Menu.Main]]
-#    name = "Step by step"
-#    identifier = "060_snippets"
-#    url = "snippets"
+[[languages.en.Menu.Main]]
+    name = "Construction"
+    identifier = "060_snippets"
+    url = "snippets"
+
+[[languages.ja.Menu.Main]]
+    name = "Construction"
+    identifier = "060_snippets"
+    url = "snippets"
 
 [[languages.en.Menu.Main]]
     name = "Thanks"
