@@ -5,7 +5,7 @@ theme = "castanet"    # git@github.com:thunderrabbit/castanet.git
 
 #googleAnalytics = "UA-100789009-1"
 #disqusShortname = "arresteddevops"
-paginate = "9"
+paginate = "15"
 
 
 [languages]
