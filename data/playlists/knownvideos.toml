@@ -773,6 +773,12 @@
     Published = 2017-11-14T01:14:42Z
     Duration = 6077000000000
     VideoType = 1
+  [Videos.HIrtuDjU88Y]
+    VideoId = "HIrtuDjU88Y"
+    Title = "Marble Track 3 construction Live Stream: G Choppy cuts sticks"
+    Published = 2019-07-16T02:59:37Z
+    Duration = 8244000000000
+    VideoType = 1
   [Videos.HkYKp6YM6ik]
     VideoId = "HkYKp6YM6ik"
     Title = "Marble Track 3: after catching chopstick"
@@ -1495,9 +1501,9 @@
     VideoType = 1
   [Videos.YldAkSkKuMA]
     VideoId = "YldAkSkKuMA"
-    Title = "Marble Track 3 construction Live Stream"
+    Title = "Marble Track 3 construction Live Stream: Candy Mama releases the marbles"
     Published = 2019-07-02T02:54:21Z
-    Duration = 0
+    Duration = 7966000000000
     VideoType = 1
   [Videos.Yn5x7M6uZ_A]
     VideoId = "Yn5x7M6uZ_A"
@@ -1517,6 +1523,12 @@
     Published = 2018-11-13T00:18:00Z
     Duration = 2252000000000
     VideoType = 1
+  [Videos.ZYRkh1YweT0]
+    VideoId = "ZYRkh1YweT0"
+    Title = "Marble Track 3: G Choppy cuts sticks"
+    Published = 2019-07-16T04:19:06Z
+    Duration = 56000000000
+    VideoType = 2
   [Videos._1q8CYWRXpA]
     VideoId = "_1q8CYWRXpA"
     Title = "Marble Track 3 construction Live Stream: ran out of battery while planning how to fix the stage"
@@ -1661,6 +1673,12 @@
     Published = 2018-08-07T02:32:13Z
     Duration = 121000000000
     VideoType = 2
+  [Videos.c2ljSlGymp4]
+    VideoId = "c2ljSlGymp4"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2019-07-16T02:19:45Z
+    Duration = 0
+    VideoType = 1
   [Videos.cO81bPiOeZM]
     VideoId = "cO81bPiOeZM"
     Title = "Marble Track 3 construction Live Stream"
