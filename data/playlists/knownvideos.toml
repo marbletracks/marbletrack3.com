@@ -1247,6 +1247,12 @@
     Published = 2018-07-12T13:01:55Z
     Duration = 110000000000
     VideoType = 2
+  [Videos.SxOUH3w-YNo]
+    VideoId = "SxOUH3w-YNo"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2019-07-23T01:59:23Z
+    Duration = 0
+    VideoType = 1
   [Videos.Szk18zHKZm4]
     VideoId = "Szk18zHKZm4"
     Title = "Marble Track 3: retesting large marble"
@@ -1675,9 +1681,9 @@
     VideoType = 2
   [Videos.c2ljSlGymp4]
     VideoId = "c2ljSlGymp4"
-    Title = "Marble Track 3 construction Live Stream"
+    Title = "Marble Track 3 construction Live Stream: add holders for protection"
     Published = 2019-07-16T02:19:45Z
-    Duration = 0
+    Duration = 7552000000000
     VideoType = 1
   [Videos.cO81bPiOeZM]
     VideoId = "cO81bPiOeZM"
@@ -2386,6 +2392,12 @@
     Title = "Marble Track 3: ready to make lower zig zag"
     Published = 2018-10-04T02:18:23Z
     Duration = 8000000000
+    VideoType = 2
+  [Videos.vDIKjhM6hNQ]
+    VideoId = "vDIKjhM6hNQ"
+    Title = "Marble Track 3: add holders for protection"
+    Published = 2019-07-23T03:15:30Z
+    Duration = 58000000000
     VideoType = 2
   [Videos.vDskHEsARII]
     VideoId = "vDskHEsARII"
