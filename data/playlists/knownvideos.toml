@@ -197,6 +197,12 @@
     Published = 2019-05-28T01:04:59Z
     Duration = 254000000000
     VideoType = 2
+  [Videos.37mP1X7WHBg]
+    VideoId = "37mP1X7WHBg"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2019-07-30T03:51:31Z
+    Duration = 0
+    VideoType = 1
   [Videos.3QNEW8hqHyU]
     VideoId = "3QNEW8hqHyU"
     Title = "Marble Track 3: roll small marble"
@@ -1019,6 +1025,12 @@
     Published = 2017-09-09T09:36:02Z
     Duration = 8411000000000
     VideoType = 1
+  [Videos.NsZ2pJehKzs]
+    VideoId = "NsZ2pJehKzs"
+    Title = "Marble Track 3 construction Live Stream: Reversible Guy reversed"
+    Published = 2019-07-30T04:34:52Z
+    Duration = 7960000000000
+    VideoType = 1
   [Videos.Nzqn6xqbn2w]
     VideoId = "Nzqn6xqbn2w"
     Title = "Marble Track 3 construction Live Stream"
@@ -1249,9 +1261,9 @@
     VideoType = 2
   [Videos.SxOUH3w-YNo]
     VideoId = "SxOUH3w-YNo"
-    Title = "Marble Track 3 construction Live Stream"
+    Title = "Marble Track 3 construction Live Stream: before Reversible Guy reversed"
     Published = 2019-07-23T01:59:23Z
-    Duration = 0
+    Duration = 4476000000000
     VideoType = 1
   [Videos.Szk18zHKZm4]
     VideoId = "Szk18zHKZm4"
@@ -2008,6 +2020,12 @@
     Title = "Third attempt at making Marble Track 3 (May 2013)"
     Published = 2017-06-20T02:52:27Z
     Duration = 69000000000
+    VideoType = 2
+  [Videos.kX3GpNoZp68]
+    VideoId = "kX3GpNoZp68"
+    Title = "Marble Track 3: Reversible Guy reversed"
+    Published = 2019-07-30T05:45:32Z
+    Duration = 60000000000
     VideoType = 2
   [Videos.koc-LshCIMU]
     VideoId = "koc-LshCIMU"
