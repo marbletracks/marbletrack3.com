@@ -201,7 +201,7 @@
     VideoId = "37mP1X7WHBg"
     Title = "Marble Track 3 construction Live Stream"
     Published = 2019-07-30T03:51:31Z
-    Duration = 0
+    Duration = 3727000000000
     VideoType = 1
   [Videos.3QNEW8hqHyU]
     VideoId = "3QNEW8hqHyU"
@@ -244,6 +244,12 @@
     Title = "Marble Track 3 construction Live Stream: two more lzz toothpicks 1 of 2"
     Published = 2018-11-06T05:25:33Z
     Duration = 3469000000000
+    VideoType = 1
+  [Videos.4NTDnl2jcD0]
+    VideoId = "4NTDnl2jcD0"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2019-08-29T03:16:32Z
+    Duration = 5947000000000
     VideoType = 1
   [Videos.4QFxPmebVG8]
     VideoId = "4QFxPmebVG8"
@@ -526,6 +532,12 @@
     Title = "Marble Track 3 construction Live Stream"
     Published = 2017-11-18T06:18:25Z
     Duration = 9362000000000
+    VideoType = 1
+  [Videos.ARtimwyoVCA]
+    VideoId = "ARtimwyoVCA"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2019-09-03T03:21:02Z
+    Duration = 0
     VideoType = 1
   [Videos.Ak3lfk20XD0]
     VideoId = "Ak3lfk20XD0"
@@ -1025,6 +1037,12 @@
     Published = 2017-09-09T09:36:02Z
     Duration = 8411000000000
     VideoType = 1
+  [Videos.Nmbif6hwVr4]
+    VideoId = "Nmbif6hwVr4"
+    Title = "Marble Track 3 construction Live Stream: Reversible Guy installed CSFERP (1 of 2)"
+    Published = 2019-09-03T02:41:09Z
+    Duration = 7537000000000
+    VideoType = 1
   [Videos.NsZ2pJehKzs]
     VideoId = "NsZ2pJehKzs"
     Title = "Marble Track 3 construction Live Stream: Reversible Guy reversed"
@@ -1216,6 +1234,12 @@
     Title = "Marble Track 3 construction Live Stream: Added Circle by Caret Splitter"
     Published = 2018-12-17T04:37:16Z
     Duration = 6618000000000
+    VideoType = 1
+  [Videos.RNPY3VNHeT0]
+    VideoId = "RNPY3VNHeT0"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2019-08-15T00:41:51Z
+    Duration = 1370000000000
     VideoType = 1
   [Videos.RnmZZHEyJA0]
     VideoId = "RnmZZHEyJA0"
@@ -1451,6 +1475,12 @@
     Published = 2018-01-17T03:24:32Z
     Duration = 229000000000
     VideoType = 1
+  [Videos.WykcOoHAEjE]
+    VideoId = "WykcOoHAEjE"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2019-08-13T03:18:35Z
+    Duration = 7067000000000
+    VideoType = 1
   [Videos.X2abhXZ6Dhc]
     VideoId = "X2abhXZ6Dhc"
     Title = "Marble Track 3 construction Live Stream: glued lzz 3ban 2 of 5"
@@ -1546,6 +1576,12 @@
     Title = "Marble Track 3: G Choppy cuts sticks"
     Published = 2019-07-16T04:19:06Z
     Duration = 56000000000
+    VideoType = 2
+  [Videos.ZcK5f0O1_ac]
+    VideoId = "ZcK5f0O1_ac"
+    Title = "Marble Track 3: G Choppy curves the csferplh"
+    Published = 2019-08-20T04:54:53Z
+    Duration = 66000000000
     VideoType = 2
   [Videos._1q8CYWRXpA]
     VideoId = "_1q8CYWRXpA"
@@ -1955,6 +1991,12 @@
     Published = 2018-03-06T04:37:44Z
     Duration = 2033000000000
     VideoType = 1
+  [Videos.itE9vMljmRQ]
+    VideoId = "itE9vMljmRQ"
+    Title = "Marble Track 3: G Choppy curves lowest largest u-turn berm"
+    Published = 2019-08-13T02:51:08Z
+    Duration = 63000000000
+    VideoType = 2
   [Videos.iwetRGjcyQE]
     VideoId = "iwetRGjcyQE"
     Title = "Marble Track 3 construction Live Stream: filmed scene on top"
@@ -2165,6 +2207,12 @@
     Published = 2017-09-18T03:55:46Z
     Duration = 1532000000000
     VideoType = 1
+  [Videos.oDgJuN37mjQ]
+    VideoId = "oDgJuN37mjQ"
+    Title = "Marble Track 3 construction Live Stream: Reversible Guy installed CSFERP (2 of 2)"
+    Published = 2019-09-03T03:54:13Z
+    Duration = 2914000000000
+    VideoType = 1
   [Videos.oEdxWXAUF7M]
     VideoId = "oEdxWXAUF7M"
     Title = "Marble Track 3: almost glued inner bar support"
@@ -2297,6 +2345,12 @@
     Published = 2018-11-01T03:48:00Z
     Duration = 12000000000
     VideoType = 2
+  [Videos.rzkQ9bkdaTM]
+    VideoId = "rzkQ9bkdaTM"
+    Title = "Marble Track 3 construction Live Stream: G Choppy curves csferplh"
+    Published = 2019-08-20T04:03:56Z
+    Duration = 6822000000000
+    VideoType = 1
   [Videos.s-KCwA27wjA]
     VideoId = "s-KCwA27wjA"
     Title = "Marble Track 3: squiggle squiggle"
@@ -2369,6 +2423,12 @@
     Published = 2017-09-30T10:42:55Z
     Duration = 4393000000000
     VideoType = 1
+  [Videos.tdjRRXb0rJw]
+    VideoId = "tdjRRXb0rJw"
+    Title = "Marble Track 3: Reversible Guy installed Caret Splitter Feeder Extension Reflection Protection"
+    Published = 2019-09-03T04:34:31Z
+    Duration = 69000000000
+    VideoType = 2
   [Videos.to4mS_4E-d0]
     VideoId = "to4mS_4E-d0"
     Title = "Marble Track 3 construction Live Stream: too far down"
@@ -2411,6 +2471,12 @@
     Published = 2018-10-04T02:18:23Z
     Duration = 8000000000
     VideoType = 2
+  [Videos.vA521IHG3a4]
+    VideoId = "vA521IHG3a4"
+    Title = "Marble Track 3 construction Live Stream: little brother moves up"
+    Published = 2019-08-06T02:54:11Z
+    Duration = 6776000000000
+    VideoType = 1
   [Videos.vDIKjhM6hNQ]
     VideoId = "vDIKjhM6hNQ"
     Title = "Marble Track 3: add holders for protection"
