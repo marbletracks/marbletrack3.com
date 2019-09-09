@@ -1,10 +1,10 @@
 +++
-title = "Caret Splitter Feeder Extension Protection Upper Holder"
+title = "Caret Splitter Feeder Extension Reflection Protection Upper Holder"
 type = "parts"
 tags = [ "horizontal", "short", "angled" ]
 image = "https://b.robnugen.com/art/marble_track_3/track/parts/2019/2019_july_30_caret_splitter_feeder_extension_reflection_protection_upper_holder.jpg"
 thumbnail = "https://b.robnugen.com/art/marble_track_3/track/parts/2019/thumbs/2019_july_30_caret_splitter_feeder_extension_reflection_protection_upper_holder.jpg"
-description = "Caret Splitter Feeder Extension Protection Upper Holder"
+description = "Caret Splitter Feeder Extension Reflection Protection Upper Holder"
 workers = [
     "mr_mcglue",
     "g_choppy",

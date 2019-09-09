@@ -21,7 +21,7 @@ These will be rails along the [Caret Splitter Feeder Extension Reflection](/part
 
 History:
 
-* 2019 Sep 03: [Reversible Guy](/workers/reversible/) installed both bars on the [Caret Splitter Feeder Extension Protection Upper Holder](/parts/caret-splitter-feeder-extension-protection-upper-holder/) and Lower Holder.
+* 2019 Sep 03: [Reversible Guy](/workers/reversible/) installed both bars on the [Caret Splitter Feeder Extension Reflection Protection Upper Holder](/parts/caret-splitter-feeder-extension-reflection-protection-upper-holder/) and [Lower Holder](/parts/caret-splitter-feeder-extension-reflection-protection-lower-holder/).
 
 [![2019 sep 03 CSFER protection](//b.robnugen.com/art/marble_track_3/track/parts/2019/thumbs/2019_sep_03_CSFER_protection.jpg)](//b.robnugen.com/art/marble_track_3/track/parts/2019/2019_sep_03_CSFER_protection.jpg)
 
