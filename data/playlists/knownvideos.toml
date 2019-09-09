@@ -535,9 +535,9 @@
     VideoType = 1
   [Videos.ARtimwyoVCA]
     VideoId = "ARtimwyoVCA"
-    Title = "Marble Track 3 construction Live Stream"
+    Title = "Marble Track 3 construction Live Stream: ready to place caret splitter feeder lefter guider"
     Published = 2019-09-03T03:21:02Z
-    Duration = 0
+    Duration = 10251000000000
     VideoType = 1
   [Videos.Ak3lfk20XD0]
     VideoId = "Ak3lfk20XD0"
@@ -2393,6 +2393,12 @@
     Published = 2018-07-14T03:54:39Z
     Duration = 111000000000
     VideoType = 2
+  [Videos.sgcdcVmpM2Q]
+    VideoId = "sgcdcVmpM2Q"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2019-09-09T05:15:17Z
+    Duration = 0
+    VideoType = 1
   [Videos.shsPhHuw--k]
     VideoId = "shsPhHuw--k"
     Title = "Marble Track 3: before releasing big marble"
@@ -2501,6 +2507,12 @@
     Published = 2017-08-01T03:20:03Z
     Duration = 4372000000000
     VideoType = 1
+  [Videos.vk8MuuY1n_4]
+    VideoId = "vk8MuuY1n_4"
+    Title = "Marble Track 3: ready to place caret splitter feeder lefter guider"
+    Published = 2019-09-09T06:44:33Z
+    Duration = 73000000000
+    VideoType = 2
   [Videos.vkWHNaZS5Ck]
     VideoId = "vkWHNaZS5Ck"
     Title = "Marble Track 3 construction Live Stream: small marbles blocked; lil brother jumps"
