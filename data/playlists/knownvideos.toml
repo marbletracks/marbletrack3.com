@@ -527,6 +527,12 @@
     Published = 2017-09-05T00:38:20Z
     Duration = 20000000000
     VideoType = 2
+  [Videos.AJRbUPE1Rq0]
+    VideoId = "AJRbUPE1Rq0"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2019-09-17T03:05:17Z
+    Duration = 0
+    VideoType = 1
   [Videos.AO8Ehp1t52c]
     VideoId = "AO8Ehp1t52c"
     Title = "Marble Track 3 construction Live Stream"
@@ -1709,6 +1715,12 @@
     Published = 2018-01-16T03:08:10Z
     Duration = 4581000000000
     VideoType = 1
+  [Videos.be7AuagjaC0]
+    VideoId = "be7AuagjaC0"
+    Title = "Marble Track 3: Nearly placed Caret Splitter Feeder Righter Guider"
+    Published = 2019-09-17T04:37:26Z
+    Duration = 74000000000
+    VideoType = 2
   [Videos.bgxiGkFJhYs]
     VideoId = "bgxiGkFJhYs"
     Title = "Marble Track 3 construction Live Stream: (AUDIO IS LOUD at first) centering the plate bearings"
@@ -2395,9 +2407,9 @@
     VideoType = 2
   [Videos.sgcdcVmpM2Q]
     VideoId = "sgcdcVmpM2Q"
-    Title = "Marble Track 3 construction Live Stream"
+    Title = "Marble Track 3 construction Live Stream: nearly placed caret splitter feeder righter guider"
     Published = 2019-09-09T05:15:17Z
-    Duration = 0
+    Duration = 8117000000000
     VideoType = 1
   [Videos.shsPhHuw--k]
     VideoId = "shsPhHuw--k"
