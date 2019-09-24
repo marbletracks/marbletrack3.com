@@ -14,7 +14,7 @@ workers = [
 Aliases = [
   "/p/tft"
 ]
-date = 2018-11-12T17:38:56+09:00
+date = 2017-10-10T17:38:56+09:00
 +++
 
 The First Track is made of two bamboo skewers.  Its placement bicsects the stage, and guides all the other tracks on the lowest level.

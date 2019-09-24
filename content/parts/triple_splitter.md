@@ -22,7 +22,8 @@ The (top of the) Triple Splitter sits opposite the [Caret Splitter](/parts/caret
 
 #### Construction History
 
-* May 2018: The [Triple Splitter Small Feeder](/parts/triple-splitter-small-feeder/) now feeds small marbles onto the Triple Splitter.  The marbles properly roll under the rail onto the
-* November 2018:  The Triple Splitter does *not* have a catchment for the medium marbles.  They just fall down beside the [Lower Zig Zag](/parts/lower_zig_zag/).  Unfortunately, because I have built the Lower Zig Zag, building the catchment for the medium marbles will be tricky.  I need to work on that sooner than later!
+* Sep 2019: [Big Brother](/workers/big_brother/) tested the Triple Splitter when [Pinky](/workers/pinky/) tested the [Caret Splitter Feeder Extension Reflection](/parts/caret-splitter-feeder-extension-reflection/).
 
-The small marble catchment works, but the small marbles do not currently pass under the rail of the Triple Splitter to reach the [Little Wiggly Track](/parts/little_wiggly_track/).
+* May 2019: The [Triple Splitter Small Feeder](/parts/triple-splitter-small-feeder/) now feeds small marbles onto the Triple Splitter.  The marbles properly roll under the rail onto the [Little Wiggly Track](/parts/little_wiggly_track/).
+
+* November 2018:  The Triple Splitter does *not* have a catchment for the medium marbles.  They just fall down beside the [Lower Zig Zag](/parts/lower_zig_zag/).  Unfortunately, because I have built the Lower Zig Zag, building the catchment for the medium marbles will be tricky.  I need to work on that sooner than later!

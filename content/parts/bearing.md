@@ -11,7 +11,7 @@ workers = [
 Aliases = [
   "/p/bearing"
 ]
-date = 2018-09-21T17:38:54+09:00
+date = 2017-09-22T17:38:54+09:00
 +++
 
 The bearing is actually just a convenience for me, but has become a somewhat important part of the movie of the Marble Track 3 construction.

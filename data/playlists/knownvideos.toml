@@ -389,11 +389,23 @@
     Published = 2019-01-14T02:55:33Z
     Duration = 7938000000000
     VideoType = 1
+  [Videos.8086FdvpCKY]
+    VideoId = "8086FdvpCKY"
+    Title = "Marble Track 3: almost ready to roll"
+    Published = 2019-09-23T02:42:24Z
+    Duration = 77000000000
+    VideoType = 2
   [Videos.89QgTyyntqA]
     VideoId = "89QgTyyntqA"
     Title = "Marble Track 3 construction Live Stream: glued dual track rail"
     Published = 2018-03-24T02:39:02Z
     Duration = 2653000000000
+    VideoType = 1
+  [Videos.8cOXDsc0OVc]
+    VideoId = "8cOXDsc0OVc"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2019-09-24T02:43:12Z
+    Duration = 0
     VideoType = 1
   [Videos.8klW-eqN2ho]
     VideoId = "8klW-eqN2ho"
@@ -531,7 +543,7 @@
     VideoId = "AJRbUPE1Rq0"
     Title = "Marble Track 3 construction Live Stream"
     Published = 2019-09-17T03:05:17Z
-    Duration = 0
+    Duration = 6262000000000
     VideoType = 1
   [Videos.AO8Ehp1t52c]
     VideoId = "AO8Ehp1t52c"
@@ -1097,6 +1109,12 @@
     Published = 2019-06-21T14:25:42Z
     Duration = 39000000000
     VideoType = 2
+  [Videos.Ok-GptjtZ1I]
+    VideoId = "Ok-GptjtZ1I"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2019-09-23T02:37:02Z
+    Duration = 10632000000000
+    VideoType = 1
   [Videos.Om6LTZYHUH0]
     VideoId = "Om6LTZYHUH0"
     Title = "Marble Track 3: nearly ready for vertical support"
