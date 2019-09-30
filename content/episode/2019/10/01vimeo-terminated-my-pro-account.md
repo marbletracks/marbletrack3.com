@@ -78,3 +78,10 @@ My reply:
     via commits starting at this URL:
 
     https://github.com/marbletracks/marbletrack3.com/blob/master/content/episode/2019/10/01vimeo-terminated-my-pro-account.md
+
+##### 07:34 Tuesday 01 October 2019 JST
+
+Update: I started a Twitter Storm rar
+https://twitter.com/marbletracks/status/1178800231569166336
+
+All my 0 followers, unite!!
