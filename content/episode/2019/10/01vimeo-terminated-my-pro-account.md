@@ -67,17 +67,15 @@ My reply:
     Best regards
     Rob
     
-    And PS I just signed up for PRO, so I'd like my money back if you
-    going to terminate my account.
-    
-    PS PS just to prove I, Rob Nugen, control marbletrack3.com I will post
-    this on the site:
+And PS I just signed up for PRO, so I'd like my money back if you going to terminate my account.
 
-    https://www.marbletrack3.com/episode/2019/october/vimeo-terminated-my-pro-account/
+PS PS just to prove I, Rob Nugen, control marbletrack3.com I will post this on the site:
 
-    via commits starting at this URL:
+https://www.marbletrack3.com/episode/2019/october/vimeo-terminated-my-pro-account/
 
-    https://github.com/marbletracks/marbletrack3.com/blob/master/content/episode/2019/10/01vimeo-terminated-my-pro-account.md
+via commits starting at this URL:
+
+https://github.com/marbletracks/marbletrack3.com/blob/master/content/episode/2019/10/01vimeo-terminated-my-pro-account.md
 
 ##### 07:34 Tuesday 01 October 2019 JST
 
@@ -85,3 +83,22 @@ Update: I started a Twitter Storm rar
 https://twitter.com/marbletracks/status/1178800231569166336
 
 All my 0 followers, unite!!
+
+##### 07:53 Tuesday 01 October 2019 JST
+
+Hi Rob Nugen,
+
+Thanks for writing to us!
+
+We received your message and we’ll respond to vimeo.com@robnugen.com as soon as possible. (How soon, you ask? Read more about our email response timelines.)
+
+In the meantime, you may find an answer more quickly by:
+
+• Searching our Help Center: vimeo.com/help
+• Reading the Vimeo Guidelines: vimeo.com/guidelines
+• Learning how to Report a Violation: vimeo.com/help/violations
+
+You can respond to this email if you find the answer you were looking for, or if you would like to provide more information that will help us resolve your issue... the more detail, the better!
+
+LOVE,
+Vimeo
