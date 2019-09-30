@@ -405,7 +405,7 @@
     VideoId = "8cOXDsc0OVc"
     Title = "Marble Track 3 construction Live Stream"
     Published = 2019-09-24T02:43:12Z
-    Duration = 0
+    Duration = 1303000000000
     VideoType = 1
   [Videos.8klW-eqN2ho]
     VideoId = "8klW-eqN2ho"
@@ -1156,6 +1156,12 @@
     Title = "Marble Track 3 construction Live Stream: tail flipped switch"
     Published = 2018-07-21T23:37:14Z
     Duration = 3336000000000
+    VideoType = 1
+  [Videos.PZDAo-sItMA]
+    VideoId = "PZDAo-sItMA"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2019-09-28T03:22:43Z
+    Duration = 5963000000000
     VideoType = 1
   [Videos.PpmBmGneZSw]
     VideoId = "PpmBmGneZSw"
@@ -2495,6 +2501,12 @@
     Published = 2018-08-28T03:52:58Z
     Duration = 12476000000000
     VideoType = 1
+  [Videos.ukJyCrhv194]
+    VideoId = "ukJyCrhv194"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2019-09-28T02:48:00Z
+    Duration = 0
+    VideoType = 1
   [Videos.uttu-9U4G2w]
     VideoId = "uttu-9U4G2w"
     Title = "Marble Track 3 construction Live Stream: calling for help"
@@ -2674,6 +2686,12 @@
     Title = "Marble Track 3 construction Live Stream:"
     Published = 2017-09-08T03:01:07Z
     Duration = 6002000000000
+    VideoType = 1
+  [Videos.zILr_gP9okM]
+    VideoId = "zILr_gP9okM"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2019-09-27T09:35:46Z
+    Duration = 1805000000000
     VideoType = 1
   [Videos.zXAvGuWGJDw]
     VideoId = "zXAvGuWGJDw"

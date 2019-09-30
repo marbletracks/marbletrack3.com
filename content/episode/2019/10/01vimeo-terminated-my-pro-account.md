@@ -71,4 +71,10 @@ My reply:
     going to terminate my account.
     
     PS PS just to prove I, Rob Nugen, control marbletrack3.com I will post
-    this on the site.  brb
+    this on the site:
+
+    https://www.marbletrack3.com/episode/2019/october/vimeo-terminated-my-pro-account/
+
+    via commits starting at this URL:
+
+    https://github.com/marbletracks/marbletrack3.com/blob/master/content/episode/2019/10/01vimeo-terminated-my-pro-account.md
