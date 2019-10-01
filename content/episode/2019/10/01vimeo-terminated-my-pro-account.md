@@ -90,13 +90,13 @@ Hi Rob Nugen,
 
 Thanks for writing to us!
 
-We received your message and we’ll respond to vimeo.com@robnugen.com as soon as possible. (How soon, you ask? Read more about our email response timelines.)
+We received your message and we’ll respond to vimeo.com後robnugen.com as soon as possible. (How soon, you ask? Read more about our email response timelines.)
 
 In the meantime, you may find an answer more quickly by:
 
-• Searching our Help Center: vimeo.com/help
-• Reading the Vimeo Guidelines: vimeo.com/guidelines
-• Learning how to Report a Violation: vimeo.com/help/violations
+* Searching our Help Center: vimeo.com/help
+* Reading the Vimeo Guidelines: vimeo.com/guidelines
+* Learning how to Report a Violation: vimeo.com/help/violations
 
 You can respond to this email if you find the answer you were looking for, or if you would like to provide more information that will help us resolve your issue... the more detail, the better!
 
