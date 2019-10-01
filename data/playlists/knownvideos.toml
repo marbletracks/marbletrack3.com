@@ -575,6 +575,12 @@
     Published = 2019-01-12T02:36:30Z
     Duration = 2240000000000
     VideoType = 1
+  [Videos.Bj_bDPS3Yik]
+    VideoId = "Bj_bDPS3Yik"
+    Title = "Marble Track 3: Squarehead thinking about what to do next"
+    Published = 2019-10-01T02:51:28Z
+    Duration = 83000000000
+    VideoType = 2
   [Videos.BjtpiRxoxvU]
     VideoId = "BjtpiRxoxvU"
     Title = "Marble Track 3 construction Live Stream: just before the first roll"
@@ -1919,6 +1925,12 @@
     Published = 2018-12-25T03:48:29Z
     Duration = 20000000000
     VideoType = 2
+  [Videos.gJA7-I6otQU]
+    VideoId = "gJA7-I6otQU"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2019-10-01T02:42:55Z
+    Duration = 0
+    VideoType = 1
   [Videos.gdWZ6HDW_2M]
     VideoId = "gdWZ6HDW_2M"
     Title = "Marble Track 3 construction Live Stream: add next rail on outer spiral"
@@ -2503,9 +2515,9 @@
     VideoType = 1
   [Videos.ukJyCrhv194]
     VideoId = "ukJyCrhv194"
-    Title = "Marble Track 3 construction Live Stream"
+    Title = "Marble Track 3 construction Live Stream: the day Vimeo removed my account"
     Published = 2019-09-28T02:48:00Z
-    Duration = 0
+    Duration = 7515000000000
     VideoType = 1
   [Videos.uttu-9U4G2w]
     VideoId = "uttu-9U4G2w"
