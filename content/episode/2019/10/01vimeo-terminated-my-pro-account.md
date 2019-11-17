@@ -84,7 +84,7 @@ https://twitter.com/marbletracks/status/1178800231569166336
 
 All my 0 followers, unite!!
 
-##### 07:53 Tuesday 01 October 2019 JST
+##### 07:47 Tuesday 01 October 2019 JST
 
 Hi Rob Nugen,
 
@@ -102,3 +102,51 @@ You can respond to this email if you find the answer you were looking for, or if
 
 LOVE,
 Vimeo
+
+##### 06:12 Wednesday 02 October 2019 JST
+
+from: Dan R. (Vimeo Trust & Safety)
+
+Oct 1, 5:12 PM EDT
+
+Hi Rob, 
+
+Your account was terminated for violating Vimeo's Terms of Service (https://vimeo.com/terms).
+
+Vimeo does not allow you to upload videos ripped from TV, movies, or anywhere else. The golden rule of Vimeo is that you are only permitted to upload videos that you created. The video titled "[just my feet](http://feet.robnugen.com)" was the clip found in violation of our guidelines. 
+
+We’re happy to provide a list of your videos, which we’ll send to the primary address on your account. The file you receive will contain the following information:
+
+* Video ID
+* Video title
+* Number of plays
+* Number of likes
+* Download link
+
+If you've uploaded more than 5,000 videos you may receive multiple emails containing additional files, as each file can only hold a maximum of 5,000 rows.
+
+You do have to download those videos individually, as there's currently no method for batch downloading — sorry about any inconvenience that might cause.
+
+NOTE: The links in the this spreadsheet will only be good for one week from the time it hits your inbox, so be sure to archive your videos within the next 7 days.
+
+I've also gone ahead and issued a refund of your Vimeo Plus subscription. Please allow 3-5 business days for the funds to post to your account. 
+
+Please let us know if you have any questions!
+
+Sincerely,
+Dan R.
+
+##### 07:53 Wednesday 02 October 2019 JST
+
+Hi Dan
+
+Thank you for your reply.
+
+Ah, yes, I can understand "Just My Feet" is in violation. 
+
+Can we remove that video, consider me educated, and reinstate my account?
+
+My focus now is Marble Track 3, not old TV shows I was on.
+
+Best,
+Rob

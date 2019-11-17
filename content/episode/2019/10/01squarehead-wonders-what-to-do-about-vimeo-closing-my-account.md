@@ -10,8 +10,10 @@ date: 2019-10-01T12:09:48+09:00
 
 Still family friendly, but this is the day I complained a lot toward Vimeo for removing my account, claiming I uploaded content I did not create.  HA!  What an annoying laughable claim!!
 
-See how close the marbles are together? Very close!  That is how laughable Vimeo's
-claim is!  Very laughable!
+See how close the marbles are together? Very close!  ~~That is how laughable Vimeo's
+claim is!  Very laughable!~~
+
+edit: Ah fair enough.  I had uploaded a TV show segment when I appeared on TV for being barefoot.
 
 [![2019 oct 01 gap between tracks](//b.robnugen.com/art/marble_track_3/track/parts/2019/thumbs/2019_oct_01_gap_between_tracks.jpg)](//b.robnugen.com/art/marble_track_3/track/parts/2019/2019_oct_01_gap_between_tracks.jpg)
 
