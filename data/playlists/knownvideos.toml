@@ -47,6 +47,12 @@
     Published = 2017-09-08T02:27:45Z
     Duration = 34000000000
     VideoType = 2
+  [Videos.-mYgAf-AKac]
+    VideoId = "-mYgAf-AKac"
+    Title = "Marble Track 3 construction Live Stream: lil reversal"
+    Published = 2019-11-19T05:17:51Z
+    Duration = 0
+    VideoType = 1
   [Videos.-rtNIse3mqo]
     VideoId = "-rtNIse3mqo"
     Title = "Marble Track 3: moving chopstick"
@@ -1823,6 +1829,12 @@
     Published = 2019-07-16T02:19:45Z
     Duration = 7552000000000
     VideoType = 1
+  [Videos.c9mOTqS837g]
+    VideoId = "c9mOTqS837g"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2019-11-19T05:50:25Z
+    Duration = 1940000000000
+    VideoType = 1
   [Videos.cO81bPiOeZM]
     VideoId = "cO81bPiOeZM"
     Title = "Marble Track 3 construction Live Stream"
@@ -2397,7 +2409,7 @@
     VideoId = "pkwNdtX0ivs"
     Title = "Marble Track 3 construction Live Stream"
     Published = 2019-11-12T02:37:07Z
-    Duration = 0
+    Duration = 8850000000000
     VideoType = 1
   [Videos.pppwDXPpF34]
     VideoId = "pppwDXPpF34"
@@ -2416,6 +2428,12 @@
     Title = "Marble Track 3 construction Live Stream: progressing nicely"
     Published = 2018-03-18T05:39:16Z
     Duration = 6249000000000
+    VideoType = 1
+  [Videos.q17NdaUm93I]
+    VideoId = "q17NdaUm93I"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2019-11-19T05:17:52Z
+    Duration = 0
     VideoType = 1
   [Videos.qpeHQqscrnA]
     VideoId = "qpeHQqscrnA"
