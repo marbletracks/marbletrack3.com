@@ -731,6 +731,12 @@
     Published = 2019-01-03T06:42:53Z
     Duration = 7273000000000
     VideoType = 1
+  [Videos.EUxVr_3BEwQ]
+    VideoId = "EUxVr_3BEwQ"
+    Title = "Marble Track 3 construction Live Stream: caught caret splitter rudder holder"
+    Published = 2019-11-26T07:34:47Z
+    Duration = 7150000000000
+    VideoType = 1
   [Videos.EVaJG5R56b0]
     VideoId = "EVaJG5R56b0"
     Title = "Marble Track 3: test crop blue background"
@@ -826,6 +832,12 @@
     Title = "Marble Track 3: curiosity"
     Published = 2017-08-15T02:07:40Z
     Duration = 42000000000
+    VideoType = 2
+  [Videos.GIYwqRln0g8]
+    VideoId = "GIYwqRln0g8"
+    Title = "Marble Track 3"
+    Published = 2019-11-26T06:58:08Z
+    Duration = 0
     VideoType = 2
   [Videos.Gz0WYJAiIc4]
     VideoId = "Gz0WYJAiIc4"
@@ -1234,6 +1246,12 @@
     Title = "Marble Track 3 construction Live Stream: added lights and did another test shoot"
     Published = 2017-06-27T04:24:48Z
     Duration = 4310000000000
+    VideoType = 1
+  [Videos.QOBEeegjeMI]
+    VideoId = "QOBEeegjeMI"
+    Title = "Marble Track 3 construction Live Stream: Squarehead running away"
+    Published = 2019-11-26T00:25:10Z
+    Duration = 25896000000000
     VideoType = 1
   [Videos.QSvjw7CfJ7c]
     VideoId = "QSvjw7CfJ7c"
@@ -2693,6 +2711,12 @@
     Published = 2017-09-09T11:35:07Z
     Duration = 6487000000000
     VideoType = 1
+  [Videos.w_gjVrPZMjY]
+    VideoId = "w_gjVrPZMjY"
+    Title = "Marble Track 3: caught caret rudder holder"
+    Published = 2019-11-26T07:47:44Z
+    Duration = 91000000000
+    VideoType = 2
   [Videos.wxH5M6T6_n8]
     VideoId = "wxH5M6T6_n8"
     Title = "Marble Track 3 construction Live Stream"

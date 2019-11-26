@@ -19,4 +19,4 @@ date = 2019-11-19T17:04:27+09:00
 
 History:
 
-* 2019 Nov 19: [Mr Greene](/workers/mr_greene/) started carrying it onto the set
+* 2019 Nov 19: [Mr Greene](/workers/mr_greene/) started carrying it onto the set.  Jimmy helped name the piece.  I had tentatively called it Large Marble Liftee.
