@@ -563,6 +563,12 @@
     Published = 2019-06-21T03:58:45Z
     Duration = 6718000000000
     VideoType = 1
+  [Videos.ADfm9o2IwW4]
+    VideoId = "ADfm9o2IwW4"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2019-12-03T03:43:05Z
+    Duration = 0
+    VideoType = 1
   [Videos.AEl_b1gScRo]
     VideoId = "AEl_b1gScRo"
     Title = "Marble Track 3: beginning to wrangle"
@@ -2449,9 +2455,9 @@
     VideoType = 1
   [Videos.q17NdaUm93I]
     VideoId = "q17NdaUm93I"
-    Title = "Marble Track 3 construction Live Stream"
+    Title = "Marble Track 3 construction Live Stream: planning arch over the first track exit"
     Published = 2019-11-19T05:17:52Z
-    Duration = 0
+    Duration = 8968000000000
     VideoType = 1
   [Videos.qpeHQqscrnA]
     VideoId = "qpeHQqscrnA"
