@@ -150,3 +150,20 @@ My focus now is Marble Track 3, not old TV shows I was on.
 
 Best,
 Rob
+
+##### 10:57 Wednesday 02 October 2019 JST
+
+    Hi Rob, 
+    
+    As a one time courtesy, we've restored your account and other
+    videos. "Just My Feet" will remain removed.
+    
+    In the future, we will not be able to extend this courtesy
+    again. Any content in violation of our Terms of Service
+    (https://vimeo.com/terms#acceptance) or our Guidelines
+    (https://vimeo.com/help/guidelines) may result in your account
+    being permanently removed from the platform.
+    
+    Please let me know if you have any further questions. 
+    Sincerely,
+    Dan R.
