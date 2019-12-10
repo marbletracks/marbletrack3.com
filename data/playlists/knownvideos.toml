@@ -565,9 +565,9 @@
     VideoType = 1
   [Videos.ADfm9o2IwW4]
     VideoId = "ADfm9o2IwW4"
-    Title = "Marble Track 3 construction Live Stream"
+    Title = "Marble Track 3 construction Live Stream: ready to flutter"
     Published = 2019-12-03T03:43:05Z
-    Duration = 0
+    Duration = 9934000000000
     VideoType = 1
   [Videos.AEl_b1gScRo]
     VideoId = "AEl_b1gScRo"
@@ -1487,6 +1487,12 @@
     Published = 2019-01-02T02:45:03Z
     Duration = 2145000000000
     VideoType = 1
+  [Videos.UrBIQcVJJCQ]
+    VideoId = "UrBIQcVJJCQ"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2019-12-10T06:34:37Z
+    Duration = 0
+    VideoType = 1
   [Videos.Uw6OXqRv_ko]
     VideoId = "Uw6OXqRv_ko"
     Title = "Marble Track 3 construction Live Stream: nearly ready for vertical support"
@@ -1540,6 +1546,12 @@
     Title = "Marble Track 3 construction Live Stream: after catching chopstick"
     Published = 2018-09-21T04:16:10Z
     Duration = 6182000000000
+    VideoType = 1
+  [Videos.W5KHu-NsX6o]
+    VideoId = "W5KHu-NsX6o"
+    Title = "Marble Track 3 construction Live Stream: begin to flutter"
+    Published = 2019-12-10T07:09:45Z
+    Duration = 3965000000000
     VideoType = 1
   [Videos.W6IQYjU-BLc]
     VideoId = "W6IQYjU-BLc"
