@@ -1489,9 +1489,9 @@
     VideoType = 1
   [Videos.UrBIQcVJJCQ]
     VideoId = "UrBIQcVJJCQ"
-    Title = "Marble Track 3 construction Live Stream"
+    Title = "Marble Track 3 construction Live Stream: caret splitter rudder flutters"
     Published = 2019-12-10T06:34:37Z
-    Duration = 0
+    Duration = 9081000000000
     VideoType = 1
   [Videos.Uw6OXqRv_ko]
     VideoId = "Uw6OXqRv_ko"
@@ -2447,6 +2447,12 @@
     Published = 2019-11-12T02:37:07Z
     Duration = 8850000000000
     VideoType = 1
+  [Videos.pnJhHFVwMHM]
+    VideoId = "pnJhHFVwMHM"
+    Title = "Marble Track 3: starting to flutter"
+    Published = 2019-12-10T08:19:05Z
+    Duration = 92000000000
+    VideoType = 2
   [Videos.pppwDXPpF34]
     VideoId = "pppwDXPpF34"
     Title = "Marble Track 3 construction Live Stream"
@@ -2735,6 +2741,12 @@
     Published = 2019-11-26T07:47:44Z
     Duration = 91000000000
     VideoType = 2
+  [Videos.wg5BX1D8fKQ]
+    VideoId = "wg5BX1D8fKQ"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2019-12-17T03:02:44Z
+    Duration = 0
+    VideoType = 1
   [Videos.wxH5M6T6_n8]
     VideoId = "wxH5M6T6_n8"
     Title = "Marble Track 3 construction Live Stream"
