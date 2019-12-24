@@ -719,6 +719,12 @@
     Published = 2017-11-17T01:46:18Z
     Duration = 35000000000
     VideoType = 2
+  [Videos.E21NXLUF6CA]
+    VideoId = "E21NXLUF6CA"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2019-12-24T04:37:27Z
+    Duration = 0
+    VideoType = 1
   [Videos.E89ua8-W7ts]
     VideoId = "E89ua8-W7ts"
     Title = "Marble Track 3 construction Live Stream: glued 9th placed outer spiral support"
@@ -2743,9 +2749,9 @@
     VideoType = 2
   [Videos.wg5BX1D8fKQ]
     VideoId = "wg5BX1D8fKQ"
-    Title = "Marble Track 3 construction Live Stream"
+    Title = "Marble Track 3 construction Live Stream: The Grand Arch top"
     Published = 2019-12-17T03:02:44Z
-    Duration = 0
+    Duration = 7393000000000
     VideoType = 1
   [Videos.wxH5M6T6_n8]
     VideoId = "wxH5M6T6_n8"
