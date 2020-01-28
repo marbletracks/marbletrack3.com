@@ -10,7 +10,7 @@ workers = [
     "g_choppy"
 ]
 aliases = [
-    "/parts/caret-splitter-rudder-holder"
+    "/parts/caret-splitter-rudder-holder",
     "/p/csrls",
     "/p/csrh"
 ]
