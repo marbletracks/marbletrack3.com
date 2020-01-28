@@ -317,6 +317,12 @@
     Published = 2018-02-01T07:35:00Z
     Duration = 98000000000
     VideoType = 2
+  [Videos.5iNjT0bgufA]
+    VideoId = "5iNjT0bgufA"
+    Title = "Marble Track 3 construction Live Stream: showed Ma and Madeleine"
+    Published = 2020-01-14T02:16:22Z
+    Duration = 5167000000000
+    VideoType = 1
   [Videos.5mKZxRcZw0c]
     VideoId = "5mKZxRcZw0c"
     Title = "Marble Track 3 construction Live Stream: making holders for camera and lights"
@@ -424,6 +430,12 @@
     Title = "Marble Track 3 construction Live Stream: glued dual track rail"
     Published = 2018-03-24T02:39:02Z
     Duration = 2653000000000
+    VideoType = 1
+  [Videos.8Ye2eEL8-cY]
+    VideoId = "8Ye2eEL8-cY"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2020-01-28T03:06:41Z
+    Duration = 2331000000000
     VideoType = 1
   [Videos.8cOXDsc0OVc]
     VideoId = "8cOXDsc0OVc"
@@ -723,7 +735,7 @@
     VideoId = "E21NXLUF6CA"
     Title = "Marble Track 3 construction Live Stream"
     Published = 2019-12-24T04:37:27Z
-    Duration = 0
+    Duration = 7477000000000
     VideoType = 1
   [Videos.E89ua8-W7ts]
     VideoId = "E89ua8-W7ts"
@@ -773,6 +785,12 @@
     Published = 2017-09-30T07:53:42Z
     Duration = 3021000000000
     VideoType = 1
+  [Videos.EkRy7Id-dWA]
+    VideoId = "EkRy7Id-dWA"
+    Title = "Marble Track 3: placed caret splitter rudder"
+    Published = 2020-01-28T08:37:39Z
+    Duration = 96000000000
+    VideoType = 2
   [Videos.EqmBxhDiaU8]
     VideoId = "EqmBxhDiaU8"
     Title = "Marble Track 3 construction Live Stream: glued 6p outer spiral support 1"
@@ -1841,6 +1859,12 @@
     Published = 2018-01-16T03:08:10Z
     Duration = 4581000000000
     VideoType = 1
+  [Videos.b657PP9gW_M]
+    VideoId = "b657PP9gW_M"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2020-01-28T06:09:21Z
+    Duration = 0
+    VideoType = 1
   [Videos.be7AuagjaC0]
     VideoId = "be7AuagjaC0"
     Title = "Marble Track 3: Nearly placed Caret Splitter Feeder Righter Guider"
@@ -2207,12 +2231,24 @@
     Published = 2018-03-06T07:10:52Z
     Duration = 4180000000000
     VideoType = 1
+  [Videos.kLWOZr9jDqI]
+    VideoId = "kLWOZr9jDqI"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2020-01-21T05:17:11Z
+    Duration = 4814000000000
+    VideoType = 1
   [Videos.kNjhJQKKWkw]
     VideoId = "kNjhJQKKWkw"
     Title = "Marble Track 3: hmm did the stage stop moving?"
     Published = 2018-03-20T05:58:07Z
     Duration = 18000000000
     VideoType = 2
+  [Videos.kQ6oVKUmVcc]
+    VideoId = "kQ6oVKUmVcc"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2020-01-28T06:44:29Z
+    Duration = 1760000000000
+    VideoType = 1
   [Videos.kQTYA4j0a7s]
     VideoId = "kQTYA4j0a7s"
     Title = "dealing with issues Stream and figured out tripod"
@@ -2500,6 +2536,12 @@
     Title = "Marble Track 3 construction Live Stream:"
     Published = 2017-09-12T03:48:13Z
     Duration = 7395000000000
+    VideoType = 1
+  [Videos.qwbA8D0sn2I]
+    VideoId = "qwbA8D0sn2I"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2020-01-21T03:24:29Z
+    Duration = 2723000000000
     VideoType = 1
   [Videos.r5KVyvvO8DM]
     VideoId = "r5KVyvvO8DM"
@@ -2801,6 +2843,12 @@
     Published = 2017-08-22T15:58:21Z
     Duration = 59000000000
     VideoType = 2
+  [Videos.y0QVUJAJ-Fo]
+    VideoId = "y0QVUJAJ-Fo"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2020-01-07T02:57:22Z
+    Duration = 7448000000000
+    VideoType = 1
   [Videos.y7Bzg0XQdcY]
     VideoId = "y7Bzg0XQdcY"
     Title = "Marble Track 3: start rotation cycle"
@@ -2866,6 +2914,12 @@
     Title = "Marble Track 3 construction Live Stream:"
     Published = 2017-09-08T03:01:07Z
     Duration = 6002000000000
+    VideoType = 1
+  [Videos.zDM56RdxAXE]
+    VideoId = "zDM56RdxAXE"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2020-01-28T02:00:00Z
+    Duration = 2386000000000
     VideoType = 1
   [Videos.zILr_gP9okM]
     VideoId = "zILr_gP9okM"
