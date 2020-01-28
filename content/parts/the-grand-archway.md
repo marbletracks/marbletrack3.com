@@ -35,6 +35,10 @@ and wide enough to allow me to grab marbles from [The First Track](/parts/the_fi
 
 History:
 
+* 2020 Jan 20: [Doctor Sugar](/workers/dr_sugar/) began putting it in place.
+
+[![2020 jan 28 after attached rudder](//b.robnugen.com/art/marble_track_3/track/parts/2019/thumbs/2020_jan_28_after_attached_rudder.jpg)](//b.robnugen.com/art/marble_track_3/track/parts/2019/2020_jan_28_after_attached_rudder.jpg)
+
 * 2019 Dec 24: [Doctor Sugar](/workers/dr_sugar/) started bringing [The Grand Archway](/parts/the-grand-archway/) onto the set.
 
 [![2019 dec 24 Dr Sugar brings The Grand Archway](//b.robnugen.com/art/marble_track_3/track/parts/2019/thumbs/2019_dec_24_dr_sugar_brings_the_grand_arch.jpg)](//b.robnugen.com/art/marble_track_3/track/parts/2019/2019_dec_24_dr_sugar_brings_the_grand_arch.jpg)
