@@ -17,6 +17,9 @@ date = 2018-11-09T21:37:34+09:00
 
 The Caret Splitter sits opposite the (top of the) [Triple Splitter](/parts/triple_splitter/).  It is the small section of track which spans the end of the medium marble resting point which does *not* involve the [Triple Splitter](/parts/triple_splitter/).  I named it Caret Splitter because it is shaped like vaguely like a caret ^.  It is actually shaped more like the Japanese character へ, when viewed from the direction the marbles will reach it.
 
+Marbles arriving at the Caret Splitter are sorted with the [Caret Splitter Rudder](/parts/caret-splitter-rudder/), which is attached to the [Caret Splitter Rudder Lever Spinner](/parts/caret-splitter-rudder-lever-spinner/), atop of which will be the [Caret Splitter Lever](/parts/caret-splitter-lever/).
+
+
 #### Construction History
 
 * February? 2019: Will be augmented with [Caret Splitter Right Hand Inner Side](/parts/caret-splitter-right-hand-inner-side/).
