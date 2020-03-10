@@ -29,6 +29,12 @@
     Published = 2018-09-24T06:40:36Z
     Duration = 138000000000
     VideoType = 2
+  [Videos.-W9KAIsi4zM]
+    VideoId = "-W9KAIsi4zM"
+    Title = "Marble Track 3 construction Live Stream: preparations"
+    Published = 2020-02-11T04:04:40Z
+    Duration = 6104000000000
+    VideoType = 1
   [Videos.-ZEerNH_ldU]
     VideoId = "-ZEerNH_ldU"
     Title = "Marble Track 3 construction Live Stream: finished 16th segment and 9th day"
@@ -310,6 +316,12 @@
     Title = "Marble Track 3 construction Live Stream"
     Published = 2019-10-24T02:28:11Z
     Duration = 3230000000000
+    VideoType = 1
+  [Videos.5_ph1xRUZMM]
+    VideoId = "5_ph1xRUZMM"
+    Title = "Marble Track 3 construction Live Stream: beginning testing el Lifty Lever"
+    Published = 2020-02-18T02:55:31Z
+    Duration = 4966000000000
     VideoType = 1
   [Videos.5dcMn3tlf5E]
     VideoId = "5dcMn3tlf5E"
@@ -725,6 +737,12 @@
     Published = 2018-01-30T01:53:22Z
     Duration = 96000000000
     VideoType = 2
+  [Videos.DqWg5ZTmTRU]
+    VideoId = "DqWg5ZTmTRU"
+    Title = "Marble Track 3 construction Live Stream: confirmed added 2nd toothpick from LZZ 3F 2F net 3 of 3"
+    Published = 2020-03-03T14:42:46Z
+    Duration = 375000000000
+    VideoType = 1
   [Videos.DxJ9mQ11G00]
     VideoId = "DxJ9mQ11G00"
     Title = "Marble Track 3: three angled walls"
@@ -1379,6 +1397,12 @@
     Published = 2019-02-10T12:27:29Z
     Duration = 1451000000000
     VideoType = 2
+  [Videos.SDvHydjZv-M]
+    VideoId = "SDvHydjZv-M"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2020-02-17T05:33:48Z
+    Duration = 881000000000
+    VideoType = 1
   [Videos.SSdJn5l0fLY]
     VideoId = "SSdJn5l0fLY"
     Title = "Marble Track 3: snake ready to spiral"
@@ -1863,7 +1887,7 @@
     VideoId = "b657PP9gW_M"
     Title = "Marble Track 3 construction Live Stream"
     Published = 2020-01-28T06:09:21Z
-    Duration = 0
+    Duration = 5077000000000
     VideoType = 1
   [Videos.be7AuagjaC0]
     VideoId = "be7AuagjaC0"
@@ -1894,6 +1918,12 @@
     Title = "Marble Track 3 construction Live Stream: add holders for protection"
     Published = 2019-07-16T02:19:45Z
     Duration = 7552000000000
+    VideoType = 1
+  [Videos.c9F8WGnkduk]
+    VideoId = "c9F8WGnkduk"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2020-02-17T01:03:38Z
+    Duration = 7318000000000
     VideoType = 1
   [Videos.c9mOTqS837g]
     VideoId = "c9mOTqS837g"
@@ -2099,6 +2129,12 @@
     Published = 2017-11-07T04:26:09Z
     Duration = 8709000000000
     VideoType = 1
+  [Videos.hQuAbo_Twqs]
+    VideoId = "hQuAbo_Twqs"
+    Title = "Marble Track 3 construction Live Stream: added 2nd toothpick from LZZ 3F 2F net 2 of 3"
+    Published = 2020-03-03T06:09:45Z
+    Duration = 2032000000000
+    VideoType = 1
   [Videos.hRZXCBu-IUc]
     VideoId = "hRZXCBu-IUc"
     Title = "Marble Track 3 construction Live Stream: glued first support for outer spiral"
@@ -2291,6 +2327,12 @@
     Published = 2019-05-03T22:19:01Z
     Duration = 45000000000
     VideoType = 2
+  [Videos.lnOfZ-c2XPM]
+    VideoId = "lnOfZ-c2XPM"
+    Title = "Marble Track 3 construction Live Stream: added 2nd toothpick from LZZ 3F 2F net 1 of 3"
+    Published = 2020-03-03T02:46:10Z
+    Duration = 4057000000000
+    VideoType = 1
   [Videos.m-fGyW9vMaQ]
     VideoId = "m-fGyW9vMaQ"
     Title = "Marble Track 3 construction Live Stream"
@@ -2321,11 +2363,23 @@
     Published = 2018-11-08T02:08:27Z
     Duration = 2271000000000
     VideoType = 1
+  [Videos.mm8v3IX8yg4]
+    VideoId = "mm8v3IX8yg4"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2020-03-10T03:31:08Z
+    Duration = 0
+    VideoType = 1
   [Videos.mwt7MphvhjQ]
     VideoId = "mwt7MphvhjQ"
     Title = "Marble Track 3 construction Live Stream: before cutting half dropper"
     Published = 2017-11-25T05:50:45Z
     Duration = 4556000000000
+    VideoType = 1
+  [Videos.mwvj0M_s_4o]
+    VideoId = "mwvj0M_s_4o"
+    Title = "Marble Track 3 construction Live Stream: el Lifty Lever in place"
+    Published = 2020-02-11T06:03:30Z
+    Duration = 3760000000000
     VideoType = 1
   [Videos.mzcsyV7b-TY]
     VideoId = "mzcsyV7b-TY"
@@ -2350,6 +2404,12 @@
     Title = "Marble Track 3: ramp overturned"
     Published = 2017-11-29T06:17:10Z
     Duration = 59000000000
+    VideoType = 2
+  [Videos.nBJ4a_zx7rM]
+    VideoId = "nBJ4a_zx7rM"
+    Title = "Marble Track 3: begin testing el Lifty Lever"
+    Published = 2020-02-18T08:17:37Z
+    Duration = 99000000000
     VideoType = 2
   [Videos.nLTq10c6FP8]
     VideoId = "nLTq10c6FP8"
@@ -2452,6 +2512,12 @@
     Title = "Marble Track 3 construction Live Stream: testing marbles again"
     Published = 2019-02-19T03:36:27Z
     Duration = 7259000000000
+    VideoType = 1
+  [Videos.pIpOuQoMSOE]
+    VideoId = "pIpOuQoMSOE"
+    Title = "Marble Track 3 construction Live Stream: Backpack Jack brings el Lifty Lever Guider"
+    Published = 2020-03-10T04:08:58Z
+    Duration = 8280000000000
     VideoType = 1
   [Videos.pOOpjwUYhqk]
     VideoId = "pOOpjwUYhqk"
@@ -2561,6 +2627,12 @@
     Published = 2018-03-06T07:35:59Z
     Duration = 9000000000
     VideoType = 2
+  [Videos.rOYIR-yZkCM]
+    VideoId = "rOYIR-yZkCM"
+    Title = "Marble Track 3: Backpack Jack brings el Lifty Lever Guider"
+    Published = 2020-03-10T04:38:02Z
+    Duration = 101000000000
+    VideoType = 2
   [Videos.rdSk7uUl80g]
     VideoId = "rdSk7uUl80g"
     Title = "Marble Track 3 construction Live Stream"
@@ -2602,6 +2674,12 @@
     Title = "Marble Track 3 construction Live Stream: Reversible Guy carries new track pieces"
     Published = 2019-05-03T04:46:00Z
     Duration = 3389000000000
+    VideoType = 1
+  [Videos.sC_8bYVjphc]
+    VideoId = "sC_8bYVjphc"
+    Title = "Marble Track 3 construction Live Stream was cut: added 2nd toothpick from LZZ 3F 2F net 1 of 3"
+    Published = 2020-03-03T03:14:45Z
+    Duration = 226000000000
     VideoType = 1
   [Videos.sH6YdvTf7N8]
     VideoId = "sH6YdvTf7N8"
