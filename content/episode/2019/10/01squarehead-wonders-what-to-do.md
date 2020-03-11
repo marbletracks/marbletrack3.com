@@ -1,5 +1,5 @@
 ---
-title: "Squarehead wonders what to do about Vimeo closing my account"
+title: "Squarehead wonders what to do"
 tags: [ "livestream", "mt3", "vimeo", "annoyed", "rant" ]
 author: Rob Nugen
 youtube: ukJyCrhv194
@@ -8,12 +8,7 @@ episode_thumbnail: "https://b.robnugen.com/art/marble_track_3/construction/2019/
 date: 2019-10-01T12:09:48+09:00
 ---
 
-Still family friendly, but this is the day I complained a lot toward Vimeo for removing my account, claiming I uploaded content I did not create.  HA!  What an annoying laughable claim!!
-
-See how close the marbles are together? Very close!  ~~That is how laughable Vimeo's
-claim is!  Very laughable!~~
-
-edit: Ah fair enough.  I had uploaded a TV show segment when I appeared on TV for being barefoot.
+Today I took a pic showing how close [The First Track](/parts/the_first_track/) is with [Bar Below Circle by Caret Splitter](/parts/bar_below_circle_by_the_caret_splitter/)
 
 [![2019 oct 01 gap between tracks](//b.robnugen.com/art/marble_track_3/track/parts/2019/thumbs/2019_oct_01_gap_between_tracks.jpg)](//b.robnugen.com/art/marble_track_3/track/parts/2019/2019_oct_01_gap_between_tracks.jpg)
 
@@ -22,7 +17,7 @@ Today I took only 10 frames in 2 hours, which is slower than I would have guesse
 [![2019 oct 01 mr greene carrying 10poss](//b.robnugen.com/art/marble_track_3/construction/2019/thumbs/2019_oct_01_mr_greene_carrying_10poss.jpg)](//b.robnugen.com/art/marble_track_3/construction/2019/2019_oct_01_mr_greene_carrying_10poss.jpg)
 [![2019 oct 01 tenth placed outer spiral support](//b.robnugen.com/art/marble_track_3/track/parts/2019/thumbs/2019_oct_01_tenth_placed_outer_spiral_support.jpg)](//b.robnugen.com/art/marble_track_3/track/parts/2019/2019_oct_01_tenth_placed_outer_spiral_support.jpg)
 
-For the filming bit, [Squarehead](/workers/squarehead/) is thinking about what to do (run!!) and everyone else is watching  the blue and green marbles roll down the tracks in the center of the stage.
+For the filming bit, [Squarehead](/workers/squarehead/) is thinking about what to do (run!!) and everyone else is watching the blue and green marbles roll down the tracks in the center of the stage.
 
 Here are frames taken today:
 
