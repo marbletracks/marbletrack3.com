@@ -6,6 +6,10 @@ youtube: ukJyCrhv194
 episode_image: https://b.robnugen.com/art/marble_track_3/construction/2019/2019_oct_01_squarehead_pov.jpg
 episode_thumbnail: "https://b.robnugen.com/art/marble_track_3/construction/2019/thumbs/2019_oct_01_squarehead_pov.jpg"
 date: 2019-10-01T12:09:48+09:00
+Aliases = [
+  "/episode/2019/october/squarehead-wonders-what-to-do-about-vimeo-closing-my-account/",
+  "/episode/2019/october/vimeo-terminated-my-pro-account/"
+]
 ---
 
 Today I took a pic showing how close [The First Track](/parts/the_first_track/) is with [Bar Below Circle by Caret Splitter](/parts/bar_below_circle_by_the_caret_splitter/)
