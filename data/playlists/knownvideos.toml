@@ -209,6 +209,12 @@
     Published = 2018-11-29T01:04:23Z
     Duration = 5165000000000
     VideoType = 1
+  [Videos.3-rfh4_S6OA]
+    VideoId = "3-rfh4_S6OA"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2020-03-17T04:37:59Z
+    Duration = 0
+    VideoType = 1
   [Videos.36YSrwKu1F8]
     VideoId = "36YSrwKu1F8"
     Title = "Marble Track 3 construction computer not working"
@@ -2365,9 +2371,9 @@
     VideoType = 1
   [Videos.mm8v3IX8yg4]
     VideoId = "mm8v3IX8yg4"
-    Title = "Marble Track 3 construction Live Stream"
+    Title = "Marble Track 3 construction Live Stream: extracted 3 magnets to make a mini maglev"
     Published = 2020-03-10T03:31:08Z
-    Duration = 0
+    Duration = 8296000000000
     VideoType = 1
   [Videos.mwt7MphvhjQ]
     VideoId = "mwt7MphvhjQ"
