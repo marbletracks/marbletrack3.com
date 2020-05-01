@@ -13,26 +13,26 @@ Aliases: [
 ]
 ---
 
-Candy Mama goes offstage to get a longer lever with which she can put the switch into a higher speed than before.
+[Candy Mama](/workers/candy_mama/) goes offstage to get a longer lever with which she can put the switch into a higher speed than before.
 
-Once she put the switch into high-speed, the Bearing spends so quickly that it floats. Ninety Degree Antenna Man slides quickly around the stage like the video game Tempest, ensuring the bearing does not float off the stage.
+Once she put the switch into high-speed, the Bearing spins so quickly that it floats. Ninety Degree Antenna Man slides quickly around the stage like the video game Tempest, ensuring the bearing does not float off the stage.
 
-While it spins at high speed, floating above the stage, Candy Mama, Reversible Guy, Squarehead, and Dr Sugar all try to move the bearing into place by wrangling it with large white hooks.
+While the bearing spins at high speed, floating above the stage, [Candy Mama](/workers/candy_mama/), [Reversible Guy](/workers/reversible/), [Squarehead](/workers/squarehead/), and [Doctor Sugar](/workers/dr_sugar/) all try to move the bearing into place by wrangling it with large white hooks.
 
-Dr Sugar cannot quite hold his large hook, and it gets caught in the upper blade
+Dr Sugar cannot quite hold his large hook, and it gets caught in the upper blade of the
 spinning bearing.  He is quickly thrown for a flip.  In order to see
 what happened, the scene is reversed, then played forward at a crawl
 so we can get a bullet-time version of the flip.
 
-Dr Sugar is fine, dusts himself off, and rides Ninety Degree Antenna Man around the stage as Mr McGlue turns off the switch, allowing the Bearing to settle back down onto the stage.
+[Doctor Sugar](/workers/dr_sugar/) is fine, dusts himself off, and rides Ninety Degree Antenna Man around the stage, disconnecting each large hook, as Mr McGlue turns off the switch, allowing the Bearing to settle back down onto the stage.
 
 Captain Screwdriver comes in, and rests against the future location of a CGI tree.
 
 Everyone resets the bridge and then begin to carry the screws toward the bearing.
 
-Suddenly a horrific screeching sound occurs and everyone stumbles back as Mr McGlue drags the Bearing to the actual center of the stage.
+Suddenly a horrific screeching sound occurs and everyone stumbles back as [Mr McGlue](/workers/mr_mcglue/) drags the Bearing to the actual center of the stage.
 
-The screeching stops, and everyone goes back to moving the screws onto the stage.  Captain Screwdriver jumps up onto the stage as Mr McGlue assures Squarehead there will be no more screeching sounds.
+The screeching stops, and everyone goes back to moving the screws onto the stage.  Captain Screwdriver jumps up onto the stage as [Mr McGlue](/workers/mr_mcglue/) assures [Squarehead](/workers/squarehead/) there will be no more screeching sounds.
 
 But it is not time for the screws nor Captain Screwdriver yet; Ninety Degree Antenna Man has brought in Billy Drill Bit who will prepare pilot holes for the screws.
 
@@ -44,3 +44,4 @@ They get Mr McGlue aligned with the third corner of the bearing, and Billy Drill
 
 Captain Screwdriver leaps into action, turns upright and screws in all the screws before heading offstage.
 
+[Doctor Sugar](/workers/dr_sugar/) raises his hands as an indication to [Candy Mama](/workers/candy_mama/) to have the bearing spin faster.
