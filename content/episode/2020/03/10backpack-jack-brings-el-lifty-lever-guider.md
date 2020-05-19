@@ -10,7 +10,7 @@ date: 2020-03-10T14:01:08+09:00
 
 Great progress today, adding 10 frames to the video.  The second half of the livestream was spent setting up two (2) maglevs, which have the ability to angle like turntable tone arms while lifting characters as if they levitate over the track.
 
-[Backpack Jack](/workers/backpack_jack/) is carrying [el Lifty Lever](/parts/el-lifty-lever/) Guider to the center of the stage where it will guide [el Lifty Lever](/parts/el-lifty-lever/) alongside the [Triple Splitter](/parts/triple_splitter/).
+[Backpack Jack](/workers/backpack_jack/) is carrying a skewer which we become [el Lifty Lever Guider](/parts/el-lifty-lever-guider/) to the center of the stage where it will guide [el Lifty Lever](/parts/el-lifty-lever/) alongside the [Triple Splitter](/parts/triple_splitter/).
 
 Meanwhile, [Little Brother](/workers/lil_brother/) has just released a medium sized marble down the [Triple Splitter](/parts/triple_splitter/) to test the [Medium Catcher Below Triple Splitter](/parts/medium-catcher-below-triple-splitter/) put in place by [Big Brother](/workers/big_brother/).
 
