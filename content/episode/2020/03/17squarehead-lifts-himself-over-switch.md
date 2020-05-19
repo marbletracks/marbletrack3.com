@@ -3,8 +3,8 @@ title: "Squarehead lifts himself over switch"
 tags: [ "livestream", "mt3", "squarehead" ]
 author: Rob Nugen
 youtube: mm8v3IX8yg4
-episode_image: https://b.robnugen.com/art/marble_track_3/frames/2019/00010_002_10_X1_1223.jpg
-episode_thumbnail: "https://b.robnugen.com/art/marble_track_3/frames/2019/thumbs/00010_002_10_X1_1223.jpg"
+episode_image: https://b.robnugen.com/art/marble_track_3/frames/2020/00010_002_10_X1_1223.jpg
+episode_thumbnail: "https://b.robnugen.com/art/marble_track_3/frames/2020/thumbs/00010_002_10_X1_1223.jpg"
 date: 2020-03-17T13:17:21+09:00
 ---
 
@@ -16,11 +16,11 @@ Dealing with [G Choppy](/workers/g_choppy/) and [Reversible Guy](/workers/revers
 
 Here are the frames from today.. one had to be deleted.
 
-[![00010 002 10 X1 1223](//b.robnugen.com/art/marble_track_3/frames/2019/thumbs/00010_002_10_X1_1223.jpg)](//b.robnugen.com/art/marble_track_3/frames/2019/00010_002_10_X1_1223.jpg)
-[![00010 002 10 X1 1224](//b.robnugen.com/art/marble_track_3/frames/2019/thumbs/00010_002_10_X1_1224.jpg)](//b.robnugen.com/art/marble_track_3/frames/2019/00010_002_10_X1_1224.jpg)
-[![00010 002 10 X1 1225](//b.robnugen.com/art/marble_track_3/frames/2019/thumbs/00010_002_10_X1_1225.jpg)](//b.robnugen.com/art/marble_track_3/frames/2019/00010_002_10_X1_1225.jpg)
-[![00010 002 10 X1 1226](//b.robnugen.com/art/marble_track_3/frames/2019/thumbs/00010_002_10_X1_1226.jpg)](//b.robnugen.com/art/marble_track_3/frames/2019/00010_002_10_X1_1226.jpg)
-[![00010 002 10 X1 1227](//b.robnugen.com/art/marble_track_3/frames/2019/thumbs/00010_002_10_X1_1227.jpg)](//b.robnugen.com/art/marble_track_3/frames/2019/00010_002_10_X1_1227.jpg)
-[![00010 002 10 X1 1228](//b.robnugen.com/art/marble_track_3/frames/2019/thumbs/00010_002_10_X1_1228.jpg)](//b.robnugen.com/art/marble_track_3/frames/2019/00010_002_10_X1_1228.jpg)
-[![00010 002 10 X1 1229](//b.robnugen.com/art/marble_track_3/frames/2019/thumbs/00010_002_10_X1_1229.jpg)](//b.robnugen.com/art/marble_track_3/frames/2019/00010_002_10_X1_1229.jpg)
-[![00010 002 10 X1 1230](//b.robnugen.com/art/marble_track_3/frames/2019/thumbs/00010_002_10_X1_1230.jpg)](//b.robnugen.com/art/marble_track_3/frames/2019/00010_002_10_X1_1230.jpg)
+[![00010 002 10 X1 1223](//b.robnugen.com/art/marble_track_3/frames/2020/thumbs/00010_002_10_X1_1223.jpg)](//b.robnugen.com/art/marble_track_3/frames/2020/00010_002_10_X1_1223.jpg)
+[![00010 002 10 X1 1224](//b.robnugen.com/art/marble_track_3/frames/2020/thumbs/00010_002_10_X1_1224.jpg)](//b.robnugen.com/art/marble_track_3/frames/2020/00010_002_10_X1_1224.jpg)
+[![00010 002 10 X1 1225](//b.robnugen.com/art/marble_track_3/frames/2020/thumbs/00010_002_10_X1_1225.jpg)](//b.robnugen.com/art/marble_track_3/frames/2020/00010_002_10_X1_1225.jpg)
+[![00010 002 10 X1 1226](//b.robnugen.com/art/marble_track_3/frames/2020/thumbs/00010_002_10_X1_1226.jpg)](//b.robnugen.com/art/marble_track_3/frames/2020/00010_002_10_X1_1226.jpg)
+[![00010 002 10 X1 1227](//b.robnugen.com/art/marble_track_3/frames/2020/thumbs/00010_002_10_X1_1227.jpg)](//b.robnugen.com/art/marble_track_3/frames/2020/00010_002_10_X1_1227.jpg)
+[![00010 002 10 X1 1228](//b.robnugen.com/art/marble_track_3/frames/2020/thumbs/00010_002_10_X1_1228.jpg)](//b.robnugen.com/art/marble_track_3/frames/2020/00010_002_10_X1_1228.jpg)
+[![00010 002 10 X1 1229](//b.robnugen.com/art/marble_track_3/frames/2020/thumbs/00010_002_10_X1_1229.jpg)](//b.robnugen.com/art/marble_track_3/frames/2020/00010_002_10_X1_1229.jpg)
+[![00010 002 10 X1 1230](//b.robnugen.com/art/marble_track_3/frames/2020/thumbs/00010_002_10_X1_1230.jpg)](//b.robnugen.com/art/marble_track_3/frames/2020/00010_002_10_X1_1230.jpg)
