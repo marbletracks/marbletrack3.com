@@ -18,6 +18,8 @@ date = 2020-05-19T14:26:46+09:00
 This piece is 55mm tall, and will go just outside [Pinky's Decorative Walls](/parts/decorative_walls_after_the_lowest_small-medium_splitter/).  It will be
 on the outside of the [Outer Spiral](/parts/outer_spiral/) about 12cm from the lowest point of the Outer Spiral.
 
+The [Twelfth placed Outer Spiral Support](/parts/twelfth-placed-outer-spiral-support/) is installed just inside the [Outer Spiral](/parts/outer_spiral/) from the Eleventh placed Outer Spiral Support.
+
 History:
 
 * 2020 May 19: [G Choppy](/workers/g_choppy/) chopped the bamboo piece [Candy Mama](/workers/candy_mama/) brought onto the stage.

@@ -779,6 +779,12 @@
     Published = 2017-11-17T01:46:18Z
     Duration = 35000000000
     VideoType = 2
+  [Videos.E1r_l_ILgEQ]
+    VideoId = "E1r_l_ILgEQ"
+    Title = "Marble Track 3 construction Live Stream: Squarehead running offstage crying"
+    Published = 2020-06-01T20:59:28Z
+    Duration = 5357000000000
+    VideoType = 1
   [Videos.E21NXLUF6CA]
     VideoId = "E21NXLUF6CA"
     Title = "Marble Track 3 construction Live Stream"
@@ -875,6 +881,12 @@
     Published = 2017-09-28T06:43:39Z
     Duration = 6991000000000
     VideoType = 1
+  [Videos.FUI_oI3V7Ww]
+    VideoId = "FUI_oI3V7Ww"
+    Title = "Ongoing history of Marble Track 3"
+    Published = 2020-05-21T03:40:34Z
+    Duration = 3491000000000
+    VideoType = 2
   [Videos.FeCtR2u2sCU]
     VideoId = "FeCtR2u2sCU"
     Title = "Marble Track 3 construction Live Stream: Finished Gluing Bar Below Circle by Caret Splitter"
@@ -1024,6 +1036,12 @@
     Title = "Marble Track 3 construction Live Stream: moving chopstick"
     Published = 2018-04-17T04:34:44Z
     Duration = 3376000000000
+    VideoType = 1
+  [Videos.JyfxMViNoqU]
+    VideoId = "JyfxMViNoqU"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2020-06-02T04:22:32Z
+    Duration = 0
     VideoType = 1
   [Videos.KInRqcbDY3s]
     VideoId = "KInRqcbDY3s"
@@ -1709,6 +1727,12 @@
     Published = 2019-06-11T01:29:29Z
     Duration = 675000000000
     VideoType = 1
+  [Videos.X2qmdGtqNQw]
+    VideoId = "X2qmdGtqNQw"
+    Title = "Marble Track 3 construction Live Stream: tested all tracks after gluing El Lifty Lever Guider"
+    Published = 2020-06-02T01:07:41Z
+    Duration = 5006000000000
+    VideoType = 1
   [Videos.XEcPXnTsfbo]
     VideoId = "XEcPXnTsfbo"
     Title = "Marble Track 3: added stairs in back"
@@ -1739,6 +1763,12 @@
     Published = 2017-11-06T13:29:56Z
     Duration = 13000000000
     VideoType = 2
+  [Videos.XrBClITqB-c]
+    VideoId = "XrBClITqB-c"
+    Title = "Marble Track 3 construction Live Stream: Nearly cut 12th placed outer spiral support 1/2"
+    Published = 2020-05-26T15:30:36Z
+    Duration = 2376000000000
+    VideoType = 1
   [Videos.Y5VvlRbAX8w]
     VideoId = "Y5VvlRbAX8w"
     Title = "Marble Track 3 construction Live Stream: gluing fabric for upper scene"
@@ -2035,9 +2065,9 @@
     VideoType = 1
   [Videos.dOe6vKXnFBY]
     VideoId = "dOe6vKXnFBY"
-    Title = "Marble Track 3 construction Rive ifthisisfixedthenfixnamebyremovingthisstring Stream"
+    Title = "Marble Track 3 construction Live Stream: glued 11th placed outer spiral support"
     Published = 2020-05-19T04:19:40Z
-    Duration = 0
+    Duration = 3384000000000
     VideoType = 2
   [Videos.dTfrFcJaXJ4]
     VideoId = "dTfrFcJaXJ4"
@@ -2573,6 +2603,12 @@
     Published = 2019-03-22T22:00:05Z
     Duration = 33000000000
     VideoType = 2
+  [Videos.oIc_zswAEy8]
+    VideoId = "oIc_zswAEy8"
+    Title = "Marble Track 3 construction Live Stream: Glued El Lifty Lever Guider"
+    Published = 2020-06-01T08:54:17Z
+    Duration = 4548000000000
+    VideoType = 1
   [Videos.oO5f_3mv2qg]
     VideoId = "oO5f_3mv2qg"
     Title = "Marble Track 3 construction 2/2 Live Stream today: Squarehead flipped upright"
@@ -2908,6 +2944,12 @@
     Title = "Marble Track 3 construction Live Stream: Wire Work for G Choppy"
     Published = 2019-01-19T07:45:33Z
     Duration = 3208000000000
+    VideoType = 1
+  [Videos.vVTyAXA1nR4]
+    VideoId = "vVTyAXA1nR4"
+    Title = "Marble Track 3 construction Live Stream: Nearly cut 12th placed outer spiral support 2/2"
+    Published = 2020-05-26T18:05:19Z
+    Duration = 6198000000000
     VideoType = 1
   [Videos.vVu1rdcGLm8]
     VideoId = "vVu1rdcGLm8"
