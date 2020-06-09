@@ -257,6 +257,12 @@
     Published = 2019-06-25T04:12:54Z
     Duration = 54000000000
     VideoType = 2
+  [Videos.3uEohlN4bMU]
+    VideoId = "3uEohlN4bMU"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2020-06-09T02:22:14Z
+    Duration = 0
+    VideoType = 1
   [Videos.3uneHQljsOc]
     VideoId = "3uneHQljsOc"
     Title = "Marble Track 3 construction Live Stream"
@@ -1039,9 +1045,9 @@
     VideoType = 1
   [Videos.JyfxMViNoqU]
     VideoId = "JyfxMViNoqU"
-    Title = "Marble Track 3 construction Live Stream"
+    Title = "Marble Track 3 construction Live Stream: Preparing pieces, planning placements"
     Published = 2020-06-02T04:22:32Z
-    Duration = 0
+    Duration = 7236000000000
     VideoType = 1
   [Videos.KInRqcbDY3s]
     VideoId = "KInRqcbDY3s"

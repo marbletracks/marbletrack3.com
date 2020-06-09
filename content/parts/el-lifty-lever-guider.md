@@ -16,7 +16,7 @@ aliases = [
 date = 2020-05-19T14:36:13+09:00
 +++
 
-This is a composite piece made out of a rectangular bamboo skewer.
+This is a composite piece made out of a rectangular bamboo skewer.  It hangs from the [Caret Splitter Feeder Extension Reflection Protection](/parts/caret-splitter-feeder-extension-reflection-protection/) and guides [el Lifty Lever](/parts/el-lifty-lever/) while it is lifted by large marbles as the roll down the [Lowest Largest Backtrack](/parts/lowest-largest-backtrack/).
 
 History:
 
