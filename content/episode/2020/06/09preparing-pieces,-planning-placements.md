@@ -11,19 +11,14 @@ date: 2020-06-09T15:51:26+09:00
 Today in two hours of livestream, I was overall super productive for
 the construction of Marble Track 3 and took *zero* frames of video!
 
-The main best thing was preparing the placement of a stick to
-hopefully keep small marbles on tlsms after they go left down the
-CS.  This piece should hopefully keep them from faling onto tft.  I
-don't have a name for it yet, but maybe First Track Lowest
-Small-Medium Splitter Separater, following the pattern "A B Separater"
+The main best thing was preparing the placement of [The Lowest Longest Separator](/parts/the-lowest-longest-separator/) which will
+hopefully keep small marbles on [the Lowest Small-Medium Splitter](/parts/the_lowest_small-medium_splitter/) after they go left down the
+[Caret Splitter](/parts/caret-splitter/).  This piece should hopefully keep them from falling onto [The First Track](/parts/the_first_track/).  
 
-Oh how about Lowest Longest Separater?  It's short, accurate,
-semi-memorable.
+Okay, so in addition to [The Lowest Longest Separator](/parts/the-lowest-longest-separator/), I cut two thin bamboo pieces to be
+the [Caret Splitter Feeder Extension Reflection Lower Right Protection](/parts/caret-splitter-feeder-extension-reflection-lower-right-protection/) and the [Caret Splitter Feeder Extension Reflection Lower Left Protection](/parts/caret-splitter-feeder-extension-reflection-lower-left-protection/) respectively, though I didn't take a
+photo of the latter.
 
-Okay, so in addition to that piece, I cut two thin bamboo pieces to be
-the CSFERLRP and the CSFERLLP respectively, though I didn't take a
-photo of the first one.
-
-The easiest piece to make was the TSMCR, which basically ensures the
+The easiest piece to actually make today was the [Triple Splitter Medium Catcher Ridge](/parts/triple-splitter-medium-catcher-ridge/), which basically ensures the
 medium marble will reverse its direction after falling through the
-ts.
+[Triple Splitter](/parts/triple_splitter/).
