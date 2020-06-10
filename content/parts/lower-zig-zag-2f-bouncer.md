@@ -2,8 +2,8 @@
 title = "Lower Zig Zag 2F Bouncer"
 type = "parts"
 tags = [ "round", "angled", "wedge" ]
-image = "https://b.robnugen.com/art/marble_track_3/track/parts/2020/2020_june_09_LZZ_2F_bouncer.jpg"
-thumbnail = "https://b.robnugen.com/art/marble_track_3/track/parts/2020/thumbs/2020_june_09_LZZ_2F_bouncer.jpg"
+image = "https://b.robnugen.com/art/marble_track_3/track/parts/2020/2020_june_09_LZZ_2F_bouncer.png"
+thumbnail = "https://b.robnugen.com/art/marble_track_3/track/parts/2020/thumbs/2020_june_09_LZZ_2F_bouncer.png"
 description = "Lower Zig Zag 2F Bouncer"
 workers = [
     "mr_mcglues",
@@ -22,4 +22,4 @@ History:
 * 2020 Jun 09: I discovered a circular piece should do the job
 perfectly.  I put the piece aside along with date and label into a bag for the Construction Crew to deliver later.
 
-[![2020 june 09 LZZ 2F bouncer](//b.robnugen.com/art/marble_track_3/track/parts/2020/thumbs/2020_june_09_LZZ_2F_bouncer.jpg)](//b.robnugen.com/art/marble_track_3/track/parts/2020/2020_june_09_LZZ_2F_bouncer.jpg)
+[![2020 june 09 LZZ 2F bouncer](//b.robnugen.com/art/marble_track_3/track/parts/2020/thumbs/2020_june_09_LZZ_2F_bouncer.png)](//b.robnugen.com/art/marble_track_3/track/parts/2020/2020_june_09_LZZ_2F_bouncer.png)
