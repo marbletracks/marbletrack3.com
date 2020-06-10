@@ -10,7 +10,7 @@ date: 2019-05-11T11:10:17+09:00
 
 Today went pretty smoothly as I got the third marble started down the [Triple Splitter Small Feeder](/parts/triple-splitter-small-feeder/) after using color-coded markers to ensure it would go down at the same rate/locations as the first two marbles had.
 
-I stopped streaming after I glued the [Lower Zig Zag 2 ban top](/parts/lower-zig-zag-2-ban-top/) to the [Lower Zig Zag 2 ban](/parts/lower-zig-zag-2-ban/) after determining it did not look *too* weird if it just appeared there.  I may have [Reversible Guy](/workers/reversible/) futz around in the area for a bit to ensure he has had enough time to make it.
+I stopped streaming after I glued the [Lower Zig Zag 2F top](/parts/lower-zig-zag-2-ban-top/) to the [Lower Zig Zag 2F](/parts/lower-zig-zag-2-ban/) after determining it did not look *too* weird if it just appeared there.  I may have [Reversible Guy](/workers/reversible/) futz around in the area for a bit to ensure he has had enough time to make it.
 
 Here is the most recent snippet
 

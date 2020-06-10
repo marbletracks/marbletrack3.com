@@ -22,13 +22,13 @@ by 2 of the toothpicks making up the [Lower Zig Zag Net](/parts/lower_zig_zag_ne
 These two toothpicks will be the
 [Lower Zig Zag 3 ban Upper Base Base](/parts/lower-zig-zag-3-ban-upper-base-base/)
 
-I made a Demo [Lower Zig Zag 2 ban top](/parts/lower-zig-zag-2-ban-top/) which will show
+I made a Demo [Lower Zig Zag 2F top](/parts/lower-zig-zag-2-ban-top/) which will show
 future me what the characters should build to ensure
 the small marbles roll down while not interfering with the large
 marbles on the [Triple Splitter](/parts/triple_splitter/).
 
 [Reversible Guy](/workers/reversible/) is coming with pieces to make the real
-[Lower Zig Zag 2 ban top](/parts/lower-zig-zag-2-ban-top/) right now.
+[Lower Zig Zag 2F top](/parts/lower-zig-zag-2-ban-top/) right now.
 
 [![00010 002 10 X1 0569](//b.robnugen.com/art/marble_track_3/frames/2019/thumbs/00010_002_10_X1_0569.jpg)](//b.robnugen.com/art/marble_track_3/frames/2019/00010_002_10_X1_0569.jpg)
 [![00010 002 10 X1 0570](//b.robnugen.com/art/marble_track_3/frames/2019/thumbs/00010_002_10_X1_0570.jpg)](//b.robnugen.com/art/marble_track_3/frames/2019/00010_002_10_X1_0570.jpg)

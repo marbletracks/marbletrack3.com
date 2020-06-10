@@ -1,10 +1,10 @@
 +++
-title = "Lower Zig Zag 2 ban top"
+title = "Lower Zig Zag 2F top"
 type = "parts"
 tags = [ "lzz2bt", "demo", "track", "lzz" ]
 image = "https://b.robnugen.com/art/marble_track_3/track/parts/2019/2019_may_10_26_cropped_lower_zig_zag_2ban_top.jpg"
 thumbnail = "https://b.robnugen.com/art/marble_track_3/track/parts/2019/thumbs/2019_may_10_26_cropped_lower_zig_zag_2ban_top.jpg"
-description = "Lower Zig Zag 2 ban top"
+description = "Lower Zig Zag 2F top"
 workers = [
     "reversible",
     "mr_mcgluu"
@@ -15,7 +15,7 @@ aliases = [
 date = 2019-05-04T23:05:08+09:00
 +++
 
-This piece was needed to keep small marbles on the [Lower Zig Zag 2 ban](/parts/lower-zig-zag-2-ban/) up and out of the way of the large marbles on the [Triple Splitter](/parts/triple_splitter/).  It also solves the issue I had with the [Lower Zig Zag 2 ban](/parts/lower-zig-zag-2-ban/) being too level for the marbles to roll on it without a push.
+This piece was needed to keep small marbles on the [Lower Zig Zag 2F](/parts/lower-zig-zag-2-ban/) up and out of the way of the large marbles on the [Triple Splitter](/parts/triple_splitter/).  It also solves the issue I had with the [Lower Zig Zag 2F](/parts/lower-zig-zag-2-ban/) being too level for the marbles to roll on it without a push.
 
 I made a demonstration version of it with the intention of having the characters make the real one on the track, but it was so crowded with [three marbles rolling down](/episode/2019/may/started-third-orange-marble/) [Triple Splitter Small Feeder](/parts/triple-splitter-small-feeder/) (et. al.) that I just glued the demo track into place.  I'll have [Reversible Guy](/workers/reversible/) fidget around the piece for a bit so it hopefully looks like he made it.
 

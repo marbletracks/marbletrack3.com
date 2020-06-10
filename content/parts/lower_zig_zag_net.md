@@ -15,7 +15,7 @@ Aliases = [
 date = 2018-11-29T14:46:29+09:00
 +++
 
-The Lower Zig Zag Net catches marbles on the [Lower Zig Zag](/parts/lower_zig_zag/) as they fall from [Lower Zig Zag 2 ban](/parts/lower-zig-zag-2-ban/) to [Lower Zig Zag 1 ban](/parts/lower-zig-zag-1-ban/)
+The Lower Zig Zag Net catches marbles on the [Lower Zig Zag](/parts/lower_zig_zag/) as they fall from [Lower Zig Zag 2F](/parts/lower-zig-zag-2-ban/) to [Lower Zig Zag 1 ban](/parts/lower-zig-zag-1-ban/)
 
 History
 
