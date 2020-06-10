@@ -6,8 +6,8 @@ image = "https://b.robnugen.com/art/marble_track_3/track/parts/2020/2020_june_09
 thumbnail = "https://b.robnugen.com/art/marble_track_3/track/parts/2020/thumbs/2020_june_09_sm_inner_keep_below_cs.jpg"
 description = "Lower Small Medium Splitter Inner Thinner Keeper"
 workers = [
-    "mr_mcglued",
-    "g_choppys"
+    "mr_mcglue",
+    "g_choppy"
 ]
 aliases = [
     "/p/lsmsitk"

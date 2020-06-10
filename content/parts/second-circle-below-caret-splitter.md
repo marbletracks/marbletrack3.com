@@ -6,8 +6,7 @@ image = "https://b.robnugen.com/art/marble_track_3/track/parts/2020/2020_june_09
 thumbnail = "https://b.robnugen.com/art/marble_track_3/track/parts/2020/thumbs/2020_june_09_sm_outer_keep_below_cs_39.jpg"
 description = "Second Circle Below Caret Splitter"
 workers = [
-    "mr_mcglues",
-    "g_choppys"
+    "mr_mcglue"
 ]
 aliases = [
     "/p/scbcs"

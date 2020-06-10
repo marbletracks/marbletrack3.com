@@ -6,8 +6,8 @@ image = "https://b.robnugen.com/art/marble_track_3/track/parts/2020/2020_june_09
 thumbnail = "https://b.robnugen.com/art/marble_track_3/track/parts/2020/thumbs/2020_june_09_caret_splitter_feeder_extension_reflection_lower_left_protection.jpg"
 description = "Caret Splitter Feeder Extension Reflection Lower Left Protection"
 workers = [
-    "mr_mcglued",
-    "g_choppyd"
+    "mr_mcglue",
+    "g_choppy"
 ]
 aliases = [
     "/p/csferllp"

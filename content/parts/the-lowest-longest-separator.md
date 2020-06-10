@@ -6,7 +6,7 @@ image = "https://b.robnugen.com/art/marble_track_3/track/parts/2020/2020_jun_09_
 thumbnail = "https://b.robnugen.com/art/marble_track_3/track/parts/2020/thumbs/2020_jun_09_planning_the_lowest_longest_separator.jpg"
 description = "The Lowest Longest Separator"
 workers = [
-    "mr_mcglued",
+    "mr_mcglue",
     "g_choppys"
 ]
 aliases = [
