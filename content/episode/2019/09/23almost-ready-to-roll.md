@@ -13,7 +13,7 @@ Today was a recent record in terms of frames taken; there were times with only a
 Mostly characters were idling, waiting for [Mr McGlue](/workers/mr_mcglue/) to catch up with the
 gluing required on the [Caret Splitter Feeder Guiders](/parts/caret-splitter-feeder-guider/).
 
-During the filming, I needed to have [Reversible Guy](/workers/reversible/) suspended by a string, but in the process, I ended up dropping something on [Lower Zig Zag 3 ban](/parts/lower-zig-zag-3-ban/) and breaking the [Lower Zig Zag 3 ban Lower Support](/parts/lower-zig-zag-3-ban-lower-support/).  I reglued it and ended the livestream at that point.
+During the filming, I needed to have [Reversible Guy](/workers/reversible/) suspended by a string, but in the process, I ended up dropping something on [Lower Zig Zag 3F](/parts/lower-zig-zag-3-ban/) and breaking the [Lower Zig Zag 3F Lower Support](/parts/lower-zig-zag-3-ban-lower-support/).  I reglued it and ended the livestream at that point.
 
 Here is the latest snippet: nearly the last 3 seconds are from today.
 

@@ -4,7 +4,7 @@ type = "parts"
 tags = [ "lzz3b", "lzz", "rail", "small" ]
 image = "https://b.robnugen.com/art/marble_track_3/track/parts/2019/2019_may_03_bringing_lzz3b_etc.jpg"
 thumbnail = "https://b.robnugen.com/art/marble_track_3/track/parts/2019/thumbs/2019_may_03_bringing_lzz3b_etc.jpg"
-description = "Lower Zig Zag 3 ban"
+description = "Lower Zig Zag 3F"
 workers = [
     "reversible",
     "g_choppyd"

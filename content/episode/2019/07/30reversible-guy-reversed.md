@@ -16,9 +16,9 @@ Because the [Caret Splitter Feeder Extension Reflection Protection Upper Holder]
 
 In the second livestream, while [Reversible Guy](/workers/reversible/) was walking through that, [Doctor Sugar](/workers/dr_sugar/) grabbed the [Caret Splitter Feeder Guider Lower Supporter](/parts/caret-splitter-feeder-guider-lower-supporter/) from [Backpack Jack](/workers/backpack_jack/) and has nearly put it in place.  [Mr McGlue](/workers/mr_mcglue/) will glue it soon.
 
-Though I got lots of frames taken, the last part of the second livestream was spent trying to figure out how to deal with the [Lower Zig Zag 3 ban Lower Support](/parts/lower-zig-zag-3-ban-lower-support/), which [G Choppy](/workers/g_choppy/) will cut in the first frame I take next time, possibly tomorrow.
+Though I got lots of frames taken, the last part of the second livestream was spent trying to figure out how to deal with the [Lower Zig Zag 3F Lower Support](/parts/lower-zig-zag-3-ban-lower-support/), which [G Choppy](/workers/g_choppy/) will cut in the first frame I take next time, possibly tomorrow.
 
-The issue is the ever-present issue of how to show the guys doing the work while I measure stuff and have limited option to test things.  In this case, the tolerance between the [Triple Splitter](/parts/triple_splitter/) and the [Lower Zig Zag 2F](/parts/lower-zig-zag-2-ban/) and the [Lower Zig Zag 3 ban](/parts/lower-zig-zag-3-ban/) are quite tight, so I need to figure out how to support the [Lower Zig Zag 3 ban](/parts/lower-zig-zag-3-ban/) while not getting in the large marble's path on the [Triple Splitter](/parts/triple_splitter/).
+The issue is the ever-present issue of how to show the guys doing the work while I measure stuff and have limited option to test things.  In this case, the tolerance between the [Triple Splitter](/parts/triple_splitter/) and the [Lower Zig Zag 2F](/parts/lower-zig-zag-2-ban/) and the [Lower Zig Zag 3F](/parts/lower-zig-zag-3-ban/) are quite tight, so I need to figure out how to support the [Lower Zig Zag 3F](/parts/lower-zig-zag-3-ban/) while not getting in the large marble's path on the [Triple Splitter](/parts/triple_splitter/).
 
 
 [![00010 002 10 X1 0764](//b.robnugen.com/art/marble_track_3/frames/2019/thumbs/00010_002_10_X1_0764.jpg)](//b.robnugen.com/art/marble_track_3/frames/2019/00010_002_10_X1_0764.jpg)

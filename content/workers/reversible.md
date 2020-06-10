@@ -17,7 +17,7 @@ After moving this guy around, I noticed that he looks just about the same whethe
 [![reversible guy 2018](//b.robnugen.com/art/marble_track_3/workers/2018/thumbs/reversible_guy_2018.gif)](//b.robnugen.com/art/marble_track_3/workers/2018/reversible_guy_2018.gif)
 
 
-* 2019 Jun 22: Reversible Guy held the [Lower Zig Zag 3 ban](/parts/lower-zig-zag-3-ban/) while autosticks came to become the [Lower Zig Zag 3 ban Lower Support](/parts/lower-zig-zag-3-ban-lower-support/).
+* 2019 Jun 22: Reversible Guy held the [Lower Zig Zag 3F](/parts/lower-zig-zag-3-ban/) while autosticks came to become the [Lower Zig Zag 3F Lower Support](/parts/lower-zig-zag-3-ban-lower-support/).
 
 * 2018 Sep 22: Here, Reversible Guy is waiting for the glue to dry while he is holding the first support that will hold up the [Outer Spiral](/parts/outer_spiral/).
 

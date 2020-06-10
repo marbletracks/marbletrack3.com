@@ -14,13 +14,13 @@ taken.  I spent most of the time planning the next few pieces.
 The position of [Caret Splitter Rudder](/parts/caret-splitter-rudder/) seems like it will work, though I do
 not yet know how I will toggle its direction.
 
-[Lower Zig Zag 3 ban](/parts/lower-zig-zag-3-ban/) will possibly be the name of the third
+[Lower Zig Zag 3F](/parts/lower-zig-zag-3-ban/) will possibly be the name of the third
 (from bottom)
 9.4cm bar of the [Lower Zig Zag](/parts/lower_zig_zag/).  Its upper support,
-[Lower Zig Zag 3 ban Upper Base](/parts/lower-zig-zag-3-ban-upper-base/) will be supported
+[Lower Zig Zag 3F Upper Base](/parts/lower-zig-zag-3-ban-upper-base/) will be supported
 by 2 of the toothpicks making up the [Lower Zig Zag Net](/parts/lower_zig_zag_net/).
 These two toothpicks will be the
-[Lower Zig Zag 3 ban Upper Base Base](/parts/lower-zig-zag-3-ban-upper-base-base/)
+[Lower Zig Zag 3F Upper Base Base](/parts/lower-zig-zag-3-ban-upper-base-base/)
 
 I made a Demo [Lower Zig Zag 2F top](/parts/lower-zig-zag-2-ban-top/) which will show
 future me what the characters should build to ensure

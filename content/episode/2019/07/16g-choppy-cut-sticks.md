@@ -10,7 +10,7 @@ date: 2019-07-16T13:41:29+09:00
 
 Today after cutting the sticks [Squarehead](/workers/squarehead/) was holding, I was surprised to see how much longer they looked on camera, even though they were the exact same sticks.  Now they look a bit too short as [Big Brother](/workers/big_brother/) is going to pick them up, but the cut looks fine.
 
-In the background, [Candy Mama](/workers/candy_mama/) is helping [Autosticks](/workers/autosticks/) support the [Lower Zig Zag 3 ban](/parts/lower-zig-zag-3-ban/) by becoming its [Lower Support](/parts/lower-zig-zag-3-ban-lower-support/) as the 3 orange marbles are rolling down the [Triple Splitter Small Feeder](/parts/triple-splitter-small-feeder/).
+In the background, [Candy Mama](/workers/candy_mama/) is helping [Autosticks](/workers/autosticks/) support the [Lower Zig Zag 3F](/parts/lower-zig-zag-3-ban/) by becoming its [Lower Support](/parts/lower-zig-zag-3-ban-lower-support/) as the 3 orange marbles are rolling down the [Triple Splitter Small Feeder](/parts/triple-splitter-small-feeder/).
 
 [Mr McGlue](/workers/mr_mcglue/) has just glued the upper of the two [Caret Splitter Feeder Extension Reflection Protection Holders](/parts/caret-splitter-feeder-extension-reflection-protection-holders/) and [G Choppy](/workers/g_choppy/) is going to walk over and lift its edges so it can actually hold the [Caret Splitter Feeder Extension Reflection Protection](/parts/caret-splitter-feeder-extension-reflection-protection/).
 

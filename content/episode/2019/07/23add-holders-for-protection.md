@@ -8,7 +8,7 @@ episode_thumbnail: "https://b.robnugen.com/art/marble_track_3/construction/2019/
 date: 2019-07-23T13:18:53+09:00
 ---
 
-Today I got several frames added to the video despite having to delete a few.  [Little Brother](/workers/lil_brother/) in the back basically just watched.  [Candy Mama](/workers/candy_mama/) watched as some Autosticks moved themselves into place to be the [Lower Zig Zag 3 ban](/parts/lower-zig-zag-3-ban/) edges.  In the midground, [Pinky](/workers/pinky/) rotated herself out of the way so the medium blue marble can roll down the tracks that are having rails installed now.
+Today I got several frames added to the video despite having to delete a few.  [Little Brother](/workers/lil_brother/) in the back basically just watched.  [Candy Mama](/workers/candy_mama/) watched as some Autosticks moved themselves into place to be the [Lower Zig Zag 3F](/parts/lower-zig-zag-3-ban/) edges.  In the midground, [Pinky](/workers/pinky/) rotated herself out of the way so the medium blue marble can roll down the tracks that are having rails installed now.
 
 In the foreground, [Reversible Guy](/workers/reversible/) and [Backpack Jack](/workers/backpack_jack/) are placing [Caret Splitter Feeder Extension Reflection Protection Holders](/parts/caret-splitter-feeder-extension-reflection-protection-holders/) which [G Choppy](/workers/g_choppy/) curved so they can hold the [Caret Splitter Feeder Extension Reflection Protection](/parts/caret-splitter-feeder-extension-reflection-protection/) that [Squarehead](/workers/squarehead/) is holding.
 
