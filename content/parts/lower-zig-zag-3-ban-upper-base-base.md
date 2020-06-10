@@ -17,7 +17,7 @@ date = 2019-05-03T16:16:46+09:00
 
 These are two toothpicks that make up the [Lower Zig Zag Net](/parts/lower_zig_zag_net/),
 which was put in place to catch small marbles as they fall from the
-(newly named) [Lower Zig Zag 2F](/parts/lower-zig-zag-2-ban/) to [Lower Zig Zag 1 ban](/parts/lower-zig-zag-1-ban/)
+(newly named) [Lower Zig Zag 2F](/parts/lower-zig-zag-2-ban/) to [Lower Zig Zag 1F](/parts/lower-zig-zag-1-ban/)
 
 History:
 
