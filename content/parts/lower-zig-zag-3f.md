@@ -1,5 +1,5 @@
 +++
-title = "Lower Zig Zag 3 ban"
+title = "Lower Zig Zag 3F"
 type = "parts"
 tags = [ "lzz3b", "lzz", "rail", "small" ]
 image = "https://b.robnugen.com/art/marble_track_3/track/parts/2019/2019_may_03_bringing_lzz3b_etc.jpg"
@@ -10,7 +10,8 @@ workers = [
     "g_choppyd"
 ]
 aliases = [
-    "/p/lzz3b"
+    "/p/lzz3f",
+    "/parts/lower-zig-zag-3-ban/"
 ]
 date = 2019-05-04T12:30:15+09:00
 +++
