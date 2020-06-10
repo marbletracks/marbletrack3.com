@@ -17,7 +17,7 @@
               {{ end }}
               {{ if .PrevInSection }}
                 <a class="next page-numbers" href="{{.PrevInSection.Permalink}}" target="_blank">Next <i class="fas fa-angle-double-right"></i></a>
-                
+
               {{ else }}
                 <a class="next page-numbers disabled" href="#">Next <i class="fas fa-angle-double-right"></i></a>
               {{ end }}
@@ -90,7 +90,7 @@
               {{ .Content | markdownify }}
             </div>
           </div>
-        </div>   
+        </div>
       </div>
     </div>
   </div>
@@ -107,15 +107,13 @@
         {{ end }}
         {{ if .PrevInSection }}
           <a class="next page-numbers" href="{{.PrevInSection.Permalink}}">Next <i class="fas fa-angle-double-right"></i></a>
-          
+
         {{ else }}
           <a class="next page-numbers disabled" href="#">Next <i class="fas fa-angle-double-right"></i></a>
-          
+
         {{ end }}
         </div>
     </nav>
   </div>
   <!-- pager end -->
 {{ end }}
-
-
