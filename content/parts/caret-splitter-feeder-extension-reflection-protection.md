@@ -2,8 +2,8 @@
 title = "Caret Splitter Feeder Extension Reflection Protection"
 type = "parts"
 tags = [ "csferp", "rail", "berm", "bamboo" ]
-image = "https://b.robnugen.com/art/marble_track_3/track/parts/2019/2019_june_21_squarehead_bringing_csfg.jpg"
-thumbnail = "https://b.robnugen.com/art/marble_track_3/track/parts/2019/thumbs/2019_june_21_squarehead_bringing_csfg.jpg"
+image = "https://b.robnugen.com/art/marble_track_3/track/parts/2019/2019_sep_03_CSFER_protection.jpg"
+thumbnail = "https://b.robnugen.com/art/marble_track_3/track/parts/2019/thumbs/2019_sep_03_CSFER_protection.jpg"
 description = "Caret Splitter Feeder Extension Reflection Protection"
 workers = [
     "squarehead",
