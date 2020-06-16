@@ -2,8 +2,8 @@
 title = "Triple Splitter Medium Catcher Ridge"
 type = "parts"
 tags = [ "short", "bamboo", "wedge" ]
-image = "https://b.robnugen.com/art/marble_track_3/track/parts/2020/2020_june_09_triple_splitter_medium_catcher_ridge_stand-in.jpg"
-thumbnail = "https://b.robnugen.com/art/marble_track_3/track/parts/2020/thumbs/2020_june_09_triple_splitter_medium_catcher_ridge_stand-in.jpg"
+image = "https://b.robnugen.com/art/marble_track_3/track/parts/2020/2020_june_16_big_brother_carrying_tsmcb.jpg"
+thumbnail = "https://b.robnugen.com/art/marble_track_3/track/parts/2020/thumbs/2020_june_16_big_brother_carrying_tsmcb.jpg"
 description = "Triple Splitter Medium Catcher Ridge"
 workers = [
     "mr_mcglue",
@@ -21,6 +21,10 @@ will give 100% success rate in reversing the direction of the medium
 marble after it falls from the [Triple Splitter](/parts/triple_splitter/).
 
 History:
+
+* 2020 Jun 16: BB started bringing the piece onto the set.
+
+[![2020 june 09 triple splitter medium catcher ridge stand-in](//b.robnugen.com/art/marble_track_3/track/parts/2020/thumbs/2020_june_16_big_brother_carrying_tsmcb.jpg)](//b.robnugen.com/art/marble_track_3/track/parts/2020/2020_june_16_big_brother_carrying_tsmcb.jpg)
 
 * 2020 Jun 09: I cut a bamboo piece to keep medium marbles moving
 after falling through the [Triple Splitter](/parts/triple_splitter/).
