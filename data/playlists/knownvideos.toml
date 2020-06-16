@@ -259,9 +259,9 @@
     VideoType = 2
   [Videos.3uEohlN4bMU]
     VideoId = "3uEohlN4bMU"
-    Title = "Marble Track 3 construction Live Stream"
+    Title = "Marble Track 3 construction Live Stream: Big Brother brings TSMCR (1/2)"
     Published = 2020-06-09T02:22:14Z
-    Duration = 0
+    Duration = 1043000000000
     VideoType = 1
   [Videos.3uneHQljsOc]
     VideoId = "3uneHQljsOc"
@@ -466,6 +466,12 @@
     Title = "Marble Track 3 construction Live Stream: glued dual track rail"
     Published = 2018-03-24T02:39:02Z
     Duration = 2653000000000
+    VideoType = 1
+  [Videos.8PGIgCBEdzM]
+    VideoId = "8PGIgCBEdzM"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2020-06-16T03:35:48Z
+    Duration = 0
     VideoType = 1
   [Videos.8Ye2eEL8-cY]
     VideoId = "8Ye2eEL8-cY"
@@ -2776,6 +2782,12 @@
     Title = "Marble Track 3 construction Live Stream"
     Published = 2019-02-10T09:34:33Z
     Duration = 2502000000000
+    VideoType = 1
+  [Videos.rg7OXHeBg-g]
+    VideoId = "rg7OXHeBg-g"
+    Title = "Marble Track 3 construction Live Stream: Big Brother brings Triple Splitter Medium Catcher Ridge"
+    Published = 2020-06-16T02:11:27Z
+    Duration = 4843000000000
     VideoType = 1
   [Videos.rvsJBulcd7Y]
     VideoId = "rvsJBulcd7Y"
