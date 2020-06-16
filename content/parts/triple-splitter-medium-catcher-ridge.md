@@ -22,7 +22,7 @@ marble after it falls from the [Triple Splitter](/parts/triple_splitter/).
 
 History:
 
-* 2020 Jun 16: BB started bringing the piece onto the set.
+* 2020 Jun 16: [Big Brother](/workers/big_brother/) started bringing the piece onto the set.
 
 [![2020 june 09 triple splitter medium catcher ridge stand-in](//b.robnugen.com/art/marble_track_3/track/parts/2020/thumbs/2020_june_16_big_brother_carrying_tsmcb.jpg)](//b.robnugen.com/art/marble_track_3/track/parts/2020/2020_june_16_big_brother_carrying_tsmcb.jpg)
 
