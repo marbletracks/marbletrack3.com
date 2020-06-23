@@ -469,9 +469,9 @@
     VideoType = 1
   [Videos.8PGIgCBEdzM]
     VideoId = "8PGIgCBEdzM"
-    Title = "Marble Track 3 construction Live Stream"
+    Title = "Marble Track 3 construction Live Stream: Glued el Lifty Lever Guider (1 of 2)"
     Published = 2020-06-16T03:35:48Z
-    Duration = 0
+    Duration = 1518000000000
     VideoType = 1
   [Videos.8Ye2eEL8-cY]
     VideoId = "8Ye2eEL8-cY"
@@ -1655,6 +1655,12 @@
     Published = 2017-09-22T12:15:06Z
     Duration = 7221000000000
     VideoType = 1
+  [Videos.Vdg5CRFxDUY]
+    VideoId = "Vdg5CRFxDUY"
+    Title = "Marble Track 3 construction Live Stream: Glued el Lifty Lever Guider (2 of 2)"
+    Published = 2020-06-23T02:11:45Z
+    Duration = 5586000000000
+    VideoType = 1
   [Videos.ViqCHc0eZZk]
     VideoId = "ViqCHc0eZZk"
     Title = "Marble Track 3 construction Live Stream"
@@ -1997,6 +2003,12 @@
     Published = 2019-09-17T04:37:26Z
     Duration = 74000000000
     VideoType = 2
+  [Videos.bepQbMHWEXA]
+    VideoId = "bepQbMHWEXA"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2020-06-23T02:11:45Z
+    Duration = 0
+    VideoType = 1
   [Videos.bgxiGkFJhYs]
     VideoId = "bgxiGkFJhYs"
     Title = "Marble Track 3 construction Live Stream: (AUDIO IS LOUD at first) centering the plate bearings"
@@ -2393,6 +2405,12 @@
     Published = 2018-03-06T07:10:52Z
     Duration = 4180000000000
     VideoType = 1
+  [Videos.kJlravTgK30]
+    VideoId = "kJlravTgK30"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2020-06-23T03:46:47Z
+    Duration = 0
+    VideoType = 1
   [Videos.kLWOZr9jDqI]
     VideoId = "kLWOZr9jDqI"
     Title = "Marble Track 3 construction Live Stream"
@@ -2441,6 +2459,12 @@
     Published = 2018-05-10T01:03:59Z
     Duration = 2802000000000
     VideoType = 1
+  [Videos.lb4pO0UJGpQ]
+    VideoId = "lb4pO0UJGpQ"
+    Title = "Marble Track 3: Finished Gluing el Lifty Lever Guider"
+    Published = 2020-06-23T05:04:07Z
+    Duration = 119000000000
+    VideoType = 2
   [Videos.lfxSu5S2rcs]
     VideoId = "lfxSu5S2rcs"
     Title = "Marble Track 3: snake marble piece progressed"
