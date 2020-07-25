@@ -719,6 +719,12 @@
     Published = 2018-03-18T07:40:17Z
     Duration = 15000000000
     VideoType = 2
+  [Videos.C78oNsV_6wU]
+    VideoId = "C78oNsV_6wU"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2020-07-25T08:16:48Z
+    Duration = 0
+    VideoType = 1
   [Videos.CJgtLYyoZi8]
     VideoId = "CJgtLYyoZi8"
     Title = "Marble Track 3: snake nearly wrapped"
@@ -1025,6 +1031,12 @@
     Published = 2017-08-25T13:55:51Z
     Duration = 1047000000000
     VideoType = 1
+  [Videos.JCiFglwloaE]
+    VideoId = "JCiFglwloaE"
+    Title = "Marble Track 3: glued 11th placed outer spiral support"
+    Published = 2020-07-07T04:41:32Z
+    Duration = 121000000000
+    VideoType = 2
   [Videos.JR7FZDBeisI]
     VideoId = "JR7FZDBeisI"
     Title = "Marble Track 3 construction Live Stream"
@@ -1162,6 +1174,12 @@
     Title = "Marble Track 3 construction Live Stream: recovery from large marble rolling off track"
     Published = 2017-12-12T00:47:25Z
     Duration = 6993000000000
+    VideoType = 1
+  [Videos.MQCM1fmf46o]
+    VideoId = "MQCM1fmf46o"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2020-07-21T12:55:40Z
+    Duration = 2170000000000
     VideoType = 1
   [Videos.MiVFYGSLKW0]
     VideoId = "MiVFYGSLKW0"
@@ -1715,6 +1733,12 @@
     Published = 2017-09-05T01:17:08Z
     Duration = 7480000000000
     VideoType = 1
+  [Videos.WW1tbkckH-o]
+    VideoId = "WW1tbkckH-o"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2020-07-14T13:21:58Z
+    Duration = 1220000000000
+    VideoType = 1
   [Videos.WhGajsciiio]
     VideoId = "WhGajsciiio"
     Title = "Marble Track 3 construction Live Stream: Traffic Jam at Caret Splitter"
@@ -1937,6 +1961,12 @@
     Published = 2017-06-27T03:59:14Z
     Duration = 26000000000
     VideoType = 2
+  [Videos.aQ9pJapIizs]
+    VideoId = "aQ9pJapIizs"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2020-07-18T13:13:16Z
+    Duration = 12085000000000
+    VideoType = 1
   [Videos.a_PY2XuLnm4]
     VideoId = "a_PY2XuLnm4"
     Title = "Marble Track 3: finished drawing circle"
@@ -2363,6 +2393,12 @@
     Published = 2017-09-26T15:06:21Z
     Duration = 32000000000
     VideoType = 2
+  [Videos.jCkduvFcHAY]
+    VideoId = "jCkduvFcHAY"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2020-07-14T19:43:36Z
+    Duration = 4453000000000
+    VideoType = 1
   [Videos.jETtpxLcwWY]
     VideoId = "jETtpxLcwWY"
     Title = "Marble Track 3 construction Live Stream: snakes!"
@@ -2409,7 +2445,7 @@
     VideoId = "kJlravTgK30"
     Title = "Marble Track 3 construction Live Stream"
     Published = 2020-06-23T03:46:47Z
-    Duration = 0
+    Duration = 5931000000000
     VideoType = 1
   [Videos.kLWOZr9jDqI]
     VideoId = "kLWOZr9jDqI"
@@ -2717,6 +2753,12 @@
     Published = 2018-09-18T08:21:38Z
     Duration = 958000000000
     VideoType = 1
+  [Videos.piibpFQ6aEk]
+    VideoId = "piibpFQ6aEk"
+    Title = "Marble Track 3 construction Live Stream: slower smoother animation"
+    Published = 2020-07-21T01:03:02Z
+    Duration = 5305000000000
+    VideoType = 1
   [Videos.pkwNdtX0ivs]
     VideoId = "pkwNdtX0ivs"
     Title = "Marble Track 3 construction Live Stream"
@@ -2932,6 +2974,12 @@
     Title = "Marble Track 3 construction Live Stream"
     Published = 2017-10-22T11:02:13Z
     Duration = 4264000000000
+    VideoType = 1
+  [Videos.uIq9KBW9Lnc]
+    VideoId = "uIq9KBW9Lnc"
+    Title = "Marble Track 3 construction Live Stream: glued 11th placed outer spiral support"
+    Published = 2020-07-07T04:42:10Z
+    Duration = 7246000000000
     VideoType = 1
   [Videos.uY0G07cf9fY]
     VideoId = "uY0G07cf9fY"
