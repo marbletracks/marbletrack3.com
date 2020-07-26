@@ -721,9 +721,9 @@
     VideoType = 2
   [Videos.C78oNsV_6wU]
     VideoId = "C78oNsV_6wU"
-    Title = "Marble Track 3 construction Live Stream"
+    Title = "Marble Track 3 construction Live Stream: Backpack Jack Staying"
     Published = 2020-07-25T08:16:48Z
-    Duration = 0
+    Duration = 5625000000000
     VideoType = 1
   [Videos.CJgtLYyoZi8]
     VideoId = "CJgtLYyoZi8"
@@ -1138,6 +1138,12 @@
     Title = "Marble Track 3 construction Live Stream"
     Published = 2019-10-29T02:42:52Z
     Duration = 6933000000000
+    VideoType = 1
+  [Videos.LXZE-yvjEww]
+    VideoId = "LXZE-yvjEww"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2020-07-26T07:11:15Z
+    Duration = 0
     VideoType = 1
   [Videos.LnMk9D6lhgA]
     VideoId = "LnMk9D6lhgA"

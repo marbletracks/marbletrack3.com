@@ -52,7 +52,7 @@
             {{- end -}}
             <div class="markdownContent">
                <h4> {{ .Title }} </h4>
-              {{ .Content | markdownify }}
+              {{ .Content }}
               <div class = "col guest_social_icons">
                 {{ if .Params.YouTube }}
                   <a href="https://youtu.be/{{ .Params.YouTube}}">

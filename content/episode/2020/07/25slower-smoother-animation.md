@@ -9,8 +9,8 @@ date: 2020-07-25T17:46:34+09:00
 ---
 
 Today I basically caught up with where I had sloppily filmed last
-week.  This time I smoothed the motion of the chopstick RG is lifting,
-and slowed GC's pace as he flies across the spinning stage.
+week.  This time I smoothed the motion of the chopstick [Reversible Guy](/workers/reversible/) is lifting,
+and slowed [G Choppy](/workers/g_choppy/)'s pace as he flies across the spinning stage.
 
 I need to more consistently plan paths so I get them right the first
 time.
