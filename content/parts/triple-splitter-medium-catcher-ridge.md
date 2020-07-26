@@ -7,7 +7,7 @@ thumbnail = "https://b.robnugen.com/art/marble_track_3/track/parts/2020/thumbs/2
 description = "Triple Splitter Medium Catcher Ridge"
 workers = [
     "mr_mcglue",
-    "g_choppy"
+    "big"
 ]
 aliases = [
     "/p/tsmcr"
