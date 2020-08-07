@@ -1143,7 +1143,7 @@
     VideoId = "LXZE-yvjEww"
     Title = "Marble Track 3 construction Live Stream"
     Published = 2020-07-26T07:11:15Z
-    Duration = 0
+    Duration = 8402000000000
     VideoType = 1
   [Videos.LnMk9D6lhgA]
     VideoId = "LnMk9D6lhgA"
@@ -1306,6 +1306,12 @@
     Title = "Marble Track 3 construction Live Stream: started starting to put together skeleton"
     Published = 2017-07-25T02:55:31Z
     Duration = 1020000000000
+    VideoType = 1
+  [Videos.ORHLN8Ub9os]
+    VideoId = "ORHLN8Ub9os"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2020-08-07T03:35:27Z
+    Duration = 0
     VideoType = 1
   [Videos.OVceKpvwXQI]
     VideoId = "OVceKpvwXQI"
@@ -1756,6 +1762,12 @@
     Title = "Marble Track 3 construction Live Stream: almost placed fourth support"
     Published = 2018-11-10T05:37:41Z
     Duration = 2249000000000
+    VideoType = 1
+  [Videos.Wx-7FVNOlfc]
+    VideoId = "Wx-7FVNOlfc"
+    Title = "Marble Track 3 construction Live Stream: Lil Brother back bend"
+    Published = 2020-08-04T14:05:11Z
+    Duration = 5557000000000
     VideoType = 1
   [Videos.WxV4Za-LnRM]
     VideoId = "WxV4Za-LnRM"
@@ -2770,6 +2782,12 @@
     Title = "Marble Track 3 construction Live Stream"
     Published = 2019-11-12T02:37:07Z
     Duration = 8850000000000
+    VideoType = 1
+  [Videos.pmxSi7GSR1E]
+    VideoId = "pmxSi7GSR1E"
+    Title = "Marble Track 3 construction Live Stream: G Choppy cut the stick again"
+    Published = 2020-08-04T01:59:44Z
+    Duration = 5533000000000
     VideoType = 1
   [Videos.pnJhHFVwMHM]
     VideoId = "pnJhHFVwMHM"

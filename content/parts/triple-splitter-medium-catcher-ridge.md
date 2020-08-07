@@ -2,8 +2,8 @@
 title = "Triple Splitter Medium Catcher Ridge"
 type = "parts"
 tags = [ "short", "bamboo", "wedge" ]
-image = "https://b.robnugen.com/art/marble_track_3/track/parts/2020/2020_june_16_big_brother_carrying_tsmcb.jpg"
-thumbnail = "https://b.robnugen.com/art/marble_track_3/track/parts/2020/thumbs/2020_june_16_big_brother_carrying_tsmcb.jpg"
+image = "https://b.robnugen.com/art/marble_track_3/track/parts/2020/2020_aug_07_caret_splitter_medium_catcher_ridge.jpg"
+thumbnail = "https://b.robnugen.com/art/marble_track_3/track/parts/2020/thumbs/2020_aug_07_caret_splitter_medium_catcher_ridge.jpg"
 description = "Triple Splitter Medium Catcher Ridge"
 workers = [
     "mr_mcglue",
@@ -21,6 +21,8 @@ will give 100% success rate in reversing the direction of the medium
 marble after it falls from the [Triple Splitter](/parts/triple_splitter/).
 
 History:
+
+* 2020 Aug 07: [Mr McGlue](/workers/mr_mcglue/) started gluing this piece in place on the [Medium Catcher Below Triple Splitter](/parts/medium-catcher-below-triple-splitter/).
 
 * 2020 Jun 16: [Big Brother](/workers/big_brother/) started bringing the piece onto the set.
 
