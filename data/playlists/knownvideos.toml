@@ -89,6 +89,12 @@
     Published = 2019-05-10T08:19:56Z
     Duration = 5214000000000
     VideoType = 1
+  [Videos.0Iw6XKNp-Zw]
+    VideoId = "0Iw6XKNp-Zw"
+    Title = "Marble Track 3: Reversible Guy about to toss sticks"
+    Published = 2020-08-18T06:41:23Z
+    Duration = 126000000000
+    VideoType = 2
   [Videos.0OxizSrkOAU]
     VideoId = "0OxizSrkOAU"
     Title = "Marble Track 3 construction Live Stream"
@@ -1025,6 +1031,12 @@
     Published = 2018-12-04T02:20:19Z
     Duration = 5157000000000
     VideoType = 1
+  [Videos.J4ts28WNyoQ]
+    VideoId = "J4ts28WNyoQ"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2020-08-18T03:54:05Z
+    Duration = 0
+    VideoType = 1
   [Videos.J6wzdFQO2II]
     VideoId = "J6wzdFQO2II"
     Title = "Marble Track 3 construction Live Stream: started drawing the circle"
@@ -1309,9 +1321,9 @@
     VideoType = 1
   [Videos.ORHLN8Ub9os]
     VideoId = "ORHLN8Ub9os"
-    Title = "Marble Track 3 construction Live Stream"
+    Title = "Marble Track 3 construction Live Stream: Candy Mama about to holler"
     Published = 2020-08-07T03:35:27Z
-    Duration = 0
+    Duration = 9031000000000
     VideoType = 1
   [Videos.OVceKpvwXQI]
     VideoId = "OVceKpvwXQI"
@@ -2290,6 +2302,12 @@
     Title = "Marble Track 3 construction Live Stream: Cut and Glued 7th Placed Outer Spiral Support"
     Published = 2019-01-02T12:38:28Z
     Duration = 5770000000000
+    VideoType = 1
+  [Videos.gxNF33Twol8]
+    VideoId = "gxNF33Twol8"
+    Title = "Marble Track 3 construction Live Stream: Reversible Guy about to toss sticks"
+    Published = 2020-08-11T05:10:59Z
+    Duration = 6043000000000
     VideoType = 1
   [Videos.gy0YS83ooms]
     VideoId = "gy0YS83ooms"
