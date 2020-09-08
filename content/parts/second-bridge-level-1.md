@@ -23,6 +23,8 @@ I plan for the second level to be approximately twice as high, perhaps as high a
 
 History:
 
+* 2020 Sep 08: [Candy Mama](/workers/candy_mama/) and [Squarehead](/workers/squarehead/) began bringing the Second Bridge Level 1 in, while [Reversible Guy](/workers/reversible/) and them prepared [Second Bridge Supports](/parts/second-bridge-supports/)
+
 * 2020 Jul 26: [Backpack Jack](/workers/backpack_jack/) arriving with Second Bridge supports as [Reversible Guy](/workers/reversible/) holds the first
   up to be cut by [G Choppy](/workers/g_choppy/)
 
