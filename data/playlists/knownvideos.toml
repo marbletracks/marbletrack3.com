@@ -377,6 +377,12 @@
     Published = 2017-06-17T08:54:29Z
     Duration = 4000000000
     VideoType = 2
+  [Videos.6LfGQ14Fy0Y]
+    VideoId = "6LfGQ14Fy0Y"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2020-09-08T02:13:22Z
+    Duration = 0
+    VideoType = 1
   [Videos.6YlM3UT467E]
     VideoId = "6YlM3UT467E"
     Title = "Marble Track 3 construction Live Stream: adding reverse before Matrix"
@@ -418,6 +424,12 @@
     Title = "Marble Track 3 construction Live Stream"
     Published = 2017-10-21T02:51:48Z
     Duration = 7050000000000
+    VideoType = 1
+  [Videos.7IZSUMXzP5k]
+    VideoId = "7IZSUMXzP5k"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2020-09-01T16:06:04Z
+    Duration = 6318000000000
     VideoType = 1
   [Videos.7N0QAOVnP6g]
     VideoId = "7N0QAOVnP6g"
@@ -1033,9 +1045,9 @@
     VideoType = 1
   [Videos.J4ts28WNyoQ]
     VideoId = "J4ts28WNyoQ"
-    Title = "Marble Track 3 construction Live Stream"
+    Title = "Marble Track 3 construction Live Stream: throw your sticks in the air"
     Published = 2020-08-18T03:54:05Z
-    Duration = 0
+    Duration = 3268000000000
     VideoType = 1
   [Videos.J6wzdFQO2II]
     VideoId = "J6wzdFQO2II"
@@ -3112,6 +3124,12 @@
     Title = "Marble Track 3 construction Live Stream: one hour before a single frame"
     Published = 2018-08-03T04:09:11Z
     Duration = 5666000000000
+    VideoType = 1
+  [Videos.vrpkEFlqDqA]
+    VideoId = "vrpkEFlqDqA"
+    Title = "Marble Track 3 construction Live Stream: here comes second bridge"
+    Published = 2020-09-08T02:21:55Z
+    Duration = 7535000000000
     VideoType = 1
   [Videos.w9lOzKQ4Qx4]
     VideoId = "w9lOzKQ4Qx4"
