@@ -15,7 +15,9 @@ Aliases = [
 date = 2018-12-25T13:44:03+09:00
 +++
 
-This track keeps small marbles on the left side of the [Caret Splitter](/parts/caret-splitter/) from falling onto [The First Track](/parts/the_first_track/)
+This thin bamboo bar keeps small marbles on the left side of the [Caret Splitter](/parts/caret-splitter/) from falling onto [The First Track](/parts/the_first_track/).
+
+It connects to the [the Lowest Small-Medium Splitter](/parts/the_lowest_small-medium_splitter/), halfway along its length, starting from the front of the track, near the [Caret Splitter](/parts/caret-splitter/).
 
 History:
 

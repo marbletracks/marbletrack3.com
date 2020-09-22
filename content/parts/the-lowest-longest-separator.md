@@ -16,14 +16,15 @@ date = 2020-06-09T16:27:11+09:00
 +++
 
 Glued to [Second Circle Below Caret Splitter](/parts/second-circle-below-caret-splitter/), this long bamboo piece extends to [Sixth Placed Outer Spiral Support](/parts/006p_sixth_placed_outer_spiral_support/) and has a
-slight angle as it passes the the [Lower Curver off the Lowest Small-Medium Splitter](/parts/lower_curver_off_the_lowest_small-medium_splitter/) so it can be closer to the
+slight angle as it passes the [Lower Curver off the Lowest Small-Medium Splitter](/parts/lower_curver_off_the_lowest_small-medium_splitter/) so it can be closer to the
 small marbles.
 
-It may be the case that this piece not close enough to the [the Lowest Small-Medium Splitter](/parts/the_lowest_small-medium_splitter/) to
+It may be the case that this piece is not close enough to [the Lowest Small-Medium Splitter](/parts/the_lowest_small-medium_splitter/) to
 keep small marbles on it from falling to [The First Track](/parts/the_first_track/)
 
 History:
 
 * 2020 Jun 09:
 
+This piece has been designed and glued to the [Second Circle Below Caret Splitter](/parts/second-circle-below-caret-splitter/), but it has not been placed on the track yet.
 [![2020 june 09 sm outer keep below cs 39](//b.robnugen.com/art/marble_track_3/track/parts/2020/thumbs/2020_june_09_sm_outer_keep_below_cs_39.jpg)](//b.robnugen.com/art/marble_track_3/track/parts/2020/2020_june_09_sm_outer_keep_below_cs_39.jpg)
