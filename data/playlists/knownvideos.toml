@@ -381,7 +381,7 @@
     VideoId = "6LfGQ14Fy0Y"
     Title = "Marble Track 3 construction Live Stream"
     Published = 2020-09-08T02:13:22Z
-    Duration = 0
+    Duration = 6602000000000
     VideoType = 1
   [Videos.6YlM3UT467E]
     VideoId = "6YlM3UT467E"
@@ -436,6 +436,12 @@
     Title = "Marble Track 3 construction Live Stream"
     Published = 2019-11-05T02:46:59Z
     Duration = 6057000000000
+    VideoType = 1
+  [Videos.7NUao4ToiKI]
+    VideoId = "7NUao4ToiKI"
+    Title = "Marble Track 3 construction Live Stream: nearly brought 2nd bridge into place"
+    Published = 2020-09-15T03:54:45Z
+    Duration = 5246000000000
     VideoType = 1
   [Videos.7X_asu666Zc]
     VideoId = "7X_asu666Zc"
@@ -1355,6 +1361,12 @@
     Published = 2018-09-13T00:36:49Z
     Duration = 134000000000
     VideoType = 2
+  [Videos.OpjmCn_P7ns]
+    VideoId = "OpjmCn_P7ns"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2020-09-22T09:00:15Z
+    Duration = 0
+    VideoType = 1
   [Videos.P-waSsHJqT4]
     VideoId = "P-waSsHJqT4"
     Title = "Marble Track 3 construction Live Stream: almost glued seventh placed outer spiral support"
@@ -2045,6 +2057,12 @@
     Published = 2019-02-19T03:48:12Z
     Duration = 31000000000
     VideoType = 2
+  [Videos.ahVr00u2Sxk]
+    VideoId = "ahVr00u2Sxk"
+    Title = "Marble Track 3 construction Live Stream: Glued first support on 2nd bridge"
+    Published = 2020-09-22T03:51:14Z
+    Duration = 4493000000000
+    VideoType = 1
   [Videos.auZPolbiTWI]
     VideoId = "auZPolbiTWI"
     Title = "Marble Track 3 construction Live Stream: triple splitting small marble"
