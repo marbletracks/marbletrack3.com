@@ -761,6 +761,12 @@
     Published = 2017-11-06T11:37:34Z
     Duration = 6871000000000
     VideoType = 1
+  [Videos.CnrKZMOt3cE]
+    VideoId = "CnrKZMOt3cE"
+    Title = "Marble Track 3: Lunch break after finishing first level of second bridge"
+    Published = 2020-10-13T09:41:05Z
+    Duration = 150000000000
+    VideoType = 2
   [Videos.D9OlkmueKJg]
     VideoId = "D9OlkmueKJg"
     Title = "Marble Track 3: stopped the madness"
@@ -1289,6 +1295,12 @@
     Published = 2020-05-19T05:25:02Z
     Duration = 113000000000
     VideoType = 2
+  [Videos.NkEXLBHPYkc]
+    VideoId = "NkEXLBHPYkc"
+    Title = "Marble Track 3 Livestream"
+    Published = 2020-10-13T07:14:55Z
+    Duration = 0
+    VideoType = 1
   [Videos.Nmbif6hwVr4]
     VideoId = "Nmbif6hwVr4"
     Title = "Marble Track 3 construction Live Stream: Reversible Guy installed CSFERP (1 of 2)"
@@ -1363,9 +1375,9 @@
     VideoType = 2
   [Videos.OpjmCn_P7ns]
     VideoId = "OpjmCn_P7ns"
-    Title = "Marble Track 3 construction Live Stream"
+    Title = "Marble Track 3 construction Livestream"
     Published = 2020-09-22T09:00:15Z
-    Duration = 0
+    Duration = 2712000000000
     VideoType = 1
   [Videos.P-waSsHJqT4]
     VideoId = "P-waSsHJqT4"
@@ -2158,6 +2170,12 @@
     Title = "Marble Track 3 construction Live Stream: Guardrails into Back Right Medium Landing Zone 2 of 3"
     Published = 2019-01-01T00:20:30Z
     Duration = 4005000000000
+    VideoType = 1
+  [Videos.ctvKYhhzIU0]
+    VideoId = "ctvKYhhzIU0"
+    Title = "Marble Track 3 construction Livestream"
+    Published = 2020-09-29T04:30:05Z
+    Duration = 0
     VideoType = 1
   [Videos.cwd2676BURE]
     VideoId = "cwd2676BURE"
@@ -3191,6 +3209,12 @@
     Published = 2017-06-13T07:04:56Z
     Duration = 2043000000000
     VideoType = 1
+  [Videos.xIUoq1fKTEQ]
+    VideoId = "xIUoq1fKTEQ"
+    Title = "Marble Track 3 construction Livestream"
+    Published = 2020-09-29T16:02:54Z
+    Duration = 2612000000000
+    VideoType = 1
   [Videos.xIqI629wvT0]
     VideoId = "xIqI629wvT0"
     Title = "Marble Track 3 TLDE all the frames from today"
@@ -3304,6 +3328,12 @@
     Title = "Marble Track 3 construction Live Stream"
     Published = 2020-01-28T02:00:00Z
     Duration = 2386000000000
+    VideoType = 1
+  [Videos.zFfx2ZEWeIo]
+    VideoId = "zFfx2ZEWeIo"
+    Title = "Marble Track 3 construction Livestream: finished installed second bridge"
+    Published = 2020-10-13T01:07:03Z
+    Duration = 8465000000000
     VideoType = 1
   [Videos.zILr_gP9okM]
     VideoId = "zILr_gP9okM"
