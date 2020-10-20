@@ -1297,9 +1297,9 @@
     VideoType = 2
   [Videos.NkEXLBHPYkc]
     VideoId = "NkEXLBHPYkc"
-    Title = "Marble Track 3 Livestream"
+    Title = "Marble Track 3 Livestream: First Use of Second Bridge"
     Published = 2020-10-13T07:14:55Z
-    Duration = 0
+    Duration = 8325000000000
     VideoType = 1
   [Videos.Nmbif6hwVr4]
     VideoId = "Nmbif6hwVr4"
@@ -2783,6 +2783,12 @@
     Published = 2019-11-12T03:08:19Z
     Duration = 553000000000
     VideoType = 1
+  [Videos.oqrnLmniky8]
+    VideoId = "oqrnLmniky8"
+    Title = "Marble Track 3: First Use of Second Bridge"
+    Published = 2020-10-20T04:46:17Z
+    Duration = 8000000000
+    VideoType = 2
   [Videos.owMCXdK-fC0]
     VideoId = "owMCXdK-fC0"
     Title = "Marble Track 3 construction Live Stream: nearly ready to wrangle"

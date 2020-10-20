@@ -2,8 +2,8 @@
 title = "The Lowest Longest Separator"
 type = "parts"
 tags = [ "bamboo", "thin", "long", "horizontal" ]
-image = "https://b.robnugen.com/art/marble_track_3/track/parts/2020/2020_jun_09_planning_the_lowest_longest_separator.jpg"
-thumbnail = "https://b.robnugen.com/art/marble_track_3/track/parts/2020/thumbs/2020_jun_09_planning_the_lowest_longest_separator.jpg"
+image = "https://b.robnugen.com/art/marble_track_3/track/parts/2020/2020_oct_10_installing_lowest_longest_separator.jpg"
+thumbnail = "https://b.robnugen.com/art/marble_track_3/track/parts/2020/thumbs/2020_oct_10_installing_lowest_longest_separator.jpg"
 description = "The Lowest Longest Separator"
 workers = [
     "mr_mcglue",
@@ -24,7 +24,12 @@ keep small marbles on it from falling to [The First Track](/parts/the_first_trac
 
 History:
 
-* 2020 Jun 09:
+* 2020 Oct 10: [Mr Greene](/workers/mr_greene/) and [Backpack Jack](/workers/backpack_jack/) are bringing The Lowest Longest Separator in on [Second Bridge Level 1](/parts/second-bridge-level-1/).
 
-This piece has been designed and glued to the [Second Circle Below Caret Splitter](/parts/second-circle-below-caret-splitter/), but it has not been placed on the track yet.
+[![2020 oct 10 installing lowest longest separator](//b.robnugen.com/art/marble_track_3/track/parts/2020/thumbs/2020_oct_10_installing_lowest_longest_separator.jpg)](//b.robnugen.com/art/marble_track_3/track/parts/2020/2020_oct_10_installing_lowest_longest_separator.jpg)
+
+* 2020 Jun 09: This piece has been designed and glued to the [Second Circle Below Caret Splitter](/parts/second-circle-below-caret-splitter/), but it has not been placed on the track yet.
+
 [![2020 june 09 sm outer keep below cs 39](//b.robnugen.com/art/marble_track_3/track/parts/2020/thumbs/2020_june_09_sm_outer_keep_below_cs_39.jpg)](//b.robnugen.com/art/marble_track_3/track/parts/2020/2020_june_09_sm_outer_keep_below_cs_39.jpg)
+
+[![2020 jun 09 planning the lowest longest separator](//b.robnugen.com/art/marble_track_3/track/parts/2020/thumbs/2020_jun_09_planning_the_lowest_longest_separator.jpg)](//b.robnugen.com/art/marble_track_3/track/parts/2020/2020_jun_09_planning_the_lowest_longest_separator.jpg)
