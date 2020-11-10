@@ -20,4 +20,8 @@ date = 2019-05-05T21:49:23+09:00
 
 History:
 
+* 2020 Jun 10: [G Choppy](/workers/g_choppy/) cut a notch into the upper support of the Lower Zig Zag 2F allowing small marbles on the [Lower Zig Zag 1F](/parts/lower-zig-zag-1f/) to pass by smoothly.
+
+[![2020 nov 10 g choppy cut slot into lzz2f support](//b.robnugen.com/art/marble_track_3/track/parts/2020/thumbs/2020_nov_10_g_choppy_cut_slot_into_lzz2f_support.jpg)](//b.robnugen.com/art/marble_track_3/track/parts/2020/2020_nov_10_g_choppy_cut_slot_into_lzz2f_support.jpg)
+
 * 2019 May 05: recently named second track from the bottom of the [Lower Zig Zag](/parts/lower_zig_zag/)
