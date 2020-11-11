@@ -2,8 +2,8 @@
 title = "Caret Splitter Feeder Extension Reflection Lower Left Protection"
 type = "parts"
 tags = [ "long", "thin", "bamboo", "horizontal", "nophoto" ]
-image = "https://b.robnugen.com/art/marble_track_3/track/parts/2020/2020_june_09_caret_splitter_feeder_extension_reflection_lower_left_protection.jpg"
-thumbnail = "https://b.robnugen.com/art/marble_track_3/track/parts/2020/thumbs/2020_june_09_caret_splitter_feeder_extension_reflection_lower_left_protection.jpg"
+image = "https://b.robnugen.com/art/marble_track_3/track/parts/2020/2020_nov_10_caret_splitter_feeder_extension_reflection_lower_left_protection.jpg"
+thumbnail = "https://b.robnugen.com/art/marble_track_3/track/parts/2020/thumbs/2020_nov_10_caret_splitter_feeder_extension_reflection_lower_left_protection.jpg"
 description = "Caret Splitter Feeder Extension Reflection Lower Left Protection"
 workers = [
     "mr_mcglue",
@@ -19,6 +19,11 @@ Someone did not carefully measure the width of the [Caret Splitter Feeder Extens
 pieces need to be installed.
 
 History:
+
+* 2020 Nov 10: [Reversible Guy](/workers/reversible/) placed the Caret Splitter Feeder Extension Reflection Lower Left Protection into place so [Mr McGlue](/workers/mr_mcglue/) can glue it.
+
+[![2020 nov 10 caret splitter feeder extension reflection lower left protection](//b.robnugen.com/art/marble_track_3/track/parts/2020/thumbs/2020_nov_10_caret_splitter_feeder_extension_reflection_lower_left_protection.jpg)](//b.robnugen.com/art/marble_track_3/track/parts/2020/2020_nov_10_caret_splitter_feeder_extension_reflection_lower_left_protection.jpg)
+
 
 * 2020 Jun 09: Cut to length and archived for future installation.
 
