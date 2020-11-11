@@ -6,9 +6,9 @@ date: 2020-10-20T07:23:44+09:00
 draft: false
 ---
 
-Snippet 7 notes, that might help me document what happened in the 7th snippet.  These are copied from Dragonframe 4 X-Sheet notes from all the frames.
+These are Snippet 7 X-Sheet notes, which might help me document what happened in the 7th snippet.  These are copied from Dragonframe 4 X-Sheet notes from all the frames.
 
-Linebreaks are preserved in the source, but I killed the PRE tags so it would not take ages to scroll through on the site.
+Linebreaks are preserved in the [source of this file in git](https://raw.githubusercontent.com/marbletracks/marbletrack3.com/master/content/episode/2020/10/20snippet-7-notes.md), but I killed the `pre` tags so it would not take ages to scroll through on the site.
 
 &lt;pre>
 
