@@ -911,6 +911,12 @@
     Published = 2018-12-20T01:22:41Z
     Duration = 3877000000000
     VideoType = 1
+  [Videos.EvduVtz9kfQ]
+    VideoId = "EvduVtz9kfQ"
+    Title = "Marble Track 3 Construction Livestream: glued LZZ2F bouncer"
+    Published = 2020-11-24T02:52:56Z
+    Duration = 7364000000000
+    VideoType = 1
   [Videos.F85FNLFNzeM]
     VideoId = "F85FNLFNzeM"
     Title = "Marble Track 3 construction Live Stream: added two segments to outer spiral"
@@ -1493,6 +1499,12 @@
     Published = 2018-04-10T04:51:22Z
     Duration = 2339000000000
     VideoType = 1
+  [Videos.QZKV-K5IN64]
+    VideoId = "QZKV-K5IN64"
+    Title = "Marble Track 3 - actually testing Triple Splitter Small Feeder"
+    Published = 2020-11-19T23:38:08Z
+    Duration = 39000000000
+    VideoType = 2
   [Videos.QbOHO01nS6s]
     VideoId = "QbOHO01nS6s"
     Title = "Marble Track 3 construction Live Stream"
@@ -2969,6 +2981,12 @@
     Published = 2020-03-10T04:38:02Z
     Duration = 101000000000
     VideoType = 2
+  [Videos.raNvWfVWSsw]
+    VideoId = "raNvWfVWSsw"
+    Title = "Marble Track 3 Construction Livestream: glued CSFER lower left protection"
+    Published = 2020-11-17T16:32:29Z
+    Duration = 7592000000000
+    VideoType = 1
   [Videos.rdSk7uUl80g]
     VideoId = "rdSk7uUl80g"
     Title = "Marble Track 3 construction Live Stream"
