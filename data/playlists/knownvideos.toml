@@ -2225,6 +2225,12 @@
     Published = 2019-02-19T03:48:00Z
     Duration = 29000000000
     VideoType = 2
+  [Videos.cz9CPc2DKsc]
+    VideoId = "cz9CPc2DKsc"
+    Title = "Marble Track 3 Construction Livestream: extracted 13th Placed Outer Spiral Support"
+    Published = 2020-12-01T01:15:52Z
+    Duration = 3807000000000
+    VideoType = 1
   [Videos.dFszY3BsP4c]
     VideoId = "dFszY3BsP4c"
     Title = "Marble Track 3: guess who!"
@@ -3251,6 +3257,12 @@
     Published = 2019-11-26T07:47:44Z
     Duration = 91000000000
     VideoType = 2
+  [Videos.wef4q0dzZZ4]
+    VideoId = "wef4q0dzZZ4"
+    Title = "Marble Track 3 Construction Livestream: el Banderín has entered the game"
+    Published = 2020-12-01T03:00:08Z
+    Duration = 4078000000000
+    VideoType = 1
   [Videos.wg5BX1D8fKQ]
     VideoId = "wg5BX1D8fKQ"
     Title = "Marble Track 3 construction Live Stream: The Grand Arch top"
