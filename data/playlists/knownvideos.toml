@@ -533,6 +533,12 @@
     Published = 2019-09-24T02:43:12Z
     Duration = 1303000000000
     VideoType = 1
+  [Videos.8eg6SuiKfDA]
+    VideoId = "8eg6SuiKfDA"
+    Title = "Marble Track 3: Autosticks moving toward Lower Zig Zag"
+    Published = 2020-12-25T03:09:01Z
+    Duration = 30000000000
+    VideoType = 2
   [Videos.8klW-eqN2ho]
     VideoId = "8klW-eqN2ho"
     Title = "Marble Track 3 construction Live Stream: before gluing inner berm"
@@ -1859,6 +1865,12 @@
     Published = 2020-07-14T13:21:58Z
     Duration = 1220000000000
     VideoType = 1
+  [Videos.WZGVxLH6jRs]
+    VideoId = "WZGVxLH6jRs"
+    Title = "Marble Track 3 Construction Livestream: After G Choppy cut 13th Placed Outer Spiral Support"
+    Published = 2020-12-22T17:59:59Z
+    Duration = 3185000000000
+    VideoType = 1
   [Videos.WhGajsciiio]
     VideoId = "WhGajsciiio"
     Title = "Marble Track 3 construction Live Stream: Traffic Jam at Caret Splitter"
@@ -1966,6 +1978,12 @@
     Title = "Marble Track 3 construction Live Stream: glued lzz 3ban 4 of 5"
     Published = 2019-06-11T01:40:28Z
     Duration = 154000000000
+    VideoType = 1
+  [Videos.Yd0AjM6YhBU]
+    VideoId = "Yd0AjM6YhBU"
+    Title = "Marble Track 3 Construction Livestream: G Choppy has cut 13th Placed Outer Spiral Support"
+    Published = 2020-12-22T14:35:06Z
+    Duration = 3765000000000
     VideoType = 1
   [Videos.YldAkSkKuMA]
     VideoId = "YldAkSkKuMA"
@@ -3130,6 +3148,12 @@
     Title = "Marble Track 3 construction Live Stream: preparing to glue the first track"
     Published = 2017-09-30T10:42:55Z
     Duration = 4393000000000
+    VideoType = 1
+  [Videos.taWmpJzdw80]
+    VideoId = "taWmpJzdw80"
+    Title = "Marble Track 3 Construction Livestream: Autosticks moving toward Lower Zig Zag"
+    Published = 2020-12-25T00:48:20Z
+    Duration = 5274000000000
     VideoType = 1
   [Videos.tdjRRXb0rJw]
     VideoId = "tdjRRXb0rJw"
