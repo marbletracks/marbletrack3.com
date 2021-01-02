@@ -1,5 +1,5 @@
 ---
-title: "Ready to glue el banderin"
+title: "Ready to glue el Banderín"
 tags: [ "mt3", "livestream", "el banderin" ]
 author: Rob Nugen
 youtube: WZGVxLH6jRs
