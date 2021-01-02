@@ -7,7 +7,8 @@ thumbnail = "https://b.robnugen.com/art/marble_track_3/construction/2020/thumbs/
 description = "El Banderín"
 workers = [
     "mr_mcglue",
-    "g_choppy"
+    "mr_greene",
+    "lil",
 ]
 aliases = [
     "/p/eb"
