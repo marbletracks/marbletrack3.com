@@ -917,6 +917,12 @@
     Published = 2017-09-30T07:53:42Z
     Duration = 3021000000000
     VideoType = 1
+  [Videos.Ej51wj_tqVs]
+    VideoId = "Ej51wj_tqVs"
+    Title = "Marble Track 3: Mr McGlue Glued El Banderín"
+    Published = 2021-01-02T08:36:23Z
+    Duration = 33000000000
+    VideoType = 2
   [Videos.EkRy7Id-dWA]
     VideoId = "EkRy7Id-dWA"
     Title = "Marble Track 3: placed caret splitter rudder"
@@ -1067,6 +1073,12 @@
     Published = 2018-02-12T03:02:20Z
     Duration = 108000000000
     VideoType = 2
+  [Videos.IGA-7LNhJ5s]
+    VideoId = "IGA-7LNhJ5s"
+    Title = "Marble Track 3 Construction Livestream: 14th Placed Outer Spiral Support"
+    Published = 2020-12-30T18:33:15Z
+    Duration = 3160000000000
+    VideoType = 1
   [Videos.ILR0xC_Y3Y0]
     VideoId = "ILR0xC_Y3Y0"
     Title = "Marble Track 3 construction Live Stream: testing rolling marbles"
@@ -2051,6 +2063,12 @@
     Published = 2017-08-28T11:16:33Z
     Duration = 3217000000000
     VideoType = 1
+  [Videos._TrtXoKiIAc]
+    VideoId = "_TrtXoKiIAc"
+    Title = "Marble Track 3 Construction Livestream: el Banderín"
+    Published = 2020-12-30T16:33:47Z
+    Duration = 3175000000000
+    VideoType = 1
   [Videos._UnfvtgDfXk]
     VideoId = "_UnfvtgDfXk"
     Title = "Marble Track 3 construction Live Stream"
@@ -2843,6 +2861,12 @@
     Published = 2019-03-22T22:00:05Z
     Duration = 33000000000
     VideoType = 2
+  [Videos.oIDr7Kw-lg0]
+    VideoId = "oIDr7Kw-lg0"
+    Title = "Marble Track 3 Construction Livestream: Mr McGlue Glued El Banderín"
+    Published = 2021-01-02T05:44:12Z
+    Duration = 2135000000000
+    VideoType = 1
   [Videos.oIc_zswAEy8]
     VideoId = "oIc_zswAEy8"
     Title = "Marble Track 3 construction Live Stream: Glued El Lifty Lever Guider"
