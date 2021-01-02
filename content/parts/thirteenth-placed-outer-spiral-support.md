@@ -16,8 +16,13 @@ aliases = [
 date = 2020-11-24T14:48:55+09:00
 +++
 
+With its base near the base of the Y support of the [Triple Splitter Small Feeder](/parts/triple-splitter-small-feeder/), the Thirteenth Placed Outer Spiral Support
+will hold
+the outer rail of the [Outer Spiral](/parts/outer_spiral/).
 
 History:
+
+* 2020 Dec 22: Placed by [Reversible Guy](/workers/reversible/) near the Y shaped support holding the lower end of the [Triple Splitter Small Feeder](/parts/triple-splitter-small-feeder/)
 
 * 2020 Nov 24: Emerged from the corner to where [Reversible Guy](/workers/reversible/) stood to collect it.
 
