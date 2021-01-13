@@ -19,6 +19,9 @@ This track is only for the small marbles, leading them quite quickly from the [C
 
 As of this writing (Nov 2018) small marbles get stuck there and cannot move forward.  I have a few ideas of how to fix it, but am not sure if they will work.
 
+
+* 12 Jan 2021 [Candy Mama](/workers/candy_mama/) has just placed the [Lower Left Side Arch](/parts/lower-left-side-arch/), beginning to block easy access to the Caret Splitter Right Track.  [Autosticks](/workers/autosticks/) will come soon to help.
+
 * 22 Feb 2019 [Reversible Guy](/workers/reversible/) brought [Caret Splitter Right Hand Inner Side](/parts/caret-splitter-right-hand-inner-side/) to Caret Splitter Right Track
 
 [![2019 feb 22 rg brings csrhis 21](//b.robnugen.com/art/marble_track_3/track/parts/2019/thumbs/2019_feb_22_rg_brings_csrhis_21.jpg)](//b.robnugen.com/art/marble_track_3/track/parts/2019/2019_feb_22_rg_brings_csrhis_21.jpg)
