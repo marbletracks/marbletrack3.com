@@ -21,6 +21,7 @@ date = 2019-05-05T21:49:23+09:00
 History:
 
 * 2020 Dec 19: [Autosticks](/workers/autosticks/) came up to keep small marbles from falling sideways off Lower Zig Zag 2F.
+They became the [Lower Zig Zag 2F Guardrails](/parts/lower-zig-zag-2f-guardrails/).
 
 * 2020 Dec 01: [Pinky](/workers/pinky/) brought marbles up to test the [Lower Zig Zag](/parts/lower_zig_zag/) but one of them fell. [Autosticks](/workers/autosticks/) are on the way in to extend the rails.
 
