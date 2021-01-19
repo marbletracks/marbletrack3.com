@@ -1,0 +1,19 @@
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0486.jpg
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0487.jpg
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0488.jpg
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0489.jpg
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0490.jpg
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0491.jpg
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0492.jpg
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0493.jpg
+https://b.robnugen.com/art/marble_track_3/track/parts/2020/2021_jan_19_raising_15th_placed_outer_spiral_support_4.jpg
+https://b.robnugen.com/art/marble_track_3/track/parts/2020/2021_jan_19_raising_15th_placed_outer_spiral_support_5.jpg
+https://b.robnugen.com/art/marble_track_3/track/parts/2020/2021_jan_19_raising_15th_placed_outer_spiral_support_6.jpg
+https://b.robnugen.com/art/marble_track_3/track/parts/2020/2021_jan_19_raising_15th_placed_outer_spiral_support_7.jpg
+https://b.robnugen.com/art/marble_track_3/track/parts/2020/2021_jan_19_raising_15th_placed_outer_spiral_support_8.jpg
+mkdir /home/thundergoblin/b.robnugen.com/journal/2021/thumbs/
+https://b.robnugen.com/journal/2021/lung_elixer.png
+21816 thumbnails existed, and 14 needed to be created
+Copy the above URLs into emacs and do C-c ! on them.
+
+Execution time: 23 s
