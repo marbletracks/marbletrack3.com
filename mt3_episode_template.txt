@@ -1,0 +1,10 @@
+---
+title: "%s"
+tags: [ %s ]
+author: Rob Nugen
+youtube: %s
+episode_image: %s
+episode_thumbnail: "%s"
+date: %s-%s-%sT%s
+---
+
