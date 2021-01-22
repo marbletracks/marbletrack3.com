@@ -235,11 +235,13 @@ sub get_tags($) {
       last if !length($newtagstring);
         
       # make lists of the good tags and the bad tags 
-      my @newtaglist = split /\s*,\s*/, $newtagstring;
-      my @goodtaglist = grep { /^[^-]/ } @newtaglist;
-      my @badtaglist = map { s/^-//; $_ } grep { /^-/ } @newtaglist;
+      my @newtaglist = split /\s*,\s*/, $newtagstring; # split on ,
+      my @goodtaglist = grep { /^[^-]/ } @newtaglist;  # grab tags without -
+      my @badtaglist = map { s/^-//; $_ } 
+                       grep { /^-/ } @newtaglist;      # grab tags with -,
+                                                       # but delete the -.
        
-      @tags{ @newtaglist } = 1;     # add all the tags (ignores redundant tags)
+      @tags{ @newtaglist } = 1;     # add all the tags (ignore redundant tags)
       delete @tags{ @badtaglist };  # delete the bad tags
           
     }# while read tags
