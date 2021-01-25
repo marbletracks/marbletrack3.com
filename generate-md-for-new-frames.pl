@@ -144,6 +144,8 @@ foreach my $blob (@blobs) {
 #      images: //b.robnugen.com/path/to/frames/more/stuff/filename.jpg
 #      thumbs: //b.robnugen.com/all/the/same/but/add/thumbs/as/bottom/subdir/filename.jpg
 #
+$bframes_output =~ s/^.* h.*$//gm;  # delete lines "https://blah1.jpg https://blah2.jpg ..."
+
 my $frameout = "";
 my @frames = $bframes_output =~ m{(//b.robnugen.com .* /frames/ .* jpg)}xig;
 
@@ -159,7 +161,7 @@ foreach my $frame (@frames) {
 # Do the same for episodes as we did for frames.
 # Because we don't have to monkey with the $id here,
 # we can do the whole thumbs loop in one line.
-my @episode_images = $bframes_output =~ m{(https://b.robnugen.com .* /marble_track_3/ .* jpg)(?! h)}xig;  # (?! h) is trying to be a negative look-ahead
+my @episode_images = $bframes_output =~ m{(https://b.robnugen.com .* /marble_track_3/ .* jpg)}xig;
 my @episode_thumbs = map { m{(.*)/([^/]+)}; "$1/thumbs/$2" } @episode_images;
 
 ## BUILD OUTPUT
