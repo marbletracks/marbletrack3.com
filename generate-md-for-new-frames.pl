@@ -159,9 +159,8 @@ foreach my $frame (@frames) {
 # Do the same for episodes as we did for frames.
 # Because we don't have to monkey with the $id here,
 # we can do the whole thumbs loop in one line.
-my @episode_images = $bframes_output =~ m{(https://b.robnugen.com .* /track/parts/ .* jpg)}xig;
+my @episode_images = $bframes_output =~ m{(https://b.robnugen.com .* /marble_track_3/ .* jpg)(?! h)}xig;  # (?! h) is trying to be a negative look-ahead
 my @episode_thumbs = map { m{(.*)/([^/]+)}; "$1/thumbs/$2" } @episode_images;
-
 
 ## BUILD OUTPUT
 #
