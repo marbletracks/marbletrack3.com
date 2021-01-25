@@ -3,7 +3,7 @@ title: "Bringing the 15th Placed Outer Spiral Support"
 tags: [ "mt3", "livestream", "arch" ]
 author: Rob Nugen
 youtube: 6m5M8JI1nVA
-episode_image: https://b.robnugen.com/art/marble_track_3/track/parts/2020/2021_jan_12_keeps_marbles_on_lzz1f.jpg
+episode_image: https://b.robnugen.com/art/marble_track_3/track/parts/2021/2021_jan_12_keeps_marbles_on_lzz1f.jpg
 episode_thumbnail: "https://b.robnugen.com/art/marble_track_3/track/parts/2020/thumbs/2021_jan_12_keeps_marbles_on_lzz1f.jpg"
 date: 2021-01-12T16:39:31+09:00
 ---
