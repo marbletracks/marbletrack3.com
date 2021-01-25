@@ -4,7 +4,7 @@ tags: [ "mt3", "livestream" ]
 author: Rob Nugen
 youtube: LR-C-mpWAGs
 episode_image: https://b.robnugen.com/art/marble_track_3/track/parts/2021/2021_jan_19_raising_15th_placed_outer_spiral_support_6.jpg
-episode_thumbnail: "https://b.robnugen.com/art/marble_track_3/track/parts/2020/thumbs/2021_jan_19_raising_15th_placed_outer_spiral_support_6.jpg"
+episode_thumbnail: "https://b.robnugen.com/art/marble_track_3/track/parts/2021/thumbs/2021_jan_19_raising_15th_placed_outer_spiral_support_6.jpg"
 date: 2021-01-19T13:15:57+09:00
 ---
 
