@@ -66,8 +66,12 @@ if ($verbosity > 2) {
 ## PROCESS KNOWN_VIDEOS_DIFF
 #  
 # The string "+  [Videos." reliably separates new videos.
+# However, there are cases where the video is not *new* but has been updated
+# If the video ID already existed before with dur = 0,
+#    We examine the blob containing the updated duration
+# So we will skip any new videos with duration = 0
 # Split $known_videos_diff on that string
-my @blobs = split /^\+\s+\[Videos\./m, $known_videos_diff;
+my @blobs = split /^\+?\s+\[Videos\./m, $known_videos_diff;
 shift @blobs;  # first blob is the crap before the first new video
 
 foreach my $blob (@blobs) {
@@ -77,12 +81,17 @@ foreach my $blob (@blobs) {
   print "blob = $blob\n"  if $verbosity > 4;
   
   # If the format can vary, these regexes will get more complicated
-  my ($id)    = $blob =~ /^\+ \s+ VideoId = "(.+)"/mi;
-  my ($title) = $blob =~ /^\+ \s+ Title = "(.+)"/mi;
-  my ($pubd)  = $blob =~ /^\+ \s+ Published = (.+)/mi;
+  # Duration is the only one that MUST change before we check this blob
+  my ($id)    = $blob =~ /^\+? \s+ VideoId = "(.+)"/mi;
+  my ($title) = $blob =~ /^\+? \s+ Title = "(.+)"/mi;
+  my ($pubd)  = $blob =~ /^\+? \s+ Published = (.+)/mi;
   my ($dur)   = $blob =~ /^\+ \s+ Duration = (.+)/mi;
   
-    
+  unless($dur > 0)
+  {
+      next;   # go to next blob because duration is 0 or no value
+  }
+
   if ($verbosity > 2) { 
     print "id    = $id   \n";
     print "title = $title\n";
