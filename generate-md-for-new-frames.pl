@@ -266,8 +266,8 @@ sub get_tags($) {
       my $resp = <STDIN>;
          $resp =~ s/^\s+|\s+$//g;
 
-      if    ($resp =~ /^yes$/i) { $confirmed = 1; last; }
-      elsif ($resp =~ /^no$/i)  { $confirmed = 0; last; }
+      if    ($resp =~ /^ye?s$/i) { $confirmed = 1; last; }
+      elsif ($resp =~ /^no?$/i)  { $confirmed = 0; last; }
       else  {
         print "Please answer \"yes\" or \"no\".  ";
       }
@@ -316,8 +316,8 @@ sub get_episode_image($) {
       my $resp = <STDIN>;
          $resp =~ s/^\s+|\s+$//g;
 
-      if    ($resp =~ /^yes$/i) { $confirmed = 1; last; }
-      elsif ($resp =~ /^no$/i)  { $confirmed = 0; last; }
+      if    ($resp =~ /^ye?s$/i) { $confirmed = 1; last; }
+      elsif ($resp =~ /^no?$/i)  { $confirmed = 0; last; }
       else  {
         print "Please answer \"yes\" or \"no\".  ";
       }
