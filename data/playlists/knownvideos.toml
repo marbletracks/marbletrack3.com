@@ -1087,9 +1087,9 @@
     VideoType = 1
   [Videos.HalQWqYH-3I]
     VideoId = "HalQWqYH-3I"
-    Title = "Marble Track 3 Construction Livestream: Raising the 15th Placed Outer Spiral Support"
+    Title = "Marble Track 3 Construction Livestream: Gluing Lower Left Side Arch"
     Published = 2021-01-19T02:07:02Z
-    Duration = 0
+    Duration = 4877000000000
     VideoType = 1
   [Videos.HkYKp6YM6ik]
     VideoId = "HkYKp6YM6ik"
@@ -1786,6 +1786,12 @@
     Title = "Marble Track 3 construction Live Stream"
     Published = 2018-05-22T04:14:05Z
     Duration = 4456000000000
+    VideoType = 1
+  [Videos.UUvcBzrXsuk]
+    VideoId = "UUvcBzrXsuk"
+    Title = "Marble Track 3 Construction Livestream: Gluing Lower Left Side Arch"
+    Published = 2021-01-25T01:15:12Z
+    Duration = 2718000000000
     VideoType = 1
   [Videos.UdG9l_t1GZ4]
     VideoId = "UdG9l_t1GZ4"
