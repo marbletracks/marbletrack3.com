@@ -20,9 +20,3 @@ https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0507.jpg
 https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0508.jpg
 https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0509.jpg
 https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0510.jpg
-
-Or copy the below URLs into a script to process them.
-
-https://b.robnugen.com/art/marble_track_3/construction/2021/2021_jan_25_mr_mcglue_gluing_lower_left_side_arch.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0494.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0495.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0496.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0497.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0498.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0499.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0500.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0501.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0502.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0503.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0504.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0505.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0506.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0507.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0508.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0509.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0510.jpg
-
-Execution time: 32 s
