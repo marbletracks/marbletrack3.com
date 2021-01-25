@@ -1085,6 +1085,12 @@
     Published = 2019-07-16T02:59:37Z
     Duration = 8244000000000
     VideoType = 1
+  [Videos.HalQWqYH-3I]
+    VideoId = "HalQWqYH-3I"
+    Title = "Marble Track 3 Construction Livestream: Raising the 15th Placed Outer Spiral Support"
+    Published = 2021-01-19T02:07:02Z
+    Duration = 0
+    VideoType = 1
   [Videos.HkYKp6YM6ik]
     VideoId = "HkYKp6YM6ik"
     Title = "Marble Track 3: after catching chopstick"
@@ -1259,6 +1265,12 @@
     Published = 2017-11-07T14:05:18Z
     Duration = 20000000000
     VideoType = 2
+  [Videos.LR-C-mpWAGs]
+    VideoId = "LR-C-mpWAGs"
+    Title = "Marble Track 3 Construction Livestream: Raising the 15th Placed Outer Spiral Support"
+    Published = 2021-01-19T13:15:57Z
+    Duration = 2985000000000
+    VideoType = 1
   [Videos.LUaAX0XEwZY]
     VideoId = "LUaAX0XEwZY"
     Title = "Marble Track 3: begin whoops after tackle"
@@ -2470,6 +2482,12 @@
     Title = "Marble Track 3 construction Live Stream"
     Published = 2019-10-01T02:42:55Z
     Duration = 4507000000000
+    VideoType = 1
+  [Videos.gW3pdoDr1-0]
+    VideoId = "gW3pdoDr1-0"
+    Title = "Marble Track 3 Construction Livestream: Raising the 15th Placed Outer Spiral Support"
+    Published = 2021-01-19T14:11:42Z
+    Duration = 2825000000000
     VideoType = 1
   [Videos.gdWZ6HDW_2M]
     VideoId = "gdWZ6HDW_2M"
