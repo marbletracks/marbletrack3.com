@@ -1,22 +1,26 @@
-ssh b.rn ~/scripts/create_thumbs.pl /home/thundergoblin/b.robnugen.com/journal/2019/hawaii
-21840 thumbnails existed, and 18 needed to be created
+21861 thumbnails existed, and 7 needed to be created
 Copy the below URLs into emacs and do C-c ! on them.
 
-https://b.robnugen.com/art/marble_track_3/construction/2021/2021_jan_25_mr_mcglue_gluing_lower_left_side_arch.jpg
-https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0494.jpg
-https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0495.jpg
-https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0496.jpg
-https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0497.jpg
-https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0498.jpg
-https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0499.jpg
-https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0500.jpg
-https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0501.jpg
-https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0502.jpg
-https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0503.jpg
-https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0504.jpg
-https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0505.jpg
-https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0506.jpg
-https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0507.jpg
-https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0508.jpg
-https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0509.jpg
-https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0510.jpg
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0511.jpg
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0512.jpg
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0513.jpg
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0514.jpg
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0515.jpg
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0516.jpg
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0517.jpg
+
+Or copy the below URLs into a script to process them.
+
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0511.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0512.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0513.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0514.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0515.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0516.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0517.jpg
+
+Execution time: 28 s
+21868 thumbnails existed, and 1 needed to be created
+Copy the below URLs into emacs and do C-c ! on them.
+
+https://b.robnugen.com/art/marble_track_3/construction/2021/ready_to_cut_15th_placed_outer_spiral_support.jpg
+
+Or copy the below URLs into a script to process them.
+
+https://b.robnugen.com/art/marble_track_3/construction/2021/ready_to_cut_15th_placed_outer_spiral_support.jpg
+
+Execution time: 5 s
