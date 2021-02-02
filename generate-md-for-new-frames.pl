@@ -222,7 +222,7 @@ print "new_videos = \n" . Dumper($new_videos)  if $verbosity > 2;
 sub kebab_case($) {
   my ($title) = (@_);
      $title = lc($title);     # make title lowercase
-     $title =~ s/ /-/g;       # replace spaces with hyphens
+     $title =~ s/[-$\[\]\(\)\{\}\*\&\%\#\!\;\'\"\<\>\`\s]/-/g;    # replace special shell characters with hyphens (thanks to nooj)
   return $title;
 }
 
