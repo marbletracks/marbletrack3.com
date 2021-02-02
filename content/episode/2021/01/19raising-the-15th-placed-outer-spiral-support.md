@@ -3,10 +3,12 @@ title: "Raising the 15th Placed Outer Spiral Support"
 tags: [ "mt3", "livestream" ]
 author: Rob Nugen
 youtube: LR-C-mpWAGs
-episode_image: https://b.robnugen.com/art/marble_track_3/track/parts/2020/2021_jan_19_raising_15th_placed_outer_spiral_support_6.jpg
-episode_thumbnail: "https://b.robnugen.com/art/marble_track_3/track/parts/2020/thumbs/2021_jan_19_raising_15th_placed_outer_spiral_support_6.jpg"
+episode_image: https://b.robnugen.com/art/marble_track_3/track/parts/2021/2021_jan_19_raising_15th_placed_outer_spiral_support_6.jpg
+episode_thumbnail: "https://b.robnugen.com/art/marble_track_3/track/parts/2021/thumbs/2021_jan_19_raising_15th_placed_outer_spiral_support_6.jpg"
 date: 2021-01-19T13:15:57+09:00
 ---
+
+Today most of the time was spent balancing the [Fifteenth Placed Outer Spiral Support](/parts/fifteenth-placed-outer-spiral-support/) on its way toward its vertical location near the bottom of the [Lower Zig Zag](/parts/lower_zig_zag/).
 
 Here are the frames taken today:
 
