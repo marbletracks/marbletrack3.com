@@ -197,10 +197,8 @@ foreach my $title (keys %$new_videos) {
   $new_videos->{$title}->{mt3_episode_output} = $mt3_episode_output;
 
   # Create outfile path based on today's date and unique title of livestream
-  my $filedate = `date +%Y/%m/%d`;  chomp $filedate;  # year/month/date (numeric).
-
-  # my convention the smallest directories are months, not days, so date is part of base filename
-  my $outfile_path = "content/episode/$filedate" . kebab_case($title) . ".md";
+  # my convention: the deepest directories are months, not days, so day is part of base filename
+  my $outfile_path = "content/episode/$year/$month/$day" . kebab_case($title) . ".md";   # $year/$month/$day were defined at top of script
 
   open(OUT, ">$outfile_path");
   print OUT $mt3_episode_output;
