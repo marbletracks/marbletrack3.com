@@ -8,6 +8,16 @@ episode_thumbnail: "https://b.robnugen.com/art/marble_track_3/track/parts/2021/t
 date: 2021-02-02T05:57:47+09:00
 ---
 
+As predicted, having the [Fifteenth Placed Outer Spiral Support](/parts/fifteenth-placed-outer-spiral-support/) suspended by a thread let filming proceed quickly today.  [G Choppy](/workers/g_choppy/) arrived at the [Fifteenth Placed Outer Spiral Support](/parts/fifteenth-placed-outer-spiral-support/) and extended his arm for 3 frames and then I cut the [Fifteenth Placed Outer Spiral Support](/parts/fifteenth-placed-outer-spiral-support/) and glued it in place.
+
+For some reason, I mis-measured the cut and had to do it twice.
+
+The glue is dry by now as I write this, and while drying was held in placed by the demonstration [Outer Spiral](/parts/outer_spiral/).
+
+In other news, there was a stick visible in the last taken frame from Monday, so I had [Squarehead](/workers/squarehead/) bring it in, though I don't have a plan for him *per se*.
+
+[Autosticks](/workers/autosticks/) have finished moving themselves in place for the [Caret Splitter Right Track](/parts/caret_splitter_right_track/), and [Mr McGlue](/workers/mr_mcglue/) has finished gluing one end of the [Lower Left Side Arch](/parts/lower-left-side-arch/).
+
 Here are the frames taken today:
 
 [![00010 002 11 X1 0518](//b.robnugen.com/art/marble_track_3/frames/2021/thumbs/00010_002_11_X1_0518.jpg)](//b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0518.jpg)
