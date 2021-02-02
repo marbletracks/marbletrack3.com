@@ -1,64 +1,17 @@
 diff --git a/data/playlists/knownvideos.toml b/data/playlists/knownvideos.toml
-index d3632a1..a1f9cfe 100644
+index a1f9cfe..a42ff43 100644
 --- a/data/playlists/knownvideos.toml
 +++ b/data/playlists/knownvideos.toml
-@@ -1079,6 +1079,12 @@
-     Published = 2017-11-14T01:14:42Z
-     Duration = 6077000000000
-     VideoType = 1
-+  [Videos.HHPUzWkwlNo]
-+    VideoId = "HHPUzWkwlNo"
-+    Title = "Marble Track 3 Construction Livestream: Ready to cut 15th Placed Outer Spiral Support"
-+    Published = 2021-02-01T00:03:37Z
-+    Duration = 3713000000000
+@@ -197,6 +197,12 @@
+     Published = 2017-11-14T00:39:17Z
+     Duration = 33000000000
+     VideoType = 2
++  [Videos.2C9WOYsUShQ]
++    VideoId = "2C9WOYsUShQ"
++    Title = "Marble Track 3 Construction Livestream: Measure once cut twice 15th Placed Outer Spiral Support"
++    Published = 2021-02-02T05:57:47Z
++    Duration = 3475000000000
 +    VideoType = 1
-   [Videos.HIrtuDjU88Y]
-     VideoId = "HIrtuDjU88Y"
-     Title = "Marble Track 3 construction Live Stream: G Choppy cuts sticks"
-@@ -2063,6 +2069,12 @@
-     Published = 2019-02-26T02:20:41Z
-     Duration = 7400000000000
-     VideoType = 1
-+  [Videos.ZOGf5NiMnwA]
-+    VideoId = "ZOGf5NiMnwA"
-+    Title = "Marble Track 3 Construction Livestream: Ready to cut 15th Placed Outer Spiral Support"
-+    Published = 2021-02-01T01:15:42Z
-+    Duration = 855000000000
-+    VideoType = 1
-   [Videos.ZUxgXmpp1RI]
-     VideoId = "ZUxgXmpp1RI"
-     Title = "Marble Track 3 construction Live Stream: Glued Fourth Placed Outer Spiral Support"
-diff --git a/known_videos_diff.txt b/known_videos_diff.txt
-index 73b2a57..e69de29 100644
---- a/known_videos_diff.txt
-+++ b/known_videos_diff.txt
-@@ -1,29 +0,0 @@
--diff --git a/data/playlists/knownvideos.toml b/data/playlists/knownvideos.toml
--index 7204b68..d3632a1 100644
----- a/data/playlists/knownvideos.toml
--+++ b/data/playlists/knownvideos.toml
--@@ -1087,9 +1087,9 @@
--     VideoType = 1
--   [Videos.HalQWqYH-3I]
--     VideoId = "HalQWqYH-3I"
---    Title = "Marble Track 3 Construction Livestream: Raising the 15th Placed Outer Spiral Support"
--+    Title = "Marble Track 3 Construction Livestream: Gluing Lower Left Side Arch"
--     Published = 2021-01-19T02:07:02Z
---    Duration = 0
--+    Duration = 4877000000000
--     VideoType = 1
--   [Videos.HkYKp6YM6ik]
--     VideoId = "HkYKp6YM6ik"
--@@ -1787,6 +1787,12 @@
--     Published = 2018-05-22T04:14:05Z
--     Duration = 4456000000000
--     VideoType = 1
--+  [Videos.UUvcBzrXsuk]
--+    VideoId = "UUvcBzrXsuk"
--+    Title = "Marble Track 3 Construction Livestream: Gluing Lower Left Side Arch"
--+    Published = 2021-01-25T01:15:12Z
--+    Duration = 2718000000000
--+    VideoType = 1
--   [Videos.UdG9l_t1GZ4]
--     VideoId = "UdG9l_t1GZ4"
--     Title = "Marble Track 3 construction Live Stream: prepared some sections for ourer spiral"
+   [Videos.2Q09l887Lm0]
+     VideoId = "2Q09l887Lm0"
+     Title = "Marble Track 3 construction Live Stream: After Gluing Fourth Placed Outer Spiral Support 1 of 2"

@@ -196,11 +196,19 @@ foreach my $title (keys %$new_videos) {
   # store this for debugging
   $new_videos->{$title}->{mt3_episode_output} = $mt3_episode_output;
 
-  # TODO: Write the final output to a file.
+  # Create outfile path based on today's date and unique title of livestream
+  my $filedate = `date +%Y/%m/%d`;  chomp $filedate;  # year/month/date (numeric).
+
+  # my convention the smallest directories are months, not days, so date is part of base filename
+  my $outfile_path = "content/episode/$filedate" . kebab_case($title) . ".md";
+
+  open(OUT, ">$outfile_path");
+  print OUT $mt3_episode_output;
+  close(OUT);
+
   print "+---------------------------------+\n";
-  print "| file.md output:                 |\n";
+  print "| wrote to $outfile_path:                  |\n";
   print "+---------------------------------+\n";
-  print $mt3_episode_output;
 
 }# $title
 
@@ -210,6 +218,13 @@ print "new_videos = \n" . Dumper($new_videos)  if $verbosity > 2;
 # DONE!
 # END MAIN()
 # SUBROUTINES FOLLOW
+
+sub kebab_case($) {
+  my ($title) = (@_);
+     $title = lc($title);     # make title lowercase
+     $title =~ s/ /-/g;       # replace spaces with hyphens
+  return $title;
+}
 
 
 sub get_tags($) {
