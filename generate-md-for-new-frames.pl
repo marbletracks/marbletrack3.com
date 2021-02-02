@@ -8,7 +8,7 @@ my $new_videos;    # hashref of video data we find and process
 my $new_images;    # hashref of image and thumbnail filenames
 
 # oh god dates are so annoying
-my $thedate = `date +%Y-%m-%d`;  chomp $thedate;  # year-month-date (numeric).
+my $thedate = `date +%Y-%m-%d`;  chomp $thedate;  # year-month-day  (numeric).
 my $thetime = `date +%H-%M-%S`;  chomp $thetime;  # hour-min-sec    (numeric).
 my $year    = `date +%Y`;        chomp $year;
 my $month   = `date +%m`;        chomp $month;
