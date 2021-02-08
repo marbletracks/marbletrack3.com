@@ -1,17 +1,17 @@
 diff --git a/data/playlists/knownvideos.toml b/data/playlists/knownvideos.toml
-index a1f9cfe..a42ff43 100644
+index a42ff43..c0ace9f 100644
 --- a/data/playlists/knownvideos.toml
 +++ b/data/playlists/knownvideos.toml
-@@ -197,6 +197,12 @@
-     Published = 2017-11-14T00:39:17Z
-     Duration = 33000000000
-     VideoType = 2
-+  [Videos.2C9WOYsUShQ]
-+    VideoId = "2C9WOYsUShQ"
-+    Title = "Marble Track 3 Construction Livestream: Measure once cut twice 15th Placed Outer Spiral Support"
-+    Published = 2021-02-02T05:57:47Z
-+    Duration = 3475000000000
+@@ -3137,6 +3137,12 @@
+     Published = 2019-02-10T09:34:33Z
+     Duration = 2502000000000
+     VideoType = 1
++  [Videos.reKhVdLYQ0Q]
++    VideoId = "reKhVdLYQ0Q"
++    Title = "Marble Track 3 Construction Livestream: G Choppy cut 15th Placed Outer Spiral Support"
++    Published = 2021-02-08T04:16:54Z
++    Duration = 2632000000000
 +    VideoType = 1
-   [Videos.2Q09l887Lm0]
-     VideoId = "2Q09l887Lm0"
-     Title = "Marble Track 3 construction Live Stream: After Gluing Fourth Placed Outer Spiral Support 1 of 2"
+   [Videos.rg7OXHeBg-g]
+     VideoId = "rg7OXHeBg-g"
+     Title = "Marble Track 3 construction Live Stream: Big Brother brings Triple Splitter Medium Catcher Ridge"

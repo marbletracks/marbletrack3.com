@@ -1,27 +1,29 @@
-21869 thumbnails existed, and 6 needed to be created
+21880 thumbnails existed, and 20 needed to be created
 Copy the below URLs into emacs and do C-c ! on them.
 
-https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0518.jpg
-https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0519.jpg
-https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0520.jpg
-https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0521.jpg
-https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0522.jpg
-https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0523.jpg
+https://b.robnugen.com/art/marble_track_3/construction/2021/2021_feb_08_g_choppy_cut_15poss.jpg
+https://b.robnugen.com/art/marble_track_3/construction/2021/2021_feb_08_g_choppy_flying_to_next_cutting_opportunity.jpg
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0524.jpg
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0525.jpg
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0526.jpg
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0527.jpg
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0528.jpg
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0529.jpg
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0530.jpg
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0531.jpg
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0532.jpg
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0533.jpg
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0534.jpg
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0535.jpg
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0536.jpg
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0537.jpg
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0538.jpg
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0539.jpg
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0540.jpg
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0541.jpg
 
 Or copy the below URLs into a script to process them.
 
-https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0518.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0519.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0520.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0521.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0522.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0523.jpg
+https://b.robnugen.com/art/marble_track_3/construction/2021/2021_feb_08_g_choppy_cut_15poss.jpg https://b.robnugen.com/art/marble_track_3/construction/2021/2021_feb_08_g_choppy_flying_to_next_cutting_opportunity.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0524.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0525.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0526.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0527.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0528.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0529.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0530.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0531.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0532.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0533.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0534.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0535.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0536.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0537.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0538.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0539.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0540.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0541.jpg
 
-Execution time: 23 s
-ssh b.rn ~/scripts/create_thumbs.pl /home/thundergoblin/b.robnugen.com/journal/2019/hawaii
-21875 thumbnails existed, and 2 needed to be created
-Copy the below URLs into emacs and do C-c ! on them.
-
-https://b.robnugen.com/art/marble_track_3/track/parts/2021/2021_feb_02_15poss_glue_drying.jpg
-https://b.robnugen.com/art/marble_track_3/track/parts/2021/2021_feb_02_15th_placed_outer_spiral_support.jpg
-
-Or copy the below URLs into a script to process them.
-
-https://b.robnugen.com/art/marble_track_3/track/parts/2021/2021_feb_02_15poss_glue_drying.jpg https://b.robnugen.com/art/marble_track_3/track/parts/2021/2021_feb_02_15th_placed_outer_spiral_support.jpg
-
-Execution time: 6 s
+Execution time: 38 s
