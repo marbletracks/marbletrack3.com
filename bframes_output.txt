@@ -1,29 +1,13 @@
 21880 thumbnails existed, and 20 needed to be created
 Copy the below URLs into emacs and do C-c ! on them.
 
-https://b.robnugen.com/art/marble_track_3/construction/2021/2021_feb_08_g_choppy_cut_15poss.jpg
-https://b.robnugen.com/art/marble_track_3/construction/2021/2021_feb_08_g_choppy_flying_to_next_cutting_opportunity.jpg
-https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0524.jpg
-https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0525.jpg
-https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0526.jpg
-https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0527.jpg
-https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0528.jpg
-https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0529.jpg
-https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0530.jpg
-https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0531.jpg
-https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0532.jpg
-https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0533.jpg
-https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0534.jpg
-https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0535.jpg
-https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0536.jpg
-https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0537.jpg
-https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0538.jpg
-https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0539.jpg
-https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0540.jpg
-https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0541.jpg
-
-Or copy the below URLs into a script to process them.
-
-https://b.robnugen.com/art/marble_track_3/construction/2021/2021_feb_08_g_choppy_cut_15poss.jpg https://b.robnugen.com/art/marble_track_3/construction/2021/2021_feb_08_g_choppy_flying_to_next_cutting_opportunity.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0524.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0525.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0526.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0527.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0528.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0529.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0530.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0531.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0532.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0533.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0534.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0535.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0536.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0537.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0538.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0539.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0540.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0541.jpg
-
-Execution time: 38 s
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0542.jpg
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0543.jpg
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0544.jpg
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0545.jpg
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0546.jpg
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0547.jpg
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0548.jpg
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0549.jpg
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0550.jpg
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0551.jpg

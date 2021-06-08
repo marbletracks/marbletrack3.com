@@ -1,0 +1,29 @@
+21921 thumbnails existed, and 20 needed to be created
+Copy the below URLs into emacs and do C-c ! on them.
+
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0561.jpg
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0562.jpg
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0563.jpg
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0564.jpg
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0565.jpg
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0566.jpg
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0567.jpg
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0568.jpg
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0569.jpg
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0570.jpg
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0571.jpg
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0572.jpg
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0573.jpg
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0574.jpg
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0575.jpg
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0576.jpg
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0577.jpg
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0578.jpg
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0579.jpg
+https://b.robnugen.com/tax/japan/reiwa/01/20210221_223624_taxes_001226.jpg
+
+Or copy the below URLs into a script to process them.
+
+https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0561.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0562.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0563.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0564.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0565.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0566.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0567.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0568.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0569.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0570.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0571.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0572.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0573.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0574.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0575.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0576.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0577.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0578.jpg https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0579.jpg https://b.robnugen.com/tax/japan/reiwa/01/20210221_223624_taxes_001226.jpg
+
+Execution time: 80 s
