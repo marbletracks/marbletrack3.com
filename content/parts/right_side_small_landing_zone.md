@@ -17,5 +17,9 @@ date = 2018-11-15T14:06:52+09:00
 +++
 
 This landing zone is only for small marbles.  
-It is fed by the [Little Wiggly Track](/parts/little_wiggly_track/) and the [Below Lower Zig Zag Track](/parts/below_lower_zig_zag_track/),
-which should eventually be connected with a switch near [Triple Splitter Small Feeder](/parts/triple-splitter-small-feeder/) and [Lower Zig Zag 3F](/parts/lower-zig-zag-3-ban/).
+It is fed by the [Little Wiggly Track](/parts/little_wiggly_track/) and
+the [Below Lower Zig Zag Track](/parts/below_lower_zig_zag_track/).
+
+History:
+
+* 2021 July 06: [Pinky](/workers/pinky/) tested two marbles running down three levels of the Lower Zig Zag then onto the [Right Side Small Landing Zone](/parts/right_side_small_landing_zone/).  Everything worked just fine.

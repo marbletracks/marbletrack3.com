@@ -17,13 +17,21 @@ Aliases = [
 date = 2018-09-21T17:38:54+09:00
 +++
 
-The Lower Zig Zag currently has a [zig](/parts/lower-zig-zag-2-ban/) and a [zag](/parts/lower-zig-zag-1-ban/).  I had planned to make it have 3 or 4 zigs and zags, but there simply was not room to have that many back and forth tracks in the (original) vertical space.
+The Lower Zig Zag currently has three levels: [1F](/parts/lower-zig-zag-1f/), [2F](/parts/lower-zig-zag-2f/), and [3F](/parts/lower-zig-zag-3f/), using the naming convention of buildings in Japan.
 
-But *above* the original space, there is more space.
+Originally planned to accept marbles from the [Triple Splitter Small Feeder Feeder](/parts/triple-splitter-small-feeder-feeder/),
+that plan was canceled by the installation of the [Lower Zig Zag 3F Net Affector](/parts/lower-zig-zag-3f-net-affector/) because the [Lower Zig Zag 3F](/parts/lower-zig-zag-3f/) was too high (and pointing the wrong way) to allow such a transition to work.
 
 History:
 
-* May 2019: Now planning to make [Lower Zig Zag 3F](/parts/lower-zig-zag-3-ban/), a third bar (and another zag) for Lower Zig Zag.
+* 2021 July 06: [Pinky](/workers/pinky/) tested two marbles running down three levels of the Lower Zig Zag then onto the [Right Side Small Landing Zone](/parts/right_side_small_landing_zone/).  Everything worked just fine.
+
+* 2020 Feb 18: [Candy Mama](/workers/candy_mama/) installed the [Lower Zig Zag 3F Net Affector](/parts/lower-zig-zag-3f-net-affector/), which guides marbles down to [Lower Zig Zag 2F](/parts/lower-zig-zag-2f/), away from [Triple Splitter Small Feeder](/parts/triple-splitter-small-feeder/).
+
+[![2020 feb 18 lower zig zag 3f net affector](//b.robnugen.com/art/marble_track_3/track/parts/2020/thumbs/2020_feb_18_lower_zig_zag_3f_net_affector.jpg)](//b.robnugen.com/art/marble_track_3/track/parts/2020/2020_feb_18_lower_zig_zag_3f_net_affector.jpg)
+
+* May 2019: Now planning to make [Lower Zig Zag 3F](/parts/lower-zig-zag-3f/), a third bar (and another zag) for Lower Zig Zag.
+
 * 2018 Sep: planning the Lower Zig Zag:
 
 [![2018 sep 21 top view of future lower zig zag](//b.robnugen.com/art/marble_track_3/track/parts/thumbs/2018_sep_21_top_view_of_future_lower_zig_zag.jpg)](//b.robnugen.com/art/marble_track_3/track/parts/2018_sep_21_top_view_of_future_lower_zig_zag.jpg)

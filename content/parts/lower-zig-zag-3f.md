@@ -17,10 +17,16 @@ date = 2019-05-04T12:30:15+09:00
 +++
 
 This track will be the third track in the [Lower Zig Zag](/parts/lower_zig_zag/).  It
-might be just slightly above the
+runs just slightly above the
 [Triple Splitter Small Feeder](/parts/triple-splitter-small-feeder/),
+precluding the Lower Zig Zag 3F from receiving marbles from the [Triple Splitter Small Feeder](/parts/triple-splitter-small-feeder/).
+
 
 History:
+
+* 2020 Feb 18: [Candy Mama](/workers/candy_mama/) installed the [Lower Zig Zag 3F Net Affector](/parts/lower-zig-zag-3f-net-affector/), which guides marbles down to [Lower Zig Zag 2F](/parts/lower-zig-zag-2f/), away from [Triple Splitter Small Feeder](/parts/triple-splitter-small-feeder/).
+
+[![2020 feb 18 lower zig zag 3f net affector](//b.robnugen.com/art/marble_track_3/track/parts/2020/thumbs/2020_feb_18_lower_zig_zag_3f_net_affector.jpg)](//b.robnugen.com/art/marble_track_3/track/parts/2020/2020_feb_18_lower_zig_zag_3f_net_affector.jpg)
 
 * 2019 May 04: [Reversible Guy](/workers/reversible/) brought the piece up along with
 pieces for [Lower Zig Zag 2F top](/parts/lower-zig-zag-2-ban-top/)
