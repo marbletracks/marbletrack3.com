@@ -1,5 +1,5 @@
 +++
-title = "Lower Right Side Arch"
+title = "The Third Arch"
 type = "parts"
 tags = [ "arch", "bamboo", "support", "curved" ]
 image = "https://b.robnugen.com/art/marble_track_3/frames/2021/00010_002_11_X1_0722.jpg"
@@ -12,7 +12,10 @@ workers = [
     "dr_sugar",
 ]
 aliases = [
-    "/p/lrsa"
+    "/p/lrsa",
+    "/parts/lower-right-side-arch/",
+    "/p/3rda",
+    "/parts/the-third-arch/",
 ]
 date = 2021-07-06T10:23:44+09:00
 +++
