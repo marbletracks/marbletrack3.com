@@ -16,17 +16,16 @@ aliases = [
 date = 2019-02-10T21:34:06+09:00
 +++
 
-The Caret Splitter Right Hand Inner Side should keep small marbles on
-track once they eventually can use the right hand side of the
-[Caret Splitter](/parts/caret-splitter/).  The plan is to use the [Caret Splitter Rudder](/parts/caret-splitter-rudder/) to push the pieces
-towa... oh that won't work well UNLESS the medium marbles push the
-rudder and ensure they themselves will only go down the track IFF the
-rudder is pushed toward the right, to send them down toward the left.
+The Caret Splitter Right Hand Inner Side helps keep small marbles on
+[Caret Splitter Right Track](/parts/caret_splitter_right_track/)
+once they eventually can use the right hand side of the
+[Caret Splitter](/parts/caret-splitter/).
 
+It supports the [Caret Splitter Right Hand Side Inner Guider](/parts/caret-splitter-right-hand-side-inner-guider/).
 
 History:
 
-* 2019 Feb 26: Reversible Guy put the bar in place.
+* 2019 Feb 26: [Reversible Guy](/workers/reversible/) put the bar in place.
 
 [![2019 feb 26 caret splitter with right hand inner side](//b.robnugen.com/art/marble_track_3/track/parts/2019/thumbs/2019_feb_26_caret_splitter_with_right_hand_inner_side.jpg)](//b.robnugen.com/art/marble_track_3/track/parts/2019/2019_feb_26_caret_splitter_with_right_hand_inner_side.jpg)
 

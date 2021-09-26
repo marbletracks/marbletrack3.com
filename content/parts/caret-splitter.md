@@ -17,12 +17,28 @@ date = 2018-11-09T21:37:34+09:00
 
 The Caret Splitter sits opposite the (top of the) [Triple Splitter](/parts/triple_splitter/).  It is the small section of track which spans the end of the medium marble resting point which does *not* involve the [Triple Splitter](/parts/triple_splitter/).  I named it Caret Splitter because it is shaped like vaguely like a caret ^.  It is actually shaped more like the Japanese character へ, when viewed from the direction the marbles will reach it.
 
-Marbles arriving at the Caret Splitter are sorted with the [Caret Splitter Rudder](/parts/caret-splitter-rudder/), which is attached to the [Caret Splitter Rudder Lever Spinner](/parts/caret-splitter-rudder-lever-spinner/), atop of which will be the [Caret Splitter Lever](/parts/caret-splitter-lever/).
+Marbles arriving at the Caret Splitter
+will be
+sorted with the [Caret Splitter Rudder](/parts/caret-splitter-rudder/), which is attached to the [Caret Splitter Rudder Lever Spinner](/parts/caret-splitter-rudder-lever-spinner/), atop of which
+will be
+the [Caret Splitter Lever](/parts/caret-splitter-lever/).
+
+The plan is to use the [Caret Splitter Rudder](/parts/caret-splitter-rudder/)
+to push medium medium marbles toward the left
+and small marbles
+toward the right or left, as they like.
+
+Because the medium marbles cannot go to the right, they must set
+the [Caret Splitter Rudder](/parts/caret-splitter-rudder/)
+to only send them to the left when they arrive at the Caret Splitter.
 
 
 #### Construction History
 
-* February? 2019: Will be augmented with [Caret Splitter Right Hand Inner Side](/parts/caret-splitter-right-hand-inner-side/).
+* 2019 Feb 26: Augmented with [Caret Splitter Right Hand Inner Side](/parts/caret-splitter-right-hand-inner-side/).
+
+[![2019 feb 26 caret splitter with right hand inner side](//b.robnugen.com/art/marble_track_3/track/parts/2019/thumbs/2019_feb_26_caret_splitter_with_right_hand_inner_side.jpg)](//b.robnugen.com/art/marble_track_3/track/parts/2019/2019_feb_26_caret_splitter_with_right_hand_inner_side.jpg)
+
 
 * 22 Feb 2019 [Reversible Guy](/workers/reversible/) brought [Caret Splitter Right Hand Inner Side](/parts/caret-splitter-right-hand-inner-side/) to Caret Splitter Right Track
 
