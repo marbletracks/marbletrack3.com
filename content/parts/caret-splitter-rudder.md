@@ -20,7 +20,8 @@ toggled by medium marbles to ensure make small marbles go to the left
 or right down the [Caret Splitter](/parts/caret-splitter/).
 
 But, because medium marbles can only go down the left hand side of the
-caret splitter, the toggling of Caret Splitter Rudder must ensure that
+[Caret Splitter](/parts/caret-splitter/),
+the toggling of Caret Splitter Rudder must ensure that
 the medium marbles do not go toward the Caret Splitter Rudder unless
 it is pushed toward the right, which will push them toward the left.
 
