@@ -25,7 +25,8 @@ the [Caret Splitter Lever](/parts/caret-splitter-lever/).
 
 The plan is to use the [Caret Splitter Rudder](/parts/caret-splitter-rudder/)
 to push medium medium marbles toward the left
-and small marbles
+(and onto the [the Lowest Small-Medium Splitter](/parts/the_lowest_small-medium_splitter/))
+and push small marbles
 toward the right or left, as they like.
 
 Because the medium marbles cannot go to the right, they must set
