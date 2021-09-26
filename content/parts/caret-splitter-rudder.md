@@ -28,6 +28,6 @@ History:
 
 * 2019 May 03: verified where the axle should go
 
-https://b.robnugen.com/art/marble_track_3/track/parts/2019/2019_may_03_caret_splitter_rudder_planner_3.jpg
+[![2019 may 03 caret splitter rudder planner 3](//b.robnugen.com/art/marble_track_3/track/parts/2019/thumbs/2019_may_03_caret_splitter_rudder_planner_3.jpg)](//b.robnugen.com/art/marble_track_3/track/parts/2019/2019_may_03_caret_splitter_rudder_planner_3.jpg)
 
 * 2019 Feb 10: planned to be made above [Caret Splitter](/parts/caret-splitter/)
