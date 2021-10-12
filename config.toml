@@ -132,7 +132,7 @@ enable_jumbo = "true"
 # enable_jumbo = "false"
 # truncate = "100"
 # about_logo = "/img/hugocast.png"
-copyright_notice = "Copyright 2019 [Rob Nugen](https://www.robnugen.com)"
+copyright_notice = "Copyright 2021 [Rob Nugen](https://www.robnugen.com)"
 reserved_text = "All rights reserved."
 #itunes_subscribe = "http://itunes.apple.com/us/podcast/arrested-devops/id773888088?mt=2&uo=4&at=11lsCi"
 #android_subscribe = "http://subscribeonandroid.com/feeds.podtrac.com/VGAulpN7MY1U"
@@ -144,9 +144,9 @@ reserved_text = "All rights reserved."
 #rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
 media_prefix = "https://media.blubrry.com/"
 # Replace Logo image at 'static/img'.
-    # Add Header logo 
+    # Add Header logo
         logo = "/img/logo.png"
-    # Add Footer logo 
+    # Add Footer logo
         ft_logo = "/img/logo-footer.png"
 
 # Since this template is static, the contact form uses www.formspree.io as a
@@ -165,7 +165,7 @@ media_prefix = "https://media.blubrry.com/"
     email = "your@email.com"
 
   [params.feed]
-     feed_copyright = "Copyright 2016 Rob Nugen" #do not use markdown in this field; it is used in the feed
+     feed_copyright = "Copyright 2021 Rob Nugen" #do not use markdown in this field; it is used in the feed
 #    itunes_subtitle = "The best podcast ever" #no markdown or HTML
 #    itunes_author = "Matt Stratton" #no markdown or HTML
 #    itunes_summary = "" # Limited to 4000 characters or less, plain text, no HTML
@@ -194,7 +194,7 @@ media_prefix = "https://media.blubrry.com/"
     [params.authors.Matt]
       name	= "Rob Nugen"
       thumbnail = "https://b.robnugen.com/art/marble_track_3/creators/rob_nugen.jpg"
-      bio = "In the real world, Rob leads peer counseling circles in Tokyo with the long term goal of lowering the suicide rate in Asia"
+      bio = "In the real world, Rob walk barefoot in Tokyo with the long term goal of lowering the suicide rate in Asia"
       [params.authors.Matt.social]
         github = "thunderrabbit"
         facebook = "thunderrabbit"
@@ -215,7 +215,7 @@ media_prefix = "https://media.blubrry.com/"
 
 [params.latest_track]
     enable = true
-    title = "TRACK" 
+    title = "TRACK"
     subtitle = "(PARTS)"
 
 [params.our_workers]
@@ -225,14 +225,14 @@ media_prefix = "https://media.blubrry.com/"
 [params.snippets]
     enable = true
     title = "SNIPPETS"
-    subtitle = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer."
+    subtitle = "Short segments of final video"
 
 [params.support_banner]
     enable = true
     title = "Support"
     description = "You can support Marble Track 3 Construction in a variety of ways. Once Marble Track 3 Construction is finished, the person or entity who has given the most support will receive the actual Marble Track 3 track itself."
     button_text = "[Become A Supporter] (https://www.paypal.me/marbletrack3)"
-   
+
 [params.home_video]
     enable = true
 
