@@ -1,0 +1,21 @@
+<!-- Begin Show latest episodes -->
+
+  <div>
+      <div class="posts">
+        {{ $future_events := where .Site.RegularPages "Type" "episode" }}
+        {{ range $future_events  }}
+
+          <section class="post">
+              <h3 class="post-h3">
+                  <a href="{{ .Permalink }}" class="post-title">{{ .Title }}</a>
+              </h3>
+              {{ dateFormat "Monday, Jan 2, 2006" .Date }}
+
+              <div class="post-description">
+                  {{ .Summary }}
+              </div>
+          </section>
+          {{ end }}
+      </div>
+  </div>
+<!-- End Show latest episodes -->
