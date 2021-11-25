@@ -17,6 +17,6 @@ Aliases = [
 date = 2017-10-10T17:38:56+09:00
 +++
 
-The First Track is made of two bamboo skewers.  Its placement bicsects the stage, and guides all the other tracks on the lowest level.
+The First Track is made of two bamboo skewers.  Its placement bisects the stage, and guides all the other tracks on the lowest level.
 
 After [Francois kicked the stage in place](/episode/2017/september/francois-kicked-the-stage-into-place/), the First Track supports were put into place by [Candy Mama](/workers/candy_mama/), who slid its supports in like hockey pucks sliding across ice.  The Brothers actually placed the First Track before The First Roll.
