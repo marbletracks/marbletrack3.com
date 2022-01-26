@@ -29,6 +29,10 @@ small marbles into
 
 History:
 
-* 2021 Nov 16: Carried up the ramp by RG and CM
+* 2022 Jan 26: Tossed into the area by [Candy Mama](/workers/candy_mama/)
+
+[![zog flyin](//b.robnugen.com/art/marble_track_3/track/parts/2022/thumbs/zog_flyin.jpg)](//b.robnugen.com/art/marble_track_3/track/parts/2022/zog_flyin.jpg)
+
+* 2021 Nov 16: Carried up the ramp by [Reversible Guy](/workers/reversible/) and [Candy Mama](/workers/candy_mama/)
 
 [![2021 nov 16 candy mama carrying zog](//b.robnugen.com/art/marble_track_3/track/parts/2021/thumbs/2021_nov_16_candy_mama_carrying_zog.jpg)](//b.robnugen.com/art/marble_track_3/track/parts/2021/2021_nov_16_candy_mama_carrying_zog.jpg)
