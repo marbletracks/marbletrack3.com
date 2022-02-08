@@ -29,6 +29,10 @@ small marbles into
 
 History:
 
+* 2022 Feb 01: Zog reached the apex of its flight
+
+[![00010 002 11 X1 1266](//b.robnugen.com/art/marble_track_3/frames/2022/thumbs/00010_002_11_X1_1266.jpg)](//b.robnugen.com/art/marble_track_3/frames/2022/00010_002_11_X1_1266.jpg)
+
 * 2022 Jan 26: Tossed into the area by [Candy Mama](/workers/candy_mama/)
 
 [![zog flyin](//b.robnugen.com/art/marble_track_3/track/parts/2022/thumbs/zog_flyin.jpg)](//b.robnugen.com/art/marble_track_3/track/parts/2022/zog_flyin.jpg)
