@@ -14,6 +14,10 @@ aliases = [
 date = 2022-03-08T16:00:53+09:00
 +++
 
+Lower Zig Zag 3F Rails will connect to [Zog Rails](/parts/zog-rails/)
+to help small marbles transition from
+[Zog](/parts/zog/) to
+[Lower Zig Zag 3F](/parts/lower-zig-zag-3f/).
 
 History:
 

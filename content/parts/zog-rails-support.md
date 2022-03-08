@@ -14,6 +14,11 @@ aliases = [
 date = 2022-03-08T16:25:03+09:00
 +++
 
+This vertical piece will support [Zog Rails](/parts/zog-rails/).
+
+It shall be installed very close to [Caret Splitter Feeder Extension Reflection Lower Right Protection](/parts/caret-splitter-feeder-extension-reflection-lower-right-protection/),
+with its foot between [Left Side Small Landing Zone](/parts/left_side_small_landing_zone/)
+and the [Lower Curver off the Lowest Small-Medium Splitter](/parts/lower_curver_off_the_lowest_small-medium_splitter/).
 
 History:
 

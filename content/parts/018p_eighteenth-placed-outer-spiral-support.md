@@ -15,6 +15,9 @@ aliases = [
 date = 2022-03-08T16:03:52+09:00
 +++
 
+The Eighteenth Placed Outer Spiral Support will be the second shortest support,
+installed quite close to the edge of the stage, near the top of the
+[Triple Splitter](/parts/triple_splitter/).
 
 History:
 

@@ -29,6 +29,10 @@ small marbles into
 
 History:
 
+* 2022 Mar 08: Zog finished bouncing into place.  The upper end (on [el Lifty Lever Guider](/parts/el-lifty-lever-guider/)) was glued in place by [Mr McGlue](/workers/mr_mcglue/)
+
+[![2022 mar 08 zog freshly glued](//b.robnugen.com/art/marble_track_3/track/parts/2022/thumbs/2022_mar_08_zog_freshly_glued.jpg)](//b.robnugen.com/art/marble_track_3/track/parts/2022/2022_mar_08_zog_freshly_glued.jpg)
+
 * 2022 Feb 01: Zog reached the apex of its flight
 
 [![00010 002 11 X1 1266](//b.robnugen.com/art/marble_track_3/frames/2022/thumbs/00010_002_11_X1_1266.jpg)](//b.robnugen.com/art/marble_track_3/frames/2022/00010_002_11_X1_1266.jpg)
