@@ -16,6 +16,9 @@ aliases = [
 date = 2020-02-18T12:38:26+09:00
 +++
 
+This small piece of bamboo keeps marbles on [Lower Zig Zag 3F](/parts/lower-zig-zag-3f/) headed into the [Lower Zig Zag 3F 2F Net](/parts/lower-zig-zag-3f-2f-net/).
+
+The [Triple Splitter Small Feeder Inner Guider](/parts/triple-splitter-small-feeder-inner-guider/) will extend from this piece down along the [Triple Splitter Small Feeder](/parts/triple-splitter-small-feeder/).
 
 History:
 
