@@ -4,8 +4,7 @@ type = "parts"
 tags = [ "short", "bamboo", "vertical" ]
 image = "https://b.robnugen.com/art/marble_track_3/track/parts/2022/2022_mar_08_mr_green_installing_018poss.jpg"
 thumbnail = "https://b.robnugen.com/art/marble_track_3/track/parts/2022/thumbs/2022_mar_08_mr_green_installing_018poss.jpg"
-description = "Sixteenth Placed Outer Spiral Support was brought into
-place by Mr Greene on March 8th 2022"
+description = "Sixteenth Placed Outer Spiral Support was brought into place by Mr Greene on March 8th 2022"
 workers = [
     "mr_green",
 ]
