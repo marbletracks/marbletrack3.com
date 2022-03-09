@@ -71,7 +71,10 @@ I created pages for these pieces today:
 * [Zog Rails](/parts/zog-rails/)
 * [Triple Splitter Small Feeder Inner Guider](/parts/triple-splitter-small-feeder-inner-guider/)
 
-Here are the frames taken today, most of which will be used in the final video:
+Below are the frames taken today, most of which will be used in the final video.
+Four of the frames had to be deleted when [G Choppy](/workers/g_choppy/) went the wrong way.
+One of the frames still shows the armature which held [Zog](/parts/zog/).
+I will remove it eventually, but it still appears in the latest snippet: https://www.youtube.com/watch?v=-jDKzYRmhkE
 
 [![00010 002 11 X1 1309](//b.robnugen.com/art/marble_track_3/frames/2022/thumbs/00010_002_11_X1_1309.jpg)](//b.robnugen.com/art/marble_track_3/frames/2022/00010_002_11_X1_1309.jpg)
 [![00010 002 11 X1 1311](//b.robnugen.com/art/marble_track_3/frames/2022/thumbs/00010_002_11_X1_1311.jpg)](//b.robnugen.com/art/marble_track_3/frames/2022/00010_002_11_X1_1311.jpg)
