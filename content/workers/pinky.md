@@ -12,9 +12,15 @@ Image = "https://b.robnugen.com/art/marble_track_3/workers/2018/pinky.jpg"
 Description = "All grown up"
 +++
 
-Pinky is a character who was present in the first attempt at making Marble Track 3 6 years ago.  At that time was a little bit silly, but this time she's more grown up.
+Pinky is a character who was present in the first attempt at making
+Marble Track 3 in 2011.  At that time was a little bit silly, but
+this time she's more grown up.
 
 Some things she's done:
+
+* March 2022: lifting [Zog Rails](/parts/zog-rails/), [Triple Splitter Small Feeder Inner Guider](/parts/triple-splitter-small-feeder-inner-guider/), and one of the [Lower Zig Zag 3F Rails](/parts/lower-zig-zag-3f-rails/)
+
+[![2022 mar 15 pinky lifting zog rails](//b.robnugen.com/art/marble_track_3/construction/2022/thumbs/2022_mar_15_pinky_lifting_zog_rails.jpg)](//b.robnugen.com/art/marble_track_3/construction/2022/2022_mar_15_pinky_lifting_zog_rails.jpg)
 
 * April/May 2019: push medium blue marble from under the [Caret Splitter](/parts/caret-splitter/) up to the top of the [Caret Splitter Feeder Extension Reflection](/parts/caret-splitter-feeder-extension-reflection/).
 * February 2019: Carry the [Triple Splitter Small Feeder Inner Bar Lower Support](/parts/triple-splitter-small-feeder-inner-bar-lower-support/) up the ramp

@@ -24,7 +24,7 @@ History:
 
 * 2022 Mar 15: [Candy Mama](/workers/candy_mama/) reached the top of the first ramp.
 
-https://b.robnugen.com/art/marble_track_3/construction/2022/2022_mar_15_candy_mama_bringing_zog_rails_support.jpg
+[![2022 mar 15 candy mama bringing zog rails support](//b.robnugen.com/art/marble_track_3/construction/2022/thumbs/2022_mar_15_candy_mama_bringing_zog_rails_support.jpg)](//b.robnugen.com/art/marble_track_3/construction/2022/2022_mar_15_candy_mama_bringing_zog_rails_support.jpg)
 
 * 2022 Mar 08: [Candy Mama](/workers/candy_mama/) brought the support up the first ramp.
 
