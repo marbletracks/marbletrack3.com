@@ -20,6 +20,10 @@ Zog Rails will be supported by [Zog Rails Support](/parts/zog-rails-support/)
 
 History:
 
+* 2022 Mar 15: [Pinky](/workers/pinky/) lifted herself up onto [Triple Splitter Small Feeder Outer Bar](/parts/triple-splitter-small-feeder-outer-bar/) while holding the Zog Rails, [Triple Splitter Small Feeder Inner Guider](/parts/triple-splitter-small-feeder-inner-guider/), and [Lower Zig Zag 3F Rails](/parts/lower-zig-zag-3f-rails/)
+
+[![2022 mar 15 pinky lifting zog rails](//b.robnugen.com/art/marble_track_3/construction/2022/thumbs/2022_mar_15_pinky_lifting_zog_rails.jpg)](//b.robnugen.com/art/marble_track_3/construction/2022/2022_mar_15_pinky_lifting_zog_rails.jpg)
+
 * 2022 Mar 08: [Pinky](/workers/pinky/) brought rails up the middle ramp
 
 [![2022 mar 08 pinky bringing rails](//b.robnugen.com/art/marble_track_3/track/parts/2022/thumbs/2022_mar_08_pinky_bringing_rails.jpg)](//b.robnugen.com/art/marble_track_3/track/parts/2022/2022_mar_08_pinky_bringing_rails.jpg)

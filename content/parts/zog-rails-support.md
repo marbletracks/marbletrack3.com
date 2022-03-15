@@ -22,6 +22,10 @@ and the [Lower Curver off the Lowest Small-Medium Splitter](/parts/lower_curver_
 
 History:
 
+* 2022 Mar 15: [Candy Mama](/workers/candy_mama/) reached the top of the first ramp.
+
+https://b.robnugen.com/art/marble_track_3/construction/2022/2022_mar_15_candy_mama_bringing_zog_rails_support.jpg
+
 * 2022 Mar 08: [Candy Mama](/workers/candy_mama/) brought the support up the first ramp.
 
 [![2022 mar 08 candy mama bringing zog rail support](//b.robnugen.com/art/marble_track_3/track/parts/2022/thumbs/2022_mar_08_candy_mama_bringing_zog_rail_support.jpg)](//b.robnugen.com/art/marble_track_3/track/parts/2022/2022_mar_08_candy_mama_bringing_zog_rail_support.jpg)

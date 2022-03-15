@@ -21,6 +21,10 @@ toward the lower end of the [Triple Splitter Small Feeder Inner Bar](/parts/trip
 
 History:
 
+* 2022 Mar 15: [Pinky](/workers/pinky/) lifted herself up onto [Triple Splitter Small Feeder Outer Bar](/parts/triple-splitter-small-feeder-outer-bar/) while holding Triple Splitter Small Feeder Inner Guider, [Zog Rails](/parts/zog-rails/), and [Lower Zig Zag 3F Rails](/parts/lower-zig-zag-3f-rails/)
+
+[![2022 mar 15 pinky lifting zog rails](//b.robnugen.com/art/marble_track_3/construction/2022/thumbs/2022_mar_15_pinky_lifting_zog_rails.jpg)](//b.robnugen.com/art/marble_track_3/construction/2022/2022_mar_15_pinky_lifting_zog_rails.jpg)
+
 * 2022 Mar 08: [Pinky](/workers/pinky/) brought the Triple Splitter Small Feeder Inner Guider up the middle ramp
 
 [![2022 mar 08 pinky bringing rails](//b.robnugen.com/art/marble_track_3/track/parts/2022/thumbs/2022_mar_08_pinky_bringing_rails.jpg)](//b.robnugen.com/art/marble_track_3/track/parts/2022/2022_mar_08_pinky_bringing_rails.jpg)
