@@ -5,7 +5,6 @@ tags = [ "vertical", "bamboo", "tall" ]
 image = "https://b.robnugen.com/art/marble_track_3/construction/2022/2022_apr_01_glued_zog_rails_support.jpg"
 thumbnail = "https://b.robnugen.com/art/marble_track_3/construction/2022/thumbs/2022_apr_01_glued_zog_rails_support.jpg"
 description = "Zog Rails Support"
-https://b.robnugen.com/art/marble_track_3/
 workers = [
     "candy",
 ]
