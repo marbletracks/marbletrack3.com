@@ -21,6 +21,10 @@ toward the lower end of the [Triple Splitter Small Feeder Inner Bar](/parts/trip
 
 History:
 
+* 2022 Apr 01: [G Choppy](/workers/g_choppy/) ready to curve the piece
+
+[![2022 apr 01 about to curve triple splitter small feeder inner guider](//b.robnugen.com/art/marble_track_3/construction/2022/thumbs/2022_apr_01_about_to_curve_triple_splitter_small_feeder_inner_guider.jpg)](//b.robnugen.com/art/marble_track_3/construction/2022/2022_apr_01_about_to_curve_triple_splitter_small_feeder_inner_guider.jpg)
+
 * 2022 Mar 15: [Pinky](/workers/pinky/) lifted herself up onto [Triple Splitter Small Feeder Outer Bar](/parts/triple-splitter-small-feeder-outer-bar/) while holding Triple Splitter Small Feeder Inner Guider, [Zog Rails](/parts/zog-rails/), and [Lower Zig Zag 3F Rails](/parts/lower-zig-zag-3f-rails/)
 
 [![2022 mar 15 pinky lifting zog rails](//b.robnugen.com/art/marble_track_3/construction/2022/thumbs/2022_mar_15_pinky_lifting_zog_rails.jpg)](//b.robnugen.com/art/marble_track_3/construction/2022/2022_mar_15_pinky_lifting_zog_rails.jpg)
