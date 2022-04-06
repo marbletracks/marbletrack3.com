@@ -2,7 +2,7 @@
 title: "G Choppy curving the Triple Splitter Small Feeder Inner Guider"
 tags: [ "mt3", "construction" ]
 author: Rob Nugen
-youtube: f-8kMxi9SW0
+youtube: "f-8kMxi9SW0"
 episode_image: https://b.robnugen.com/art/marble_track_3/construction/2022/2022_apr_05_gchoppy_curving_tssfig.jpg
 episode_thumbnail: "https://b.robnugen.com/art/marble_track_3/construction/2022/thumbs/2022_apr_05_gchoppy_curving_tssfig.jpg"
 date: 2022-04-05T16:26:23+09:00
