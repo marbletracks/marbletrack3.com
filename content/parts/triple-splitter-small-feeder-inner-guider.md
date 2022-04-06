@@ -2,8 +2,8 @@
 title = "Triple Splitter Small Feeder Inner Guider"
 type = "parts"
 tags = [ "thin", "bamboo", "curved" ]
-image = "https://b.robnugen.com/art/marble_track_3/track/parts/2022/2022_mar_08_pinky_bringing_rails.jpg"
-thumbnail = "https://b.robnugen.com/art/marble_track_3/track/parts/2022/thumbs/2022_mar_08_pinky_bringing_rails.jpg"
+image = "https://b.robnugen.com/art/marble_track_3/construction/2022/2022_apr_05_gchoppy_curving_tssfig.jpg"
+thumbnail = "https://b.robnugen.com/art/marble_track_3/construction/2022/thumbs/2022_apr_05_gchoppy_curving_tssfig.jpg"
 description = "Triple Splitter Small Feeder Inner Guider"
 workers = [
     "mr_mcglue",
@@ -20,6 +20,10 @@ This small bamboo bar will extend from the
 toward the lower end of the [Triple Splitter Small Feeder Inner Bar](/parts/triple-splitter-small-feeder-inner-bar/)
 
 History:
+
+* 2022 Apr 05: [G Choppy](/workers/g_choppy/) begins to curve the piece
+
+[![2022 apr 05 gchoppy curving tssfig](//b.robnugen.com/art/marble_track_3/construction/2022/thumbs/2022_apr_05_gchoppy_curving_tssfig.jpg)](//b.robnugen.com/art/marble_track_3/construction/2022/2022_apr_05_gchoppy_curving_tssfig.jpg)
 
 * 2022 Apr 01: [G Choppy](/workers/g_choppy/) ready to curve the piece
 
