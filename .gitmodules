@@ -1,6 +1,6 @@
 [submodule "themes/castanet"]
 	path = themes/castanet
-	url = git@github.com:marbletracks/castanet.git
+	url = https://github.com/marbletracks/castanet.git
 [submodule "scripts/go"]
 	path = scripts/go
-	url = git@github.com:marbletracks/go-get-video-durations.git
+	url = https://github.com/marbletracks/go-get-video-durations.git
