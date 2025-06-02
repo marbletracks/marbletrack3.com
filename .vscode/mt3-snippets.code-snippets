@@ -1,0 +1,1094 @@
+{
+	// Place your mt3.com workspace snippets here.
+	// Each snippet is defined under a snippet name and has a scope, prefix, body and description.
+	// Add comma separated ids of the languages where the snippet is applicable in the scope field.
+	// If scope is left empty or omitted, the snippet gets applied to all languages.
+	// The prefix is what is used to trigger the snippet and the body will be expanded and inserted.
+	// Possible variables are: $1, $2 for tab stops, $0 for the final cursor position,
+	// and ${1:label}, ${2:another} for placeholders.
+	// Placeholders with the same ids are connected.
+	// Example:
+	// "Print to console": {
+	// 	"scope": "javascript,typescript",
+	// 	"prefix": "log",
+	// 	"body": [
+	// 		"console.log('$1');",
+	// 		"$2"
+	// 	],
+	// 	"description": "Log output to console"
+	// }
+
+	"Autosticks": {
+		"scope": "markdown",
+		"description": "Autosticks",
+		"prefix": "auto",
+		"body": [
+			"[Autosticks](/workers/autosticks/)"
+		]
+	},
+	"Doctor Sugar": {
+		"scope": "markdown",
+		"description": "Doctor Sugar",
+		"prefix": "ds",
+		"body": [
+			"[Doctor Sugar](/workers/dr_sugar/)"
+		]
+	},
+	"Reversible Guy": {
+		"scope": "markdown",
+		"description": "Reversible Guy",
+		"prefix": "rg",
+		"body": [
+			"[Reversible Guy](/workers/reversible/)"
+		]
+	},
+	"Candy Mama": {
+		"scope": "markdown",
+		"description": "Candy Mama",
+		"prefix": "cm",
+		"body": [
+			"[Candy Mama](/workers/candy_mama/)"
+		]
+	},
+	"G Choppy": {
+		"scope": "markdown",
+		"description": "G Choppy",
+		"prefix": "gc",
+		"body": [
+			"[G Choppy](/workers/g_choppy/)"
+		]
+	},
+	"Mr McGlue": {
+		"scope": "markdown",
+		"description": "Mr McGlue",
+		"prefix": "mmg",
+		"body": [
+			"[Mr McGlue](/workers/mr_mcglue/)"
+		]
+	},
+	"Pinky": {
+		"scope": "markdown",
+		"description": "Pinky",
+		"prefix": "pink",
+		"body": [
+			"[Pinky](/workers/pinky/)"
+		]
+	},
+	"Squarehead": {
+		"scope": "markdown",
+		"description": "Squarehead",
+		"prefix": "square",
+		"body": [
+			"[Squarehead](/workers/squarehead/)"
+		]
+	},
+	"Big Brother": {
+		"scope": "markdown",
+		"description": "Big Brother",
+		"prefix": "big",
+		"body": [
+			"[Big Brother](/workers/big_brother/)"
+		]
+	},
+	"Little Brother": {
+		"scope": "markdown",
+		"description": "Little Brother",
+		"prefix": "lil",
+		"body": [
+			"[Little Brother](/workers/lil_brother/)"
+		]
+	},
+	"Super Spoony": {
+		"scope": "markdown",
+		"description": "Super Spoony",
+		"prefix": "sup",
+		"body": [
+			"[Super Spoony](/workers/super_spoony/)"
+		]
+	},
+	"Garinoppi": {
+		"scope": "markdown",
+		"description": "Garinoppi",
+		"prefix": "gar",
+		"body": [
+			"[Garinoppi](/workers/garinoppi/)"
+		]
+	},
+	"Backpack Jack": {
+		"scope": "markdown",
+		"description": "Backpack Jack",
+		"prefix": "bpj",
+		"body": [
+			"[Backpack Jack](/workers/backpack_jack/)"
+		]
+	},
+	"Rabby": {
+		"scope": "markdown",
+		"description": "Rabby",
+		"prefix": "rab",
+		"body": [
+			"[Rabby](/workers/rabby/)"
+		]
+	},
+	"Mr Greene": {
+		"scope": "markdown",
+		"description": "Mr Greene",
+		"prefix": "mrg",
+		"body": [
+			"[Mr Greene](/workers/mr_greene/)"
+		]
+	},
+	"Back Right Medium Landing Zone": {
+		"scope": "markdown",
+		"description": "Back Right Medium Landing Zone",
+		"prefix": "brmlz",
+		"body": [
+			"[Back Right Medium Landing Zone](/parts/back_right_medium_landing_zone/)"
+		]
+	},
+	"Bar Below Circle by Caret Splitter": {
+		"scope": "markdown",
+		"description": "Bar Below Circle by Caret Splitter",
+		"prefix": "bbcbcs",
+		"body": [
+			"[Bar Below Circle by Caret Splitter](/parts/bar_below_circle_by_the_caret_splitter/)"
+		]
+	},
+	"Bearing": {
+		"scope": "markdown",
+		"description": "Bearing",
+		"prefix": "bearing",
+		"body": [
+			"[Bearing](/parts/bearing/)"
+		]
+	},
+	"Caret Splitter Backboard": {
+		"scope": "markdown",
+		"description": "Caret Splitter Backboard",
+		"prefix": "csb",
+		"body": [
+			"[Caret Splitter Backboard](/parts/caret-splitter-backboard/)"
+		]
+	},
+	"Caret Splitter Feeder Extension Reflection Second Stanchion": {
+		"scope": "markdown",
+		"description": "Caret Splitter Feeder Extension Reflection Second Stanchion",
+		"prefix": "csfer2s",
+		"body": [
+			"[Caret Splitter Feeder Extension Reflection Second Stanchion](/parts/caret-splitter-feeder-extension-reflection-second-stanchion/)"
+		]
+	},
+	"Caret Splitter Feeder Extension Reflection Stanchion": {
+		"scope": "markdown",
+		"description": "Caret Splitter Feeder Extension Reflection Stanchion",
+		"prefix": "csfers",
+		"body": [
+			"[Caret Splitter Feeder Extension Reflection Stanchion](/parts/caret-splitter-feeder-extension-reflection-stanchion/)"
+		]
+	},
+	"Caret Splitter Feeder Extension Reflection": {
+		"scope": "markdown",
+		"description": "Caret Splitter Feeder Extension Reflection",
+		"prefix": "csfer",
+		"body": [
+			"[Caret Splitter Feeder Extension Reflection](/parts/caret-splitter-feeder-extension-reflection/)"
+		]
+	},
+	"Caret Splitter Feeder Extension": {
+		"scope": "markdown",
+		"description": "Caret Splitter Feeder Extension",
+		"prefix": "csfe",
+		"body": [
+			"[Caret Splitter Feeder Extension](/parts/caret_splitter_feeder_extension/)"
+		]
+	},
+	"Caret Splitter Feeder": {
+		"scope": "markdown",
+		"description": "Caret Splitter Feeder",
+		"prefix": "csf",
+		"body": [
+			"[Caret Splitter Feeder](/parts/caret_splitter_feeder/)"
+		]
+	},
+	"Caret Splitter Right Hand Inner Side": {
+		"scope": "markdown",
+		"description": "Caret Splitter Right Hand Inner Side",
+		"prefix": "csrhis",
+		"body": [
+			"[Caret Splitter Right Hand Inner Side](/parts/caret-splitter-right-hand-inner-side/)"
+		]
+	},
+	"Caret Splitter Right Track": {
+		"scope": "markdown",
+		"description": "Caret Splitter Right Track",
+		"prefix": "csrt",
+		"body": [
+			"[Caret Splitter Right Track](/parts/caret_splitter_right_track/)"
+		]
+	},
+	"Caret Splitter Rudder": {
+		"scope": "markdown",
+		"description": "Caret Splitter Rudder",
+		"prefix": "csr",
+		"body": [
+			"[Caret Splitter Rudder](/parts/caret-splitter-rudder/)"
+		]
+	},
+	"Caret Splitter": {
+		"scope": "markdown",
+		"description": "Caret Splitter",
+		"prefix": "cs",
+		"body": [
+			"[Caret Splitter](/parts/caret-splitter/)"
+		]
+	},
+	"Circle by the Caret Splitter": {
+		"scope": "markdown",
+		"description": "Circle by the Caret Splitter",
+		"prefix": "cbtcs",
+		"body": [
+			"[Circle by the Caret Splitter](/parts/circle_by_the_caret_splitter/)"
+		]
+	},
+	"Decorative Walls after the Lowest Small-Medium Splitter": {
+		"scope": "markdown",
+		"description": "Decorative Walls after the Lowest Small-Medium Splitter",
+		"prefix": "dwatlsms",
+		"body": [
+			"[Decorative Walls after the Lowest Small-Medium Splitter](/parts/decorative_walls_after_the_lowest_small-medium_splitter/)"
+		]
+	},
+	"Eighth Placed Outer Spiral Support": {
+		"scope": "markdown",
+		"description": "Eighth Placed Outer Spiral Support",
+		"prefix": "8poss",
+		"body": [
+			"[Eighth Placed Outer Spiral Support](/parts/008p_eighth-placed-outer-spiral-support/)"
+		]
+	},
+	"Fifth Placed Outer Spiral Support": {
+		"scope": "markdown",
+		"description": "Fifth Placed Outer Spiral Support",
+		"prefix": "5poss",
+		"body": [
+			"[Fifth Placed Outer Spiral Support](/parts/005p_fifth_placed_outer_spiral_support/)"
+		]
+	},
+	"First Placed Outer Spiral Support": {
+		"scope": "markdown",
+		"description": "First Placed Outer Spiral Support",
+		"prefix": "1poss",
+		"body": [
+			"[First Placed Outer Spiral Support](/parts/001p_first_placed_outer_spiral_support/)"
+		]
+	},
+	"First Snake-Installed Rail": {
+		"scope": "markdown",
+		"description": "First Snake-Installed Rail",
+		"prefix": "fsir",
+		"body": [
+			"[First Snake-Installed Rail](/parts/first_snake-installed_rail/)"
+		]
+	},
+	"Fourth Placed Outer Spiral Support": {
+		"scope": "markdown",
+		"description": "Fourth Placed Outer Spiral Support",
+		"prefix": "4poss",
+		"body": [
+			"[Fourth Placed Outer Spiral Support](/parts/004p_fourth_placed_outer_spiral_support/)"
+		]
+	},
+	"Front Left Medium Landing Zone": {
+		"scope": "markdown",
+		"description": "Front Left Medium Landing Zone",
+		"prefix": "flmlz",
+		"body": [
+			"[Front Left Medium Landing Zone](/parts/front_left_medium_landing_zone/)"
+		]
+	},
+	"Guides into Back Right Medium Landing Zone": {
+		"scope": "markdown",
+		"description": "Guides into Back Right Medium Landing Zone",
+		"prefix": "gibrmlz",
+		"body": [
+			"[Guides into Back Right Medium Landing Zone](/parts/guides-into-back-right-medium-landing-zone/)"
+		]
+	},
+	"Left Side Small Landing Zone": {
+		"scope": "markdown",
+		"description": "Left Side Small Landing Zone",
+		"prefix": "lsslz",
+		"body": [
+			"[Left Side Small Landing Zone](/parts/left_side_small_landing_zone/)"
+		]
+	},
+	"Little Wiggly Track": {
+		"scope": "markdown",
+		"description": "Little Wiggly Track",
+		"prefix": "lwt",
+		"body": [
+			"[Little Wiggly Track](/parts/little_wiggly_track/)"
+		]
+	},
+	"Lower Curver off the Lowest Small-Medium Splitter": {
+		"scope": "markdown",
+		"description": "Lower Curver off the Lowest Small-Medium Splitter",
+		"prefix": "lcotlsms",
+		"body": [
+			"[Lower Curver off the Lowest Small-Medium Splitter](/parts/lower_curver_off_the_lowest_small-medium_splitter/)"
+		]
+	},
+	"Lower Zig Zag 1F": {
+		"scope": "markdown",
+		"description": "Lower Zig Zag 1F",
+		"prefix": "lzz1f",
+		"body": [
+			"[Lower Zig Zag 1F](/parts/lower-zig-zag-1f/)"
+		]
+	},
+	"Lower Zig Zag 2F": {
+		"scope": "markdown",
+		"description": "Lower Zig Zag 2F",
+		"prefix": "lzz2f",
+		"body": [
+			"[Lower Zig Zag 2F](/parts/lower-zig-zag-2f/)"
+		]
+	},
+	"Lower Zig Zag 2 ban top": {
+		"scope": "markdown",
+		"description": "Lower Zig Zag 2 ban top",
+		"prefix": "lzz2bt",
+		"body": [
+			"[Lower Zig Zag 2 ban top](/parts/lower-zig-zag-2-ban-top/)"
+		]
+	},
+	"Lower Zig Zag 3F": {
+		"scope": "markdown",
+		"description": "Lower Zig Zag 3F",
+		"prefix": "lzz3f",
+		"body": [
+			"[Lower Zig Zag 3F](/parts/lower-zig-zag-3f/)"
+		]
+	},
+	"Lower Zig Zag 3 ban Upper Base": {
+		"scope": "markdown",
+		"description": "Lower Zig Zag 3 ban Upper Base",
+		"prefix": "lzz3bub",
+		"body": [
+			"[Lower Zig Zag 3 ban Upper Base](/parts/lower-zig-zag-3-ban-upper-base/)"
+		]
+	},
+	"Lower Zig Zag 3 ban Upper Base Base": {
+		"scope": "markdown",
+		"description": "Lower Zig Zag 3 ban Upper Base Base",
+		"prefix": "lzz3bubb",
+		"body": [
+			"[Lower Zig Zag 3 ban Upper Base Base](/parts/lower-zig-zag-3-ban-upper-base-base/)"
+		]
+	},
+	"Lower Zig Zag Net": {
+		"scope": "markdown",
+		"description": "Lower Zig Zag Net",
+		"prefix": "lzzn",
+		"body": [
+			"[Lower Zig Zag Net](/parts/lower_zig_zag_net/)"
+		]
+	},
+	"Lower Zig Zag": {
+		"scope": "markdown",
+		"description": "Lower Zig Zag",
+		"prefix": "lzz",
+		"body": [
+			"[Lower Zig Zag](/parts/lower_zig_zag/)"
+		]
+	},
+	"Lowest Back Left Small Marble Curve": {
+		"scope": "markdown",
+		"description": "Lowest Back Left Small Marble Curve",
+		"prefix": "lblsmc",
+		"body": [
+			"[Lowest Back Left Small Marble Curve](/parts/lowest_back_left_small_marble_curve/)"
+		]
+	},
+	"Lowest Largest Backtracking Chopstick": {
+		"scope": "markdown",
+		"description": "Lowest Largest Backtracking Chopstick",
+		"prefix": "llbc",
+		"body": [
+			"[Lowest Largest Backtracking Chopstick](/parts/lowest_largest_backtracking_chopstick/)"
+		]
+	},
+	"Lowest Largest Backtracking Popsicle Stick": {
+		"scope": "markdown",
+		"description": "Lowest Largest Backtracking Popsicle Stick",
+		"prefix": "llbps",
+		"body": [
+			"[Lowest Largest Backtracking Popsicle Stick](/parts/lowest_largest_backtracking_popsicle_stick/)"
+		]
+	},
+	"Lowest Largest U-Turn": {
+		"scope": "markdown",
+		"description": "Lowest Largest U-Turn",
+		"prefix": "llut",
+		"body": [
+			"[Lowest Largest U-Turn](/parts/lowest_largest_u_turn/)"
+		]
+	},
+	"Medium Catcher Below Triple Splitter": {
+		"scope": "markdown",
+		"description": "Medium Catcher Below Triple Splitter",
+		"prefix": "mcbts",
+		"body": [
+			"[Medium Catcher Below Triple Splitter](/parts/medium-catcher-below-triple-splitter/)"
+		]
+	},
+	"Ninth Placed Outer Spiral Support": {
+		"scope": "markdown",
+		"description": "Ninth Placed Outer Spiral Support",
+		"prefix": "9poss",
+		"body": [
+			"[Ninth Placed Outer Spiral Support](/parts/009p_ninth-placed-outer-spiral-support/)"
+		]
+	},
+	"Outer Spiral": {
+		"scope": "markdown",
+		"description": "Outer Spiral",
+		"prefix": "os",
+		"body": [
+			"[Outer Spiral](/parts/outer_spiral/)"
+		]
+	},
+	"Right Side Small Landing Zone": {
+		"scope": "markdown",
+		"description": "Right Side Small Landing Zone",
+		"prefix": "rsslz",
+		"body": [
+			"[Right Side Small Landing Zone](/parts/right_side_small_landing_zone/)"
+		]
+	},
+	"Second Placed Outer Spiral Support": {
+		"scope": "markdown",
+		"description": "Second Placed Outer Spiral Support",
+		"prefix": "2poss",
+		"body": [
+			"[Second Placed Outer Spiral Support](/parts/002p_second_placed_outer_spiral_support/)"
+		]
+	},
+	"Seventh Placed Outer Spiral Support": {
+		"scope": "markdown",
+		"description": "Seventh Placed Outer Spiral Support",
+		"prefix": "7poss",
+		"body": [
+			"[Seventh Placed Outer Spiral Support](/parts/007p_seventh-placed-outer-spiral-support/)"
+		]
+	},
+	"Sixth Placed Outer Spiral Support": {
+		"scope": "markdown",
+		"description": "Sixth Placed Outer Spiral Support",
+		"prefix": "6poss",
+		"body": [
+			"[Sixth Placed Outer Spiral Support](/parts/006p_sixth_placed_outer_spiral_support/)"
+		]
+	},
+	"Snake Plate Chopstick": {
+		"scope": "markdown",
+		"description": "Snake Plate Chopstick",
+		"prefix": "spc",
+		"body": [
+			"[Snake Plate Chopstick](/parts/snake_plate_chopstick/)"
+		]
+	},
+	"Snake Plate U Turn": {
+		"scope": "markdown",
+		"description": "Snake Plate U Turn",
+		"prefix": "sput",
+		"body": [
+			"[Snake Plate U Turn](/parts/snake_plate_u_turn/)"
+		]
+	},
+	"Snake Plate U-Turn Berm": {
+		"scope": "markdown",
+		"description": "Snake Plate U-Turn Berm",
+		"prefix": "sputb",
+		"body": [
+			"[Snake Plate U-Turn Berm](/parts/snake_plate_u_turn_berm/)"
+		]
+	},
+	"Snake Plate U-turn Berm Bar": {
+		"scope": "markdown",
+		"description": "Snake Plate U-turn Berm Bar",
+		"prefix": "sputbb",
+		"body": [
+			"[Snake Plate U-turn Berm Bar](/parts/snake-plate-u-turn-berm-bar/)"
+		]
+	},
+	"Snake Plate": {
+		"scope": "markdown",
+		"description": "Snake Plate",
+		"prefix": "sp",
+		"body": [
+			"[Snake Plate](/parts/snake_plate/)"
+		]
+	},
+	"The First Track": {
+		"scope": "markdown",
+		"description": "The First Track",
+		"prefix": "tft",
+		"body": [
+			"[The First Track](/parts/the_first_track/)"
+		]
+	},
+	"Third Placed Outer Spiral Support": {
+		"scope": "markdown",
+		"description": "Third Placed Outer Spiral Support",
+		"prefix": "3poss",
+		"body": [
+			"[Third Placed Outer Spiral Support](/parts/003p_third_placed_outer_spiral_support/)"
+		]
+	},
+	"Triple Splitter Small Feeder Inner Bar Lower Support": {
+		"scope": "markdown",
+		"description": "Triple Splitter Small Feeder Inner Bar Lower Support",
+		"prefix": "tssfibls",
+		"body": [
+			"[Triple Splitter Small Feeder Inner Bar Lower Support](/parts/triple-splitter-small-feeder-inner-bar-lower-support/)"
+		]
+	},
+	"Triple Splitter Small Feeder Inner Bar": {
+		"scope": "markdown",
+		"description": "Triple Splitter Small Feeder Inner Bar",
+		"prefix": "tssfib",
+		"body": [
+			"[Triple Splitter Small Feeder Inner Bar](/parts/triple-splitter-small-feeder-inner-bar/)"
+		]
+	},
+	"Triple Splitter Small Feeder Outer Bar Lower Support": {
+		"scope": "markdown",
+		"description": "Triple Splitter Small Feeder Outer Bar Lower Support",
+		"prefix": "tssfobls",
+		"body": [
+			"[Triple Splitter Small Feeder Outer Bar Lower Support](/parts/triple-splitter-small-feeder-outer-bar-lower-support/)"
+		]
+	},
+	"Triple Splitter Small Feeder Outer Bar": {
+		"scope": "markdown",
+		"description": "Triple Splitter Small Feeder Outer Bar",
+		"prefix": "tssfob",
+		"body": [
+			"[Triple Splitter Small Feeder Outer Bar](/parts/triple-splitter-small-feeder-outer-bar/)"
+		]
+	},
+	"Triple Splitter Small Feeder": {
+		"scope": "markdown",
+		"description": "Triple Splitter Small Feeder",
+		"prefix": "tssf",
+		"body": [
+			"[Triple Splitter Small Feeder](/parts/triple-splitter-small-feeder/)"
+		]
+	},
+	"Triple Splitter": {
+		"scope": "markdown",
+		"description": "Triple Splitter",
+		"prefix": "ts",
+		"body": [
+			"[Triple Splitter](/parts/triple_splitter/)"
+		]
+	},
+	"Two Ends Chopped Off Triple Splitter": {
+		"scope": "markdown",
+		"description": "Two Ends Chopped Off Triple Splitter",
+		"prefix": "tecots",
+		"body": [
+			"[Two Ends Chopped Off Triple Splitter](/parts/two-ends-chopped-off-triple-splitter/)"
+		]
+	},
+	"Upper Splitter off the Lowest Small-Medium Splitter": {
+		"scope": "markdown",
+		"description": "Upper Splitter off the Lowest Small-Medium Splitter",
+		"prefix": "usotlsms",
+		"body": [
+			"[Upper Splitter off the Lowest Small-Medium Splitter](/parts/upper_splitter_off_the_lowest_small-medium_splitter/)"
+		]
+	},
+	"the Lowest Small-Medium Splitter": {
+		"scope": "markdown",
+		"description": "the Lowest Small-Medium Splitter",
+		"prefix": "tlsms",
+		"body": [
+			"[the Lowest Small-Medium Splitter](/parts/the_lowest_small-medium_splitter/)"
+		]
+	},
+	"the Triple Splitter Small Marble Catcher": {
+		"scope": "markdown",
+		"description": "the Triple Splitter Small Marble Catcher",
+		"prefix": "ttssmc",
+		"body": [
+			"[the Triple Splitter Small Marble Catcher](/parts/the_triple_splitter_small_marble_catcher/)"
+		]
+	},
+	"\u5186\u5468\u87ba\u65cb": {
+		"scope": "markdown",
+		"description": "\u5186\u5468\u87ba\u65cb",
+		"prefix": "jos",
+		"body": [
+			"[\u5186\u5468\u87ba\u65cb](/parts/outer_spiral/)"
+		]
+	},
+	"Lowest Largest Backtrack": {
+		"scope": "markdown",
+		"description": "Lowest Largest Backtrack",
+		"prefix": "llb",
+		"body": [
+			"[Lowest Largest Backtrack](/parts/lowest-largest-backtrack/)"
+		]
+	},
+	"Triple Splitter Small Feeder Feeder": {
+		"scope": "markdown",
+		"description": "Triple Splitter Small Feeder Feeder",
+		"prefix": "tssff",
+		"body": [
+			"[Triple Splitter Small Feeder Feeder](/parts/triple-splitter-small-feeder-feeder/)"
+		]
+	},
+	"Caret Splitter Feeder Guider": {
+		"scope": "markdown",
+		"description": "Caret Splitter Feeder Guider",
+		"prefix": "csfg",
+		"body": [
+			"[Caret Splitter Feeder Guider](/parts/caret-splitter-feeder-guider/)"
+		]
+	},
+	"Caret Splitter Feeder Extension Reflection Protection": {
+		"scope": "markdown",
+		"description": "Caret Splitter Feeder Extension Reflection Protection",
+		"prefix": "csferp",
+		"body": [
+			"[Caret Splitter Feeder Extension Reflection Protection](/parts/caret-splitter-feeder-extension-reflection-protection/)"
+		]
+	},
+	"Lower Zig Zag 3 ban Lower Support": {
+		"scope": "markdown",
+		"description": "Lower Zig Zag 3 ban Lower Support",
+		"prefix": "lzz3bls",
+		"body": [
+			"[Lower Zig Zag 3 ban Lower Support](/parts/lower-zig-zag-3-ban-lower-support/)"
+		]
+	},
+	"Lowest Largest U-turn Berm": {
+		"scope": "markdown",
+		"description": "Lowest Largest U-turn Berm",
+		"prefix": "llutb",
+		"body": [
+			"[Lowest Largest U-turn Berm](/parts/lowest-largest-u-turn-berm/)"
+		]
+	},
+	"Caret Splitter Feeder Extension Reflection Protection Holders": {
+		"scope": "markdown",
+		"description": "Caret Splitter Feeder Extension Reflection Protection Holders",
+		"prefix": "csferph",
+		"body": [
+			"[Caret Splitter Feeder Extension Reflection Protection Holders](/parts/caret-splitter-feeder-extension-reflection-protection-holders/)"
+		]
+	},
+	"Caret Splitter Feeder Extension Reflection Protection Upper Holder": {
+		"scope": "markdown",
+		"description": "Caret Splitter Feeder Extension Reflection Protection Upper Holder",
+		"prefix": "csferpuh",
+		"body": [
+			"[Caret Splitter Feeder Extension Reflection Protection Upper Holder](/parts/caret-splitter-feeder-extension-reflection-protection-upper-holder/)"
+		]
+	},
+	"Caret Splitter Feeder Guider Lower Supporter": {
+		"scope": "markdown",
+		"description": "Caret Splitter Feeder Guider Lower Supporter",
+		"prefix": "csfgls",
+		"body": [
+			"[Caret Splitter Feeder Guider Lower Support](/parts/caret-splitter-feeder-guider-lower-supporter/)"
+		]
+	},
+	"Caret Splitter Feeder Lefter Guider": {
+		"scope": "markdown",
+		"description": "Caret Splitter Feeder Lefter Guider",
+		"prefix": "csflg",
+		"body": [
+			"[Caret Splitter Feeder Lefter Guider](/parts/caret-splitter-feeder-lefter-guider/)"
+		]
+	},
+	"Caret Splitter Feeder Righter Guider": {
+		"scope": "markdown",
+		"description": "Caret Splitter Feeder Righter Guider",
+		"prefix": "csfrg",
+		"body": [
+			"[Caret Splitter Feeder Righter Guider](/parts/caret-splitter-feeder-righter-guider/)"
+		]
+	},
+	"Caret Splitter Feeder Guider Upper Supporter": {
+		"scope": "markdown",
+		"description": "Caret Splitter Feeder Guider Upper Supporter",
+		"prefix": "csfgus",
+		"body": [
+			"[Caret Splitter Feeder Guider Upper Supporter](/parts/caret-splitter-feeder-guider-upper-supporter/)"
+		]
+	},
+	"Caret Splitter Feeder Extension Reflection Protection Lower Holder": {
+		"scope": "markdown",
+		"description": "Caret Splitter Feeder Extension Reflection Protection Lower Holder",
+		"prefix": "csferplh",
+		"body": [
+			"[Caret Splitter Feeder Extension Reflection Protection Lower Holder](/parts/caret-splitter-feeder-extension-reflection-protection-lower-holder/)"
+		]
+	},
+	"Zeroth_placed_outer_spiral_support": {
+		"scope": "markdown",
+		"description": "000p_zeroth_placed_outer_spiral_support",
+		"prefix": "0poss",
+		"body": [
+			"[zeroth_placed_outer_spiral_support](/parts/zeroth_placed_outer_spiral_support/)"
+		]
+	},
+	"Tenth Placed Outer Spiral Support": {
+		"scope": "markdown",
+		"description": "Tenth Placed Outer Spiral Support",
+		"prefix": "10poss",
+		"body": [
+			"[Tenth Placed Outer Spiral Support](/parts/tenth-placed-outer-spiral-support/)"
+		]
+	},
+	"el Lifty Lever": {
+		"scope": "markdown",
+		"description": "el Lifty Lever",
+		"prefix": "eLL",
+		"body": [
+			"[el Lifty Lever](/parts/el-lifty-lever/)"
+		]
+	},
+	"Caret Splitter Rudder Lever Spinner": {
+		"scope": "markdown",
+		"description": "Caret Splitter Rudder Lever Spinner",
+		"prefix": "csrls",
+		"body": [
+			"[Caret Splitter Rudder Lever Spinner](/parts/caret-splitter-rudder-lever-spinner/)"
+		]
+	},
+	"Below Lower Zig Zag U-turn": {
+		"scope": "markdown",
+		"description": "Below Lower Zig Zag U-turn",
+		"prefix": "blzzut",
+		"body": [
+			"[Below Lower Zig Zag U-turn](/parts/below-lower-zig-zag-u-turn/)"
+		]
+	},
+	"The Grand Archway": {
+		"scope": "markdown",
+		"description": "The Grand Archway",
+		"prefix": "tga",
+		"body": [
+			"[The Grand Archway](/parts/the-grand-archway/)"
+		]
+	},
+	"Caret Splitter Lever": {
+		"scope": "markdown",
+		"description": "Caret Splitter Lever",
+		"prefix": "csl",
+		"body": [
+			"[Caret Splitter Lever](/parts/caret-splitter-lever/)"
+		]
+	},
+	"Eleventh placed Outer Spiral Support": {
+		"scope": "markdown",
+		"description": "Eleventh placed Outer Spiral Support",
+		"prefix": "11poss",
+		"body": [
+			"[Eleventh placed Outer Spiral Support](/parts/eleventh-placed-outer-spiral-support/)"
+		]
+	},
+	"el Lifty Lever Guider": {
+		"scope": "markdown",
+		"description": "el Lifty Lever Guider",
+		"prefix": "ellg",
+		"body": [
+			"[el Lifty Lever Guider](/parts/el-lifty-lever-guider/)"
+		]
+	},
+	"Lower Zig Zag 3F 2F Net": {
+		"scope": "markdown",
+		"description": "Lower Zig Zag 3F 2F Net",
+		"prefix": "lzz32n",
+		"body": [
+			"[Lower Zig Zag 3F 2F Net](/parts/lower-zig-zag-3f-2f-net/)"
+		]
+	},
+	"Lower Zig Zag Triple Splitter Small Feeder Separator": {
+		"scope": "markdown",
+		"description": "Lower Zig Zag Triple Splitter Small Feeder Separator",
+		"prefix": "lzztssfs",
+		"body": [
+			"[Lower Zig Zag Triple Splitter Small Feeder Separator](/parts/lower-zig-zag-triple-splitter-small-feeder-separator/)"
+		]
+	},
+	"Twelfth placed Outer Spiral Support": {
+		"scope": "markdown",
+		"description": "Twelfth placed Outer Spiral Support",
+		"prefix": "12poss",
+		"body": [
+			"[Twelfth placed Outer Spiral Support](/parts/twelfth-placed-outer-spiral-support/)"
+		]
+	},
+	"Lower Zig Zag 2F Bouncer": {
+		"scope": "markdown",
+		"description": "Lower Zig Zag 2F Bouncer",
+		"prefix": "lzz2fb",
+		"body": [
+			"[Lower Zig Zag 2F Bouncer](/parts/lower-zig-zag-2f-bouncer/)"
+		]
+	},
+	"Triple Splitter Medium Catcher Ridge": {
+		"scope": "markdown",
+		"description": "Triple Splitter Medium Catcher Ridge",
+		"prefix": "tsmcr",
+		"body": [
+			"[Triple Splitter Medium Catcher Ridge](/parts/triple-splitter-medium-catcher-ridge/)"
+		]
+	},
+	"The Lowest Longest Separator": {
+		"scope": "markdown",
+		"description": "The Lowest Longest Separator",
+		"prefix": "tlls",
+		"body": [
+			"[The Lowest Longest Separator](/parts/the-lowest-longest-separator/)"
+		]
+	},
+	"Caret Splitter Feeder Extension Reflection Lower Right Protection": {
+		"scope": "markdown",
+		"description": "Caret Splitter Feeder Extension Reflection Lower Right Protection",
+		"prefix": "csferlrp",
+		"body": [
+			"[Caret Splitter Feeder Extension Reflection Lower Right Protection](/parts/caret-splitter-feeder-extension-reflection-lower-right-protection/)"
+		]
+	},
+	"Caret Splitter Feeder Extension Reflection Lower Left Protection": {
+		"scope": "markdown",
+		"description": "Caret Splitter Feeder Extension Reflection Lower Left Protection",
+		"prefix": "csferllp",
+		"body": [
+			"[Caret Splitter Feeder Extension Reflection Lower Left Protection](/parts/caret-splitter-feeder-extension-reflection-lower-left-protection/)"
+		]
+	},
+	"Second Circle Below Caret Splitter": {
+		"scope": "markdown",
+		"description": "Second Circle Below Caret Splitter",
+		"prefix": "scbcs",
+		"body": [
+			"[Second Circle Below Caret Splitter](/parts/second-circle-below-caret-splitter/)"
+		]
+	},
+	"Lower Small Medium Splitter Inner Thinner Keeper": {
+		"scope": "markdown",
+		"description": "Lower Small Medium Splitter Inner Thinner Keeper",
+		"prefix": "lsmsitk",
+		"body": [
+			"[Lower Small Medium Splitter Inner Thinner Keeper](/parts/lower-small-medium-splitter-inner-thinner-keeper/)"
+		]
+	},
+	"Second Bridge Supports": {
+		"scope": "markdown",
+		"description": "Second Bridge Supports",
+		"prefix": "2bs",
+		"body": [
+			"[Second Bridge Supports](/parts/second-bridge-supports/)"
+		]
+	},
+	"Second Bridge Level 1": {
+		"scope": "markdown",
+		"description": "Second Bridge Level 1",
+		"prefix": "2bl1",
+		"body": [
+			"[Second Bridge Level 1](/parts/second-bridge-level-1/)"
+		]
+	},
+	"2nd bridge bridge level 1": {
+		"scope": "markdown",
+		"description": "2nd bridge bridge level 1",
+		"prefix": "2bbl1",
+		"body": [
+			"[2nd bridge bridge level 1](/parts/2nd-bridge-bridge-level-1/)"
+		]
+	},
+	"Thirteenth Placed Outer Spiral Support": {
+		"scope": "markdown",
+		"description": "Thirteenth Placed Outer Spiral Support",
+		"prefix": "13poss",
+		"body": [
+			"[Thirteenth Placed Outer Spiral Support](/parts/thirteenth-placed-outer-spiral-support/)"
+		]
+	},
+	"El Bander\u00edn": {
+		"scope": "markdown",
+		"description": "El Bander\u00edn",
+		"prefix": "eb",
+		"body": [
+			"[El Bander\u00edn](/parts/el-bander\u00edn/)"
+		]
+	},
+	"Lower Zig Zag 2F Guardrails": {
+		"scope": "markdown",
+		"description": "Lower Zig Zag 2F Guardrails",
+		"prefix": "lzz2fg",
+		"body": [
+			"[Lower Zig Zag 2F Guardrails](/parts/lower-zig-zag-2f-guardrails/)"
+		]
+	},
+	"Fourteenth Placed Outer Spiral Support": {
+		"scope": "markdown",
+		"description": "Fourteenth Placed Outer Spiral Support",
+		"prefix": "14poss",
+		"body": [
+			"[Fourteenth Placed Outer Spiral Support](/parts/fourteenth-placed-outer-spiral-support/)"
+		]
+	},
+	"Lower Left Side Arch": {
+		"scope": "markdown",
+		"description": "Lower Left Side Arch",
+		"prefix": "llsa",
+		"body": [
+			"[Lower Left Side Arch](/parts/lower-left-side-arch/)"
+		]
+	},
+	"Lower Zig Zag 1F Inner Rails": {
+		"scope": "markdown",
+		"description": "Lower Zig Zag 1F Inner Rails",
+		"prefix": "lzz1fir",
+		"body": [
+			"[Lower Zig Zag 1F Inner Rails](/parts/lower-zig-zag-1f-inner-rails/)"
+		]
+	},
+	"Fifteenth Placed Outer Spiral Support": {
+		"scope": "markdown",
+		"description": "Fifteenth Placed Outer Spiral Support",
+		"prefix": "15poss",
+		"body": [
+			"[Fifteenth Placed Outer Spiral Support](/parts/fifteenth-placed-outer-spiral-support/)"
+		]
+	},
+	"Caret Splitter Right Hand Side Inner Guider": {
+		"scope": "markdown",
+		"description": "Caret Splitter Right Hand Side Inner Guider",
+		"prefix": "csrhsig",
+		"body": [
+			"[Caret Splitter Right Hand Side Inner Guider](/parts/caret-splitter-right-hand-side-inner-guider/)"
+		]
+	},
+	"Caret Splitter Right Hand Side Outer Guider": {
+		"scope": "markdown",
+		"description": "Caret Splitter Right Hand Side Outer Guider",
+		"prefix": "csrhsog",
+		"body": [
+			"[Caret Splitter Right Hand Side Outer Guider](/parts/caret-splitter-right-hand-side-outer-guider/)"
+		]
+	},
+	"Lower Zig Zag 3F Net Affector": {
+		"scope": "markdown",
+		"description": "Lower Zig Zag 3F Net Affector",
+		"prefix": "lzz3fna",
+		"body": [
+			"[Lower Zig Zag 3F Net Affector](/parts/lower-zig-zag-3f-net-affector/)"
+		]
+	},
+	"The Third Arch": {
+		"scope": "markdown",
+		"description": "The Third Arch",
+		"prefix": "3rda",
+		"body": [
+			"[The Third Arch](/parts/the-third-arch/)"
+		]
+	},
+	"DC 48": {
+		"scope": "markdown",
+		"description": "DC 48",
+		"prefix": "dc48",
+		"body": [
+			"[DC 48](/parts/dc-48/)"
+		]
+	},
+	"Paul": {
+		"scope": "markdown",
+		"description": "Paul",
+		"prefix": "paul",
+		"body": [
+			"[Paul](/parts/paul/)"
+		]
+	},
+	"Zog": {
+		"scope": "markdown",
+		"description": "Zog",
+		"prefix": "zog",
+		"body": [
+			"[Zog](/parts/zog/)"
+		]
+	},
+	"Sixteenth Placed Outer Spiral Support": {
+		"scope": "markdown",
+		"description": "Sixteenth Placed Outer Spiral Support",
+		"prefix": "16poss",
+		"body": [
+			"[Sixteenth Placed Outer Spiral Support](/parts/sixteenth-placed-outer-spiral-support/)"
+		]
+	},
+	"Seventeenth Placed Outer Spiral Support": {
+		"scope": "markdown",
+		"description": "Seventeenth Placed Outer Spiral Support",
+		"prefix": "17poss",
+		"body": [
+			"[Seventeenth Placed Outer Spiral Support](/parts/seventeenth-placed-outer-spiral-support/)"
+		]
+	},
+	"Lower Zig Zag 3F Rails": {
+		"scope": "markdown",
+		"description": "Lower Zig Zag 3F Rails",
+		"prefix": "lzz3fr",
+		"body": [
+			"[Lower Zig Zag 3F Rails](/parts/lower-zig-zag-3f-rails/)"
+		]
+	},
+	"Zog Rails Support": {
+		"scope": "markdown",
+		"description": "Zog Rails Support",
+		"prefix": "zogrs",
+		"body": [
+			"[Zog Rails Support](/parts/zog-rails-support/)"
+		]
+	},
+	"Zog Rails": {
+		"scope": "markdown",
+		"description": "Zog Rails",
+		"prefix": "zogr",
+		"body": [
+			"[Zog Rails](/parts/zog-rails/)"
+		]
+	},
+	"Triple Splitter Small Feeder Inner Guider": {
+		"scope": "markdown",
+		"description": "Triple Splitter Small Feeder Inner Guider",
+		"prefix": "tssfig",
+		"body": [
+			"[Triple Splitter Small Feeder Inner Guider](/parts/triple-splitter-small-feeder-inner-guider/)"
+		]
+	},
+	"Eighteenth Placed Outer Spiral Support": {
+		"scope": "markdown",
+		"description": "Eighteenth Placed Outer Spiral Support",
+		"prefix": "18poss",
+		"body": [
+			"[Eighteenth Placed Outer Spiral Support](/parts/eighteenth-placed-outer-spiral-support/)"
+		]
+	},
+	"Nineteenth Placed Outer Spiral Support": {
+		"scope": "markdown",
+		"description": "Nineteenth Placed Outer Spiral Support",
+		"prefix": "19poss",
+		"body": [
+			"[Nineteenth Placed Outer Spiral Support](/parts/nineteenth-placed-outer-spiral-support/)"
+		]
+	}
+}
+
