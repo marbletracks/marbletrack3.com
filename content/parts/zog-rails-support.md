@@ -9,6 +9,7 @@ workers = [
     "candy",
 ]
 aliases = [
+    "/p/zrs",
     "/p/zogrs"
 ]
 date = 2022-03-08T16:25:03+09:00
@@ -21,6 +22,11 @@ with its foot between [Left Side Small Landing Zone](/parts/left_side_small_land
 and the [Lower Curver off the Lowest Small-Medium Splitter](/parts/lower_curver_off_the_lowest_small-medium_splitter/).
 
 History:
+
+* 2022 Apr 27: Mr McGlue heads over to glue it once [Doctor Sugar](/workers/dr_sugar/) holds it
+
+[![2022 apr 27 or so mr mcglue finished 18poss](//b.robnugen.com/art/marble_track_3/construction/2022/thumbs/2022_apr_27_or_so_mr_mcglue_finished_18poss.jpg)](//b.robnugen.com/art/marble_track_3/construction/2022/2022_apr_27_or_so_mr_mcglue_finished_18poss.jpg)
+
 
 * 2022 Mar 15: [Candy Mama](/workers/candy_mama/) reached the top of the first ramp.
 
