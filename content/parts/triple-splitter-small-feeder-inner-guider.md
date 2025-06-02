@@ -21,6 +21,10 @@ toward the lower end of the [Triple Splitter Small Feeder Inner Bar](/parts/trip
 
 History:
 
+* 2025 Jun 02: forceps hold the piece together while glue dries
+
+[![2025 jun 02 glue drying on triple splitter small feeder 1000](//b.robnugen.com/art/marble_track_3/track/parts/2025/thumbs/2025_jun_02_glue_drying_on_triple_splitter_small_feeder.jpeg)](//b.robnugen.com/art/marble_track_3/track/parts/2025/2025_jun_02_glue_drying_on_triple_splitter_small_feeder_1000.jpeg)
+
 * 2022 Apr 05: [G Choppy](/workers/g_choppy/) begins to curve the piece
 
 [![2022 apr 05 gchoppy curving tssfig](//b.robnugen.com/art/marble_track_3/construction/2022/thumbs/2022_apr_05_gchoppy_curving_tssfig.jpg)](//b.robnugen.com/art/marble_track_3/construction/2022/2022_apr_05_gchoppy_curving_tssfig.jpg)
