@@ -15,7 +15,7 @@ so that I could begin moving them properly.
 The trickiest part was getting [G Choppy](/workers/g_choppy/) in place as he is curving the [Triple Splitter Small Feeder Inner Guider](/parts/triple-splitter-small-feeder-inner-guider/)
 
 It was quite a thrill once I took the first frame that would be used
-in the video and I kept hiding and deleting and retaking it about six
+in the video.. though I kept hiding and retaking it six
 times before I was happy with it. Altogether I took 11 frames and kept
 five of them.
 
