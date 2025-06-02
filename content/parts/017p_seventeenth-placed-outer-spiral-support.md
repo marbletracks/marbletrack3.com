@@ -13,6 +13,7 @@ workers = [
 aliases = [
     "/p/17poss"
 ]
+url = "/parts/seventeenth-placed-outer-spiral-support/"
 date = 2021-07-27T18:47:44+09:00
 +++
 

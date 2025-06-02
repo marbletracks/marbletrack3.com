@@ -12,6 +12,7 @@ workers = [
 aliases = [
     "/p/18poss"
 ]
+url = "/parts/eighteenth-placed-outer-spiral-support/"
 date = 2022-03-08T16:03:52+09:00
 +++
 
@@ -20,6 +21,10 @@ installed quite close to the edge of the stage, near the top of the
 [Triple Splitter](/parts/triple_splitter/).
 
 History:
+
+* 2025 Jun 02 After [Mr Greene](/workers/mr_greene/) walks down the 3rd ramp
+
+[![2025 jun 02 18th placed outer spiral support 1000](//b.robnugen.com/art/marble_track_3/track/parts/2025/thumbs/2025_jun_02_18th_placed_outer_spiral_support.jpeg)](//b.robnugen.com/art/marble_track_3/track/parts/2025/2025_jun_02_18th_placed_outer_spiral_support_1000.jpeg)
 
 * 2022 Apr 05: nearly glued by [Mr McGlue](/workers/mr_mcglue/)
 

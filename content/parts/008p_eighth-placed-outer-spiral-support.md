@@ -13,6 +13,7 @@ workers = [
 aliases = [
     "/p/8poss"
 ]
+url = "/parts/eighth-placed-outer-spiral-support/"
 date = 2019-01-13T02:12:32+09:00
 +++
 
