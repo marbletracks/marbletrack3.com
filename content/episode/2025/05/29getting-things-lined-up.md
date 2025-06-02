@@ -12,7 +12,7 @@ In Real Life, I moved, changed jobs, started a book, and more, all
 while Marble Track 3 waited patiently!  Most importantly, the camera
 and set stayed intact while I moved.  It took a while to get the
 camera pointing in the right direction, but that was the ahem, focus
-of this livestram.
+of this livestream.
 
 After just over three years of chilling, Marble Track 3 construction is back!
 
