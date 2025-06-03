@@ -20,6 +20,6 @@ Sometimes he just curves pieces, and I don't have a clear timing on how long tha
 
 But cuts are essentially binary.  A piece is either cut or not cut, so it takes 1/4 of a second before the cut to prepare to cut.
 
-G Choppy, then known as "the green cutter", was in the first attempt at marble track 3 movie from back 6 years ago or so.
+G Choppy, then known as "the green cutter", was in the first attempt at marble track 3 movie from 2012 so.
 
 As of this writing (Nov 2018) G Choppy has just cut the fourth chopstick which will support the [Outer Spiral](/parts/outer_spiral/).  It is quite close to the beginning of the outer spiral, listing at an angle near the [Lowest Largest U-turn](/parts/lowest_largest_u_turn/).
