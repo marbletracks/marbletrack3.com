@@ -50,3 +50,5 @@ definitely not use:
 [![00010 002 11 X1 1428 1000](//b.robnugen.com/art/marble_track_3/frames/2025/thumbs/00010_002_11_X1_1428.jpg)](//b.robnugen.com/art/marble_track_3/frames/2025/00010_002_11_X1_1428_1000.jpg)
 [![00010 002 11 X1 1429 1000](//b.robnugen.com/art/marble_track_3/frames/2025/thumbs/00010_002_11_X1_1429.jpg)](//b.robnugen.com/art/marble_track_3/frames/2025/00010_002_11_X1_1429_1000.jpg)
 [![00010 002 11 X1 1430 1000](//b.robnugen.com/art/marble_track_3/frames/2025/thumbs/00010_002_11_X1_1430.jpg)](//b.robnugen.com/art/marble_track_3/frames/2025/00010_002_11_X1_1430_1000.jpg)
+
+Oh and I just noticed in the photos, [Super Spoony](/workers/super_spoony/) is coming in to pick up the big green marble from [The First Track](/parts/the_first_track/), carry it up the ramp, and place it on [Triple Splitter](/parts/triple_splitter/) when it comes around agin.

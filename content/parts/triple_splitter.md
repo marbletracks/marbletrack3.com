@@ -10,6 +10,7 @@ workers = [
 	"reversible",
 	"candy_mama",
 	"squarehead",
+	"spoon",
 	"mr_greene"
 ]
 Aliases = [
