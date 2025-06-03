@@ -14,7 +14,7 @@ Spiral which will not have legs holding it up in place, but an upper
 structure that holds it intact as it rests on the existing supports
 while the remaining supports are put into place.
 
-This will allow me to more easily measure upcoming 19poss and 20poss,
+This will allow me to more easily measure upcoming [Nineteenth Placed Outer Spiral Support](/parts/nineteenth-placed-outer-spiral-support/) and 20poss,
 plus all the subsequent Outer Spiral supports.
 
 As of this writing, I have drawn a circle on paper (by tracing around
