@@ -9,7 +9,7 @@ workers = [
 	"brothers",
 	"big_brother",
 	"lil_brother",
-	"spoon",
+	"super_spoony",
 	"candy_mama"
 ]
 Aliases = [
