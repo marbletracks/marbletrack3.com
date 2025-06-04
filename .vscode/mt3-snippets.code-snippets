@@ -642,6 +642,14 @@
 			"[Lowest Largest Backtrack](/parts/lowest-largest-backtrack/)"
 		]
 	},
+	"Small Marble Saver": {
+		"scope": "markdown",
+		"description": "Prevents small marbles from falling off the track before Decorative Walls after the Lowest Small-Medium Splitter",
+		"prefix": "sms",
+		"body": [
+			"[Small Marble Saver](/parts/small-marble-saver/)"
+		]
+	},
 	"Triple Splitter Small Feeder Feeder": {
 		"scope": "markdown",
 		"description": "Triple Splitter Small Feeder Feeder",
@@ -1072,6 +1080,14 @@
 		"prefix": "tssfig",
 		"body": [
 			"[Triple Splitter Small Feeder Inner Guider](/parts/triple-splitter-small-feeder-inner-guider/)"
+		]
+	},
+	"Triple Splitter Small Feeder Outer Guider": {
+		"scope": "markdown",
+		"description": "Triple Splitter Small Feeder Outer Guider",
+		"prefix": "tssfog",
+		"body": [
+			"[Triple Splitter Small Feeder Outer Guider](/parts/triple-splitter-small-feeder-outer-guider/)"
 		]
 	},
 	"Eighteenth Placed Outer Spiral Support": {
