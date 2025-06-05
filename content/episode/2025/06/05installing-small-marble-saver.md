@@ -8,15 +8,15 @@ episode_thumbnail: "https://b.robnugen.com/art/marble_track_3/construction/2025/
 date: 2025-06-05T13:08:30+09:00
 ---
 
-In addition to MrG bringing sms to GC for adjustments, cM is bringing
-19poss and 20poss to the stage, which is rotating just a bit too far
-for her to get 19poss to the correct spot.  MMG is going to be busy
+In addition to [Mr Greene](/workers/mr_greene/) bringing [Small Marble Saver](/parts/small-marble-saver/) to [G Choppy](/workers/g_choppy/) for adjustments, [Candy Mama](/workers/candy_mama/) is bringing
+[Nineteenth Placed Outer Spiral Support](/parts/nineteenth-placed-outer-spiral-support/) and [Twentieth Placed Outer Spiral Support](/parts/twentieth-placed-outer-spiral-support/) to the stage, which is rotating just a bit too far
+for her to get [Nineteenth Placed Outer Spiral Support](/parts/nineteenth-placed-outer-spiral-support/) to the correct spot.  [Mr McGlue](/workers/mr_mcglue/) is going to be busy
 for a bit anyway, so someone else will probably help hold the pieces
-in place.  This will likely be DS who is going to help SQH now, who RG
+in place.  This will likely be [Doctor Sugar](/workers/dr_sugar/) who is going to help [Squarehead](/workers/squarehead/) now, who [Reversible Guy](/workers/reversible/)
 cannot lift, but has been trying!
 
-Pinky has just gotten her hands on the tssfig to lift it into place.
-MMG is turning toward where sms will be placed.
+[Pinky](/workers/pinky/) has just gotten her hands on the [Triple Splitter Small Feeder Inner Guider](/parts/triple-splitter-small-feeder-inner-guider/) to lift it into place.
+[Mr McGlue](/workers/mr_mcglue/) is turning toward where [Small Marble Saver](/parts/small-marble-saver/) will be placed.
 
 Here are the frames taken today:
 
