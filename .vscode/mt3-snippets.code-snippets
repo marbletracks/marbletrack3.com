@@ -1105,6 +1105,14 @@
 		"body": [
 			"[Nineteenth Placed Outer Spiral Support](/parts/nineteenth-placed-outer-spiral-support/)"
 		]
+	},
+	"Twentieth Placed Outer Spiral Support": {
+		"scope": "markdown",
+		"description": "Twentieth Placed Outer Spiral Support",
+		"prefix": "20poss",
+		"body": [
+			"[Twentieth Placed Outer Spiral Support](/parts/twentieth-placed-outer-spiral-support/)"
+		]
 	}
 }
 
