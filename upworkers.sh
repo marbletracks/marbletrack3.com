@@ -3,7 +3,9 @@
 
 THISYEAR=$(date +'%Y')
 
-scp $@ b.rn:mt3/workers/$THISYEAR
+ssh b.rn "mkdir -p b.robnugen.com/art/marble_track_3/workers/$THISYEAR/"
+
+scp $@ b.rn:b.robnugen.com/art/marble_track_3/workers/$THISYEAR
 
 echo creating thumbnails
 ssh b.rn "scripts/create_thumbs.pl /home/thundergoblin/b.robnugen.com/art/marble_track_3/workers/$THISYEAR"
