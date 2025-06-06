@@ -4,7 +4,7 @@ tags: [ "restart", "livestream" ]
 author: Rob Nugen
 youtube: GG5dw7NPRGI
 episode_image: https://b.robnugen.com/art/marble_track_3/track/parts/2025/2025_jun_02_glue_drying_on_triple_splitter_small_feeder_1000.jpeg
-episode_thumbnail: "https://b.robnugen.com/art/marble_track_3/track/parts/2025/thumbs/2025_jun_02_glue_drying_on_triple_splitter_small_feeder_1000.jpeg"
+episode_thumbnail: "https://b.robnugen.com/art/marble_track_3/track/parts/2025/thumbs/2025_jun_02_glue_drying_on_triple_splitter_small_feeder.jpeg"
 date: 2025-06-02T21:47:31+09:00
 ---
 

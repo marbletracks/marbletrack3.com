@@ -4,7 +4,7 @@ tags: [ "livestream" ]
 author: Rob Nugen
 youtube: Gun9mgtWzdE
 episode_image: https://b.robnugen.com/art/marble_track_3/construction/2025/2025_jun_05_mr_greene_g_choppy_pinky_mr_mcglue_dr_sugar_reversible_guy_squarehead_candy_mama_1000.jpeg
-episode_thumbnail: "https://b.robnugen.com/art/marble_track_3/construction/2025/thumbs/2025_jun_05_mr_greene_g_choppy_pinky_mr_mcglue_dr_sugar_reversible_guy_squarehead_candy_mama_1000.jpeg"
+episode_thumbnail: "https://b.robnugen.com/art/marble_track_3/construction/2025/thumbs/2025_jun_05_mr_greene_g_choppy_pinky_mr_mcglue_dr_sugar_reversible_guy_squarehead_candy_mama.jpeg"
 date: 2025-06-05T13:08:30+09:00
 ---
 

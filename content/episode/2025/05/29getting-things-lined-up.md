@@ -4,7 +4,7 @@ tags: [ "meta", "moved", "camera", "angle" ]
 author: Rob Nugen
 youtube: jySdgLy2qUI
 episode_image: https://b.robnugen.com/art/marble_track_3/construction/2025/2025_jun_02_set_up_in_yurigaoka_studio_1000.jpeg
-episode_thumbnail: "https://b.robnugen.com/art/marble_track_3/construction/2025/thumbs/2025_jun_02_set_up_in_yurigaoka_studio_1000.jpeg"
+episode_thumbnail: "https://b.robnugen.com/art/marble_track_3/construction/2025/thumbs/2025_jun_02_set_up_in_yurigaoka_studio.jpeg"
 date: 2025-05-29T03:26:58+09:00
 ---
 

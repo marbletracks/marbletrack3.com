@@ -4,7 +4,7 @@ tags: [ "livestream", "photos", "sms" ]
 author: Rob Nugen
 youtube: pZYEZgVlaJU
 episode_image: https://b.robnugen.com/art/marble_track_3/construction/2025/2025_jun_04_mr_greene_and_candy_mama_1000.jpeg
-episode_thumbnail: "https://b.robnugen.com/art/marble_track_3/construction/2025/thumbs/2025_jun_04_mr_greene_and_candy_mama_1000.jpeg"
+episode_thumbnail: "https://b.robnugen.com/art/marble_track_3/construction/2025/thumbs/2025_jun_04_mr_greene_and_candy_mama.jpeg"
 date: 2025-06-04T20:00:35+09:00
 ---
 

@@ -29,6 +29,9 @@ History:
 
 [![2022 apr 27 or so mr mcglue finished 18poss](//b.robnugen.com/art/marble_track_3/construction/2022/thumbs/2022_apr_27_or_so_mr_mcglue_finished_18poss.jpg)](//b.robnugen.com/art/marble_track_3/construction/2022/2022_apr_27_or_so_mr_mcglue_finished_18poss.jpg)
 
+* 2022 Apr 05: [Doctor Sugar](/workers/dr_sugar/) holding Zog Rails Support before it was misidentified ad [Eighteenth Placed Outer Spiral Support](/parts/eighteenth-placed-outer-spiral-support/)
+
+[![2022 apr 05 doctor sugar holding zog rails support 1000](//b.robnugen.com/art/marble_track_3/construction/2025/thumbs/2022_apr_05_doctor_sugar_holding_zog_rails_support.jpg)](//b.robnugen.com/art/marble_track_3/construction/2025/2022_apr_05_doctor_sugar_holding_zog_rails_support_1000.jpg)
 
 * 2022 Mar 15: [Candy Mama](/workers/candy_mama/) reached the top of the first ramp.
 

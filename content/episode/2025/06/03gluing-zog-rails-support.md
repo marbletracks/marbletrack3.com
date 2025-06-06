@@ -4,7 +4,7 @@ tags: [ "zrs", "livestream", "2025" ]
 author: Rob Nugen
 youtube: YYreI7DfthU
 episode_image: https://b.robnugen.com/art/marble_track_3/construction/2025/2025_jun_03_extended_range_of_sky_support_1000.jpeg
-episode_thumbnail: "https://b.robnugen.com/art/marble_track_3/construction/2025/thumbs/2025_jun_03_extended_range_of_sky_support_1000.jpeg"
+episode_thumbnail: "https://b.robnugen.com/art/marble_track_3/construction/2025/thumbs/2025_jun_03_extended_range_of_sky_support.jpeg"
 date: 2025-06-03T18:33:25+09:00
 ---
 
