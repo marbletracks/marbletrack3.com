@@ -15,15 +15,27 @@ aliases = [
 date = 2020-06-09T16:27:11+09:00
 +++
 
+(not to be confused with the shorter (and lower)
+[Bar Below Circle by Caret Splitter](/parts/bar_below_circle_by_the_caret_splitter/).)
+
 Glued to [Second Circle Below Caret Splitter](/parts/second-circle-below-caret-splitter/), this long bamboo piece extends to
 [Third Placed Outer Spiral Support](/parts/003p_third_placed_outer_spiral_support/)
 and has a
-slight angle as it passes the [Lower Curver off the Lowest Small-Medium Splitter](/parts/lower_curver_off_the_lowest_small-medium_splitter/) so it can be closer to the
+slight(!) angle as it passes the [Lower Curver off the Lowest Small-Medium Splitter](/parts/lower_curver_off_the_lowest_small-medium_splitter/) which brings it closer to the
 small marbles.
 
 This piece keeps small marbles on
 [the Lowest Small-Medium Splitter](/parts/the_lowest_small-medium_splitter/)
-from falling to [The First Track](/parts/the_first_track/)
+from falling to [The First Track](/parts/the_first_track/) along [The First Track](/parts/the_first_track/)'s *entire* length (which [Bar Below Circle by Caret Splitter](/parts/bar_below_circle_by_the_caret_splitter/) was too short to do).
+
+Starting from the front of the track, near the [Caret Splitter](/parts/caret-splitter/),
+The Lowest Longest Separator
+passes below the
+[Lower Curver off the Lowest Small-Medium Splitter](/parts/lower_curver_off_the_lowest_small-medium_splitter/),
+two thirds (2/3) of the way along its length.
+
+Its lower end *almost* touches the
+[Third Placed Outer Spiral Support](/parts/003p_third_placed_outer_spiral_support/).
 
 History:
 

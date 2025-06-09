@@ -15,9 +15,16 @@ Aliases = [
 date = 2018-12-25T13:44:03+09:00
 +++
 
-This thin bamboo bar keeps small marbles on the left side of the [Caret Splitter](/parts/caret-splitter/) from falling onto [The First Track](/parts/the_first_track/).
+(not to be confused with the higher (and longer) [Lowest Longest Separator](/parts/the-lowest-longest-separator/))
 
-It connects to the [the Lowest Small-Medium Splitter](/parts/the_lowest_small-medium_splitter/), halfway along its length, starting from the front of the track, near the [Caret Splitter](/parts/caret-splitter/).
+This thin bamboo bar hoped to keep small marbles on the left side of the [Caret Splitter](/parts/caret-splitter/) from falling onto [The First Track](/parts/the_first_track/).
+
+It runs below [First Snake-Installed Rail](/parts/first_snake-installed_rail/), from which extends [the Lowest Small-Medium Splitter](/parts/the_lowest_small-medium_splitter/).
+
+Bar Below Circle by Caret Splitter
+turned out to be insufficiently long
+to keep small marbles on
+[the Lowest Small-Medium Splitter](/parts/the_lowest_small-medium_splitter/), so [The Lowest Longest Separator](/parts/the-lowest-longest-separator/) was installed above it.
 
 History:
 
