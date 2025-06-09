@@ -3,7 +3,7 @@ title = "Twentieth Placed Outer Spiral Support"
 type = "parts"
 tags = [ "bamboo", "vertical" ]
 image = "https://b.robnugen.com/art/marble_track_3/track/parts/2025/2025_jun_05_candy_mama_brings_19_20poss_1000.jpeg"
-thumbnail = "https://b.robnugen.com/art/marble_track_3/track/parts/2025/thumbs/2025_jun_05_candy_mama_brings_19_20poss_1000.jpeg"
+thumbnail = "https://b.robnugen.com/art/marble_track_3/track/parts/2025/thumbs/2025_jun_05_candy_mama_brings_19_20poss.jpeg"
 description = "Twentieth Placed Outer Spiral Support"
 workers = [
     "mr_mcglue",
