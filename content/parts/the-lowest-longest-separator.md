@@ -15,12 +15,15 @@ aliases = [
 date = 2020-06-09T16:27:11+09:00
 +++
 
-Glued to [Second Circle Below Caret Splitter](/parts/second-circle-below-caret-splitter/), this long bamboo piece extends to [Sixth Placed Outer Spiral Support](/parts/006p_sixth_placed_outer_spiral_support/) and has a
+Glued to [Second Circle Below Caret Splitter](/parts/second-circle-below-caret-splitter/), this long bamboo piece extends to
+[Third Placed Outer Spiral Support](/parts/003p_third_placed_outer_spiral_support/)
+and has a
 slight angle as it passes the [Lower Curver off the Lowest Small-Medium Splitter](/parts/lower_curver_off_the_lowest_small-medium_splitter/) so it can be closer to the
 small marbles.
 
-It may be the case that this piece is not close enough to [the Lowest Small-Medium Splitter](/parts/the_lowest_small-medium_splitter/) to
-keep small marbles on it from falling to [The First Track](/parts/the_first_track/)
+This piece keeps small marbles on
+[the Lowest Small-Medium Splitter](/parts/the_lowest_small-medium_splitter/)
+from falling to [The First Track](/parts/the_first_track/)
 
 History:
 
