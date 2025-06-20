@@ -14,7 +14,7 @@ lengths of the previous thread which is thicker (and slightly darker
 [G Choppy](/workers/g_choppy/)
 from it proved to be so fiddly
 that I decided to try using an armature for it, and ended up having to
-stop the livestream (while glue dries) after gluing two paris of
+stop the livestream (while glue dries) after gluing two pairs of
 alligator clip sticks together to make the armature actually workable.
 
 Today
