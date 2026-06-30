@@ -1,7 +1,7 @@
 +++
 Title = "Dr Sugar"
 date = "2017-08-01T09:12:39-05:00"
-Weight = 0009
+Weight = 9
 Type = "workers"
 Thumbnail = "https://b.robnugen.com/art/marble_track_3/workers/2018/thumbs/manager.jpg"
 Image = "https://b.robnugen.com/art/marble_track_3/workers/2018/manager.jpg"
