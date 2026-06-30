@@ -1,7 +1,7 @@
 +++
 Title = "Lil Brother"
 date = "2017-08-01T09:12:39-05:00"
-Weight = 0040
+Weight = 40
 Type = "workers"
 Aliases = [
     "/w/lil/"

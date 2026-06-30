@@ -1,5 +1,5 @@
 baseURL = "https://marbletrack3.com/"
-languageCode = "en-us"
+locale = "en-us"
 DefaultContentLanguage = "en"
 theme = "castanet"    # git@github.com:thunderrabbit/castanet.git
 
@@ -7,12 +7,16 @@ theme = "castanet"    # git@github.com:thunderrabbit/castanet.git
 #disqusShortname = "arresteddevops"
 paginate = "15"
 
+# Render raw HTML in markdown (e.g. the in-body <video> embeds); off by default since Hugo 0.60.
+[markup.goldmark.renderer]
+  unsafe = true
+
 
 [languages]
   [languages.en]
     title = "Marble Track 3"
     weight = 1
-    LanguageName = "EN"
+    label = "EN"
     description = "See how to build a marble track!  See /episodes for Replays of the Livestream of the Animation of the Construction of Marble Track 3!  Yayyyyy!"
 
 [[languages.en.Menu.Main]]
@@ -48,7 +52,7 @@ paginate = "15"
   [languages.ja]
     title = "ビー玉からくり第三弾"
     weight = 2
-    LanguageName = "JA"
+    label = "JA"
     description = "Livestreams of the Stop Motion Animation of the [Construction of ビー玉からくり第三弾](https://mt3s.marbletrack3.com)"
 
     [languages.ja.params]
@@ -210,7 +214,7 @@ media_prefix = "https://media.blubrry.com/"
 
  [params.top_banner]
   title = "Marble Track 3 Construction"
-  video = "https://b.robnugen.com/art/marble_track_3/workers/snippets/quick_look_help_you_up.mp4"
+  video = "/videos/quick_look_help_you_up.mp4"
   description = "This website follows their progress, tracking who made what, and how all the parts fit together."
 
 [params.latest_track]

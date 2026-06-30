@@ -20,12 +20,12 @@
 <ul class="langSelect">
     {{ range .Translations }}
     <li>
-      <a href="{{ .Permalink }}"> <i class="fa fa-globe"></i> {{ .Language.LanguageName }} </a>
+      <a href="{{ .Permalink }}"> <i class="fa fa-globe"></i> {{ .Language.Label }} </a>
     </li>
     {{ end}}
 </ul>
 {{ else }}
 	{{ range $.Site.Home.AllTranslations }}
-  	  <a href="{{ .Permalink }}"> <i class="fa fa-globe"></i> {{ .Language.LanguageName }}</a>
+  	  <a href="{{ .Permalink }}"> <i class="fa fa-globe"></i> {{ .Language.Label }}</a>
 	{{ end }}
 {{ end }}

@@ -69,7 +69,7 @@
             <ul class="">
               {{ $.Scratch.Set "who-made-this" .Params.workers }}
               {{ range $page := where $.Site.Pages "Type" "workers" }}
-                {{ if in ($.Scratch.Get "who-made-this") $page.File.TranslationBaseName }}
+                {{ if and $page.File (in ($.Scratch.Get "who-made-this") $page.File.TranslationBaseName) }}
                   <li >
                     <a href = "{{.RelPermalink}}">
                       <span class="workerImg">

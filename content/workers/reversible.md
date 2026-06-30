@@ -2,7 +2,7 @@
 Title = "Reversible Guy"
 date = "2017-08-01T09:12:39-05:00"
 Type = "workers"
-Weight = 0010
+Weight = 10
 Aliases = [
     "/reversible/",
     "/w/rg"

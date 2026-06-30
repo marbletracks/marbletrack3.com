@@ -8,7 +8,6 @@ date: 2018-11-11T15:22:32+09:00
 Description: "Separates three sizes of marbles"
 weight: 0060
 youtube: -R1jgqAUz_c
-Description: "Candy Mama has to take a break after an accident sends the track spinning wildly"
 Aliases: [
   "/ja/snip/0060"
 ]

@@ -1,7 +1,7 @@
 +++
 Title = "Mr McGlue"
 date = "2017-06-01T09:12:39-05:00"
-Weight = 0015
+Weight = 15
 Type = "workers"
 Thumbnail = "https://b.robnugen.com/art/marble_track_3/workers/2018/thumbs/mr_mcglue.jpg"
 Image = "https://b.robnugen.com/art/marble_track_3/workers/2018/mr_mcglue.jpg"

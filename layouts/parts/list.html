@@ -51,7 +51,7 @@
                                             <div class="level">
                                                 {{ $.Scratch.Set "who-made-this" .Params.workers }}
                                                 {{ range $page := where $.Site.Pages "Type" "workers" }}
-                                                    {{ if in ($.Scratch.Get "who-made-this") $page.File.TranslationBaseName }}
+                                                    {{ if and $page.File (in ($.Scratch.Get "who-made-this") $page.File.TranslationBaseName) }}
                                                     <b> <a href = "{{.RelPermalink}}">{{.Title}}</a> </b>
                                                     {{ end }}
                                                 {{ end }}

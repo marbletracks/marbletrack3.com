@@ -12,15 +12,15 @@ Front Row: [Mr Greene](/workers/mr_greene/), [Pinky](/workers/pinky/), [Dr Sugar
 These guys are great!  Just look at them go! -->
 
 <video width="320" height="240" controls loop>
-<source src="https://b.robnugen.com/art/marble_track_3/workers/snippets/quick_look_francois_installs_stage.mp4" type="video/mp4">
+<source src="/videos/quick_look_francois_installs_stage.mp4" type="video/mp4">
 </video>
 
 <video width="320" height="240" controls loop>
-<source src="https://b.robnugen.com/art/marble_track_3/workers/snippets/quick_look_g_choppy_cuts.mp4" type="video/mp4">
+<source src="/videos/quick_look_g_choppy_cuts.mp4" type="video/mp4">
 </video>
 
 <video width="320" height="240" controls loop>
-<source src="https://b.robnugen.com/art/marble_track_3/workers/snippets/quick_look_help_you_up.mp4" type="video/mp4">
+<source src="/videos/quick_look_help_you_up.mp4" type="video/mp4">
 </video>
 
 <!-- This website follows their progress, tracking who made what, and how all the parts fit together. -->

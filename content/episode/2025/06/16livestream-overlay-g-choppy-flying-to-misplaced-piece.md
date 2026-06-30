@@ -15,8 +15,10 @@ efficiency; thanks to GIMP and ChatGPT for helping!
 Using variants of this helped me label images so I could more easily
 know which ones to use for what.
 
-thunderrabbit@pop-os:~/db.mt3.com$ mogrify -gravity NorthWest -pointsize 172 -fill red -annotate +0+0 '1389' '/home/thunderrabbit/mt3/00010_002.dgn/00010_002_Take_11/00010_002_11_X1/00010_002_11_X1_1583.jpg' 
-thunderrabbit@pop-os:~/db.mt3.com$ mogrify -gravity NorthWest -pointsize 172 -fill red -annotate +0+0 'DELETED' '/home/thunderrabbit/mt3/00010_002.dgn/00010_002_Take_11/00010_002_11_X1/00010_002_11_X1_1586.jpg' 
+```
+thunderrabbit@pop-os:~/db.mt3.com$ mogrify -gravity NorthWest -pointsize 172 -fill red -annotate +0+0 '1389' '/home/thunderrabbit/mt3/00010_002.dgn/00010_002_Take_11/00010_002_11_X1/00010_002_11_X1_1583.jpg'
+thunderrabbit@pop-os:~/db.mt3.com$ mogrify -gravity NorthWest -pointsize 172 -fill red -annotate +0+0 'DELETED' '/home/thunderrabbit/mt3/00010_002.dgn/00010_002_Take_11/00010_002_11_X1/00010_002_11_X1_1586.jpg'
+```
 
 Here are a few of the images that were used in this process.
 

@@ -2,7 +2,7 @@
 <section class="episode-list">
   {{/* thanks https://code.luasoftware.com/tutorials/hugo/hugo-scope-variable-in-template/ for $.Scratch */}}
   {{ $.Scratch.Set "total_livestream_duration" 0 }}
-  {{ range $.Site.Data.playlists.knownvideos.Videos }}
+  {{ range hugo.Data.playlists.knownvideos.Videos }}
     {{ if eq .VideoType 1 }}
         {{ $.Scratch.Add "total_livestream_duration" .Duration }}
     {{ end }}

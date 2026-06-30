@@ -2,7 +2,7 @@
 Title = "Garinoppi"
 date = "2017-10-01T09:12:39-05:00"
 Type = "workers"
-Weight = 0900
+Weight = 900
 Aliases = [
     "/skelly/"
 ]

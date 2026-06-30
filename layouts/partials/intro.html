@@ -1,21 +1,21 @@
 <section class="speaker-one">
     <div class="container position-relative">
         <div class="section-title text-center mt-50 pb-1">
-            <h2 class="intro-heading">  {{ .Site.Data.intro.title | markdownify }}</h2>			    
+            <h2 class="intro-heading">  {{ hugo.Data.intro.title | markdownify }}</h2>			    
             <div class="pt-3">
                 <div class="crew-image">
-                    <img src="{{ .Site.Data.intro.image | markdownify }}" class="img-fluid">
+                    <img src="{{ hugo.Data.intro.image | markdownify }}" class="img-fluid">
                 </div> 
             </div>
             <div class="crew-list">
-                <p> <strong>  {{ .Site.Data.intro.row1_title | markdownify }} </strong> 
-                    {{ .Site.Data.intro.row_1 | markdownify }} 
+                <p> <strong>  {{ hugo.Data.intro.row1_title | markdownify }} </strong> 
+                    {{ hugo.Data.intro.row_1 | markdownify }} 
                 </p>
-                <p> <strong>  {{ .Site.Data.intro.row2_title | markdownify }} </strong> 
-                    {{ .Site.Data.intro.row_2 | markdownify }} 
+                <p> <strong>  {{ hugo.Data.intro.row2_title | markdownify }} </strong> 
+                    {{ hugo.Data.intro.row_2 | markdownify }} 
                 </p> 
             </div>
-            <h3>{{ .Site.Data.intro.description | markdownify }} </h3>
+            <h3>{{ hugo.Data.intro.description | markdownify }} </h3>
         </div>
     </div>
     {{ partial "home_video.html" . }}
