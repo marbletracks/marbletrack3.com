@@ -48,5 +48,5 @@ History:
 [![After](//b.robnugen.com/art/marble_track_3/frames/2018/thumbs/00010_002_08_X1_0635.jpg)](//b.robnugen.com/art/marble_track_3/frames/2018/00010_002_08_X1_0635.jpg)
 
 <video width="320" height="240" controls loop>
-<source src="https://b.robnugen.com/art/marble_track_3/workers/snippets/quick_look_chop_ends_triple_splitter.mp4" type="video/mp4">
+<source src="/videos/quick_look_chop_ends_triple_splitter.mp4" type="video/mp4">
 </video>

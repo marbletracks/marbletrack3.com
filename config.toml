@@ -214,7 +214,7 @@ media_prefix = "https://media.blubrry.com/"
 
  [params.top_banner]
   title = "Marble Track 3 Construction"
-  video = "https://b.robnugen.com/art/marble_track_3/workers/snippets/quick_look_help_you_up.mp4"
+  video = "/videos/quick_look_help_you_up.mp4"
   description = "This website follows their progress, tracking who made what, and how all the parts fit together."
 
 [params.latest_track]
