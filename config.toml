@@ -1,5 +1,5 @@
 baseURL = "https://marbletrack3.com/"
-languageCode = "en-us"
+locale = "en-us"
 DefaultContentLanguage = "en"
 theme = "castanet"    # git@github.com:thunderrabbit/castanet.git
 
@@ -12,7 +12,7 @@ paginate = "15"
   [languages.en]
     title = "Marble Track 3"
     weight = 1
-    LanguageName = "EN"
+    label = "EN"
     description = "See how to build a marble track!  See /episodes for Replays of the Livestream of the Animation of the Construction of Marble Track 3!  Yayyyyy!"
 
 [[languages.en.Menu.Main]]
@@ -48,7 +48,7 @@ paginate = "15"
   [languages.ja]
     title = "ビー玉からくり第三弾"
     weight = 2
-    LanguageName = "JA"
+    label = "JA"
     description = "Livestreams of the Stop Motion Animation of the [Construction of ビー玉からくり第三弾](https://mt3s.marbletrack3.com)"
 
     [languages.ja.params]
