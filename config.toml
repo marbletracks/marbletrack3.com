@@ -7,6 +7,10 @@ theme = "castanet"    # git@github.com:thunderrabbit/castanet.git
 #disqusShortname = "arresteddevops"
 paginate = "15"
 
+# Render raw HTML in markdown (e.g. the in-body <video> embeds); off by default since Hugo 0.60.
+[markup.goldmark.renderer]
+  unsafe = true
+
 
 [languages]
   [languages.en]
