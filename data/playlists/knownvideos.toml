@@ -53,6 +53,12 @@
     Published = 2017-09-08T02:27:45Z
     Duration = 34000000000
     VideoType = 2
+  [Videos.-jDKzYRmhkE]
+    VideoId = "-jDKzYRmhkE"
+    Title = "Marble Track 3 snippet: bringing zog rails and support"
+    Published = 2022-03-08T08:33:42Z
+    Duration = 101000000000
+    VideoType = 2
   [Videos.-mYgAf-AKac]
     VideoId = "-mYgAf-AKac"
     Title = "Marble Track 3 construction Live Stream: lil reversal"
@@ -107,6 +113,12 @@
     Published = 2019-06-11T01:39:49Z
     Duration = 399000000000
     VideoType = 1
+  [Videos.0TJSFBm1fHY]
+    VideoId = "0TJSFBm1fHY"
+    Title = "Marble Track 3 construction Livestream: Installing 2nd Layer on 2nd Bridge"
+    Published = 2025-06-26T14:17:56Z
+    Duration = 1657000000000
+    VideoType = 1
   [Videos.0VTDIW441Zg]
     VideoId = "0VTDIW441Zg"
     Title = "Marble Track 3 construction Live Stream: rebooting computer"
@@ -130,6 +142,12 @@
     Title = "Marble Track 3 construction Live Stream: toothpicks for lower zig zag 1 of 2"
     Published = 2018-11-01T00:20:21Z
     Duration = 4651000000000
+    VideoType = 1
+  [Videos.0x_gqRP1mYE]
+    VideoId = "0x_gqRP1mYE"
+    Title = "Marble Track 3 construction Livestream: Gluing LSMS4G"
+    Published = 2025-06-17T13:41:56Z
+    Duration = 4378000000000
     VideoType = 1
   [Videos.0zzMvmh0RWU]
     VideoId = "0zzMvmh0RWU"
@@ -173,6 +191,18 @@
     Published = 2017-08-11T18:23:24Z
     Duration = 21000000000
     VideoType = 2
+  [Videos.1VOdE8rK-Ss]
+    VideoId = "1VOdE8rK-Ss"
+    Title = "Marble Track 3 summary of 14 minutes livestream"
+    Published = 2021-07-27T03:05:59Z
+    Duration = 86000000000
+    VideoType = 1
+  [Videos.1VnLbaKKbLo]
+    VideoId = "1VnLbaKKbLo"
+    Title = "Marble Track 3 construction Livestream: Large Marble rolling onto The First Track"
+    Published = 2025-07-06T09:57:27Z
+    Duration = 3225000000000
+    VideoType = 1
   [Videos.1sSUdcwpX5Y]
     VideoId = "1sSUdcwpX5Y"
     Title = "Marble Track 3 construction Live Stream:"
@@ -251,6 +281,12 @@
     Published = 2019-07-30T03:51:31Z
     Duration = 3727000000000
     VideoType = 1
+  [Videos.3LjozhbvmtE]
+    VideoId = "3LjozhbvmtE"
+    Title = "Marble Track 3 construction Livestream: Candy Mama bringing Twenty-first Outer Spiral Support"
+    Published = 2025-07-26T14:47:48Z
+    Duration = 4385000000000
+    VideoType = 1
   [Videos.3QNEW8hqHyU]
     VideoId = "3QNEW8hqHyU"
     Title = "Marble Track 3: roll small marble"
@@ -269,6 +305,12 @@
     Published = 2018-07-24T03:09:14Z
     Duration = 8268000000000
     VideoType = 1
+  [Videos.3iD1Fs6zIRI]
+    VideoId = "3iD1Fs6zIRI"
+    Title = "Marble Track 3 construction Livestream: Autosticks becoming Zog Rail Ribs"
+    Published = 2025-07-15T17:31:03Z
+    Duration = 7624000000000
+    VideoType = 1
   [Videos.3mEt932GttA]
     VideoId = "3mEt932GttA"
     Title = "Marble Track 3 construction Live Stream: Finished curving Triple Splitter Small Feeder Inner Bar"
@@ -280,6 +322,12 @@
     Title = "Marble Track 3: small marbles blocked; lil brother jumps"
     Published = 2019-06-25T04:12:54Z
     Duration = 54000000000
+    VideoType = 2
+  [Videos.3mME3Uiqpl4]
+    VideoId = "3mME3Uiqpl4"
+    Title = "Marble Track 3 summary: ready to toss Zog"
+    Published = 2021-12-17T09:05:16Z
+    Duration = 95000000000
     VideoType = 2
   [Videos.3uEohlN4bMU]
     VideoId = "3uEohlN4bMU"
@@ -329,6 +377,18 @@
     Published = 2019-03-12T01:48:16Z
     Duration = 4102000000000
     VideoType = 1
+  [Videos.4jURNsK8wT0]
+    VideoId = "4jURNsK8wT0"
+    Title = "Marble Track 3 construction Livestream: G Choppy removing a misplaced piece"
+    Published = 2025-06-12T18:09:24Z
+    Duration = 5596000000000
+    VideoType = 1
+  [Videos.4lrQWCaqd_Y]
+    VideoId = "4lrQWCaqd_Y"
+    Title = "Marble Track 3 construction Livestream: Large Marble rolling onto The First Track"
+    Published = 2025-07-08T20:27:21Z
+    Duration = 5263000000000
+    VideoType = 1
   [Videos.4u0-M1ysCO8]
     VideoId = "4u0-M1ysCO8"
     Title = "Marble Track 3: mt3.robnugen.com"
@@ -347,11 +407,29 @@
     Published = 2020-11-03T13:47:23Z
     Duration = 2465000000000
     VideoType = 1
+  [Videos.509fodxCqzM]
+    VideoId = "509fodxCqzM"
+    Title = "Marble Track 3: ready to glue DC 48"
+    Published = 2021-08-24T22:54:25Z
+    Duration = 72000000000
+    VideoType = 2
+  [Videos.50sTJyWEpJQ]
+    VideoId = "50sTJyWEpJQ"
+    Title = "Marble Track 3 construction Livestream: Candy Mama bringing Twenty-first Outer Spiral Support"
+    Published = 2025-07-29T14:58:37Z
+    Duration = 6636000000000
+    VideoType = 1
   [Videos.524jd-LL9gQ]
     VideoId = "524jd-LL9gQ"
     Title = "Marble Track 3 construction Live Stream: Mr Greene ghosts"
     Published = 2018-10-30T00:21:59Z
     Duration = 6771000000000
+    VideoType = 1
+  [Videos.5Lu5lNOesIg]
+    VideoId = "5Lu5lNOesIg"
+    Title = "Marble Track 3 construction Livestream: Candy Mama bringing"
+    Published = 2025-07-23T10:29:33Z
+    Duration = 16000000000
     VideoType = 1
   [Videos.5UFhPaNaH-w]
     VideoId = "5UFhPaNaH-w"
@@ -395,6 +473,12 @@
     Published = 2020-12-15T05:04:53Z
     Duration = 4498000000000
     VideoType = 1
+  [Videos.5vn3F48d7s4]
+    VideoId = "5vn3F48d7s4"
+    Title = "Marble Track 3 summary G Choppy curves 3rd Arch"
+    Published = 2021-08-03T06:10:58Z
+    Duration = 463000000000
+    VideoType = 2
   [Videos.5ygVtSrDhJk]
     VideoId = "5ygVtSrDhJk"
     Title = "Marble Track 3 construction Live Stream: finished drilling holes"
@@ -448,6 +532,12 @@
     Title = "netlify DNS 404"
     Published = 2018-11-18T11:26:27Z
     Duration = 19000000000
+    VideoType = 2
+  [Videos.73mIcS1aGY8]
+    VideoId = "73mIcS1aGY8"
+    Title = "Marble Track 3: start curving 3rd arch"
+    Published = 2021-07-06T22:32:21Z
+    Duration = 56000000000
     VideoType = 2
   [Videos.7GKqxHKb9Mc]
     VideoId = "7GKqxHKb9Mc"
@@ -527,6 +617,12 @@
     Published = 2019-09-23T02:42:24Z
     Duration = 77000000000
     VideoType = 2
+  [Videos.87vplfdXEeo]
+    VideoId = "87vplfdXEeo"
+    Title = "Marble Track 3: Installed Paul (summary)"
+    Published = 2021-11-02T05:32:08Z
+    Duration = 136000000000
+    VideoType = 2
   [Videos.89QgTyyntqA]
     VideoId = "89QgTyyntqA"
     Title = "Marble Track 3 construction Live Stream: glued dual track rail"
@@ -569,6 +665,18 @@
     Published = 2018-10-02T05:13:36Z
     Duration = 11059000000000
     VideoType = 1
+  [Videos.8n0g_1QaWbs]
+    VideoId = "8n0g_1QaWbs"
+    Title = "Marble Track 3 construction Livestream: Installing 2nd Layer on 2nd Bridge"
+    Published = 2025-06-24T16:20:55Z
+    Duration = 5359000000000
+    VideoType = 1
+  [Videos.8nBo7dZ4ft8]
+    VideoId = "8nBo7dZ4ft8"
+    Title = "Marble Track 3 construction Livestream: Backpack Jack heads out the back"
+    Published = 2025-07-19T18:22:49Z
+    Duration = 7298000000000
+    VideoType = 1
   [Videos.8oGh9ID70UI]
     VideoId = "8oGh9ID70UI"
     Title = "Marble Track 3 construction Live Stream: glued three pieces"
@@ -586,6 +694,18 @@
     Title = "Marble Track 3 construction Live Stream: snake marble piece progressed"
     Published = 2018-09-11T03:03:41Z
     Duration = 2974000000000
+    VideoType = 1
+  [Videos.8wS46BWcHEc]
+    VideoId = "8wS46BWcHEc"
+    Title = "Marble Track 3 construction Livestream: How does G Choppy fly?"
+    Published = 2025-06-16T14:54:35Z
+    Duration = 8219000000000
+    VideoType = 1
+  [Videos.92UhlTXZhRc]
+    VideoId = "92UhlTXZhRc"
+    Title = "Marble Track 3 G Choppy curves third arch livestream summary"
+    Published = 2021-07-27T05:13:18Z
+    Duration = 301000000000
     VideoType = 1
   [Videos.96rCKcW1k94]
     VideoId = "96rCKcW1k94"
@@ -659,6 +779,12 @@
     Published = 2018-09-20T01:03:59Z
     Duration = 135000000000
     VideoType = 2
+  [Videos.9kIU0Qimx7s]
+    VideoId = "9kIU0Qimx7s"
+    Title = "Marble Track 3 Construction summary: Zog Started Flying"
+    Published = 2022-01-26T01:03:06Z
+    Duration = 124000000000
+    VideoType = 2
   [Videos.9mEeIYsISLk]
     VideoId = "9mEeIYsISLk"
     Title = "Marble Track 3 construction Live Stream: shaking hands before skeleton arrives (1 of 2 today)"
@@ -689,6 +815,12 @@
     Published = 2018-08-03T14:08:58Z
     Duration = 1352000000000
     VideoType = 1
+  [Videos.A8dwFj9UZ2w]
+    VideoId = "A8dwFj9UZ2w"
+    Title = "Marble Track 3: Candy Mama starts lifting Paul (summary)"
+    Published = 2021-11-02T05:31:27Z
+    Duration = 218000000000
+    VideoType = 2
   [Videos.AALQGwA44Gc]
     VideoId = "AALQGwA44Gc"
     Title = "Marble Track 3 construction Live Stream: skeleton arrives (2 of 2 today)"
@@ -749,6 +881,12 @@
     Published = 2019-01-12T02:36:30Z
     Duration = 2240000000000
     VideoType = 1
+  [Videos.BZCmCiBZJRs]
+    VideoId = "BZCmCiBZJRs"
+    Title = "Marble Track 3 summary: Candy Mama almost tosses cookies"
+    Published = 2021-11-24T00:25:01Z
+    Duration = 203000000000
+    VideoType = 2
   [Videos.Bj_bDPS3Yik]
     VideoId = "Bj_bDPS3Yik"
     Title = "Marble Track 3: Squarehead thinking about what to do next"
@@ -779,6 +917,12 @@
     Published = 2017-09-01T11:15:59Z
     Duration = 16000000000
     VideoType = 2
+  [Videos.BuL7pAk9qJ8]
+    VideoId = "BuL7pAk9qJ8"
+    Title = "Marble Track 3 construction Livestream: Large Marble rolling toward el Lifty Lever"
+    Published = 2025-07-05T17:38:16Z
+    Duration = 4675000000000
+    VideoType = 1
   [Videos.BuUGihs_Zdo]
     VideoId = "BuUGihs_Zdo"
     Title = "Marble Track 3 construction Live Stream 421 - 434 G Choppy floats down"
@@ -833,6 +977,12 @@
     Published = 2017-08-28T10:35:25Z
     Duration = 100000000000
     VideoType = 2
+  [Videos.DNkZ4fb6CsQ]
+    VideoId = "DNkZ4fb6CsQ"
+    Title = "Marble Track 3 construction Livestream: Installing 19th Placed Outer Spiral Support"
+    Published = 2025-06-23T16:49:47Z
+    Duration = 7729000000000
+    VideoType = 1
   [Videos.DSjm7BmeHSM]
     VideoId = "DSjm7BmeHSM"
     Title = "Marble Track 3 construction Live Stream"
@@ -875,6 +1025,12 @@
     Published = 2020-03-03T14:42:46Z
     Duration = 375000000000
     VideoType = 1
+  [Videos.Drq8OUTvZ60]
+    VideoId = "Drq8OUTvZ60"
+    Title = "Marble Track 3 construction Livestream:Large Marble rolling down Triple Splitter"
+    Published = 2025-07-04T16:53:19Z
+    Duration = 9150000000000
+    VideoType = 1
   [Videos.DxJ9mQ11G00]
     VideoId = "DxJ9mQ11G00"
     Title = "Marble Track 3: three angled walls"
@@ -898,6 +1054,12 @@
     Title = "Marble Track 3 construction Live Stream: glued 9th placed outer spiral support"
     Published = 2019-02-05T03:47:37Z
     Duration = 7701000000000
+    VideoType = 1
+  [Videos.EQK13nDZlzM]
+    VideoId = "EQK13nDZlzM"
+    Title = "Marble Track 3 construction Livestream: G Choppy Chopped Misplaced Piece"
+    Published = 2025-06-23T12:07:38Z
+    Duration = 2347000000000
     VideoType = 1
   [Videos.ETLYb0Zggcg]
     VideoId = "ETLYb0Zggcg"
@@ -1013,6 +1175,12 @@
     Published = 2018-12-25T02:57:50Z
     Duration = 5515000000000
     VideoType = 1
+  [Videos.FkEACTvingY]
+    VideoId = "FkEACTvingY"
+    Title = "Marble Track 3 construction Livestream: Installing Small Marble Saver"
+    Published = 2025-06-05T14:11:16Z
+    Duration = 1528000000000
+    VideoType = 1
   [Videos.FmAfS6xwEHs]
     VideoId = "FmAfS6xwEHs"
     Title = "Marble Track 3 construction Live Stream: glued outer rail of lower catcher"
@@ -1061,12 +1229,36 @@
     Published = 2017-08-15T02:07:40Z
     Duration = 42000000000
     VideoType = 2
+  [Videos.GG5dw7NPRGI]
+    VideoId = "GG5dw7NPRGI"
+    Title = "Marble Track 3 construction Livestream: \"What's my motivation?\""
+    Published = 2025-06-02T15:41:15Z
+    Duration = 8625000000000
+    VideoType = 1
+  [Videos.GHR4n9ifS1M]
+    VideoId = "GHR4n9ifS1M"
+    Title = "Marble Track 3 construction Livestream: G Choppy trimming second layer bridge support"
+    Published = 2025-07-10T22:19:14Z
+    Duration = 10368000000000
+    VideoType = 1
   [Videos.GIYwqRln0g8]
     VideoId = "GIYwqRln0g8"
     Title = "Marble Track 3"
     Published = 2019-11-26T06:58:08Z
     Duration = 0
     VideoType = 2
+  [Videos.GVgNkBdVnpY]
+    VideoId = "GVgNkBdVnpY"
+    Title = "Marble Track 3 construction Livestream: Candy Mama bringing an Outer Spiral Support"
+    Published = 2025-07-24T01:08:08Z
+    Duration = 8163000000000
+    VideoType = 1
+  [Videos.Gun9mgtWzdE]
+    VideoId = "Gun9mgtWzdE"
+    Title = "Marble Track 3 construction Livestream: Installing Small Marble Saver x2"
+    Published = 2025-06-05T15:38:39Z
+    Duration = 4519000000000
+    VideoType = 1
   [Videos.Gz0WYJAiIc4]
     VideoId = "Gz0WYJAiIc4"
     Title = "Marble Track 3 construction Live Stream: before releasing the big marble"
@@ -1084,6 +1276,12 @@
     Title = "Marble Track 3 construction Live Stream"
     Published = 2017-11-14T01:14:42Z
     Duration = 6077000000000
+    VideoType = 1
+  [Videos.H5ol4_kbNlk]
+    VideoId = "H5ol4_kbNlk"
+    Title = "Marble Track 3 construction Livestream: Gluing Small Marble Saver and TSSFIG"
+    Published = 2025-06-11T15:20:26Z
+    Duration = 12072000000000
     VideoType = 1
   [Videos.HHPUzWkwlNo]
     VideoId = "HHPUzWkwlNo"
@@ -1109,6 +1307,12 @@
     Published = 2018-09-21T07:11:06Z
     Duration = 138000000000
     VideoType = 2
+  [Videos.HnA1DWsvc-A]
+    VideoId = "HnA1DWsvc-A"
+    Title = "Marble Track 3 construction Livestream: Filming stage rotation with Ghost Frames"
+    Published = 2025-06-28T13:23:43Z
+    Duration = 6854000000000
+    VideoType = 1
   [Videos.I6DBKaK37qM]
     VideoId = "I6DBKaK37qM"
     Title = "Marble Track 3: calling for help"
@@ -1138,6 +1342,12 @@
     Title = "Marble Track 3 construction Live Stream: glued lzz 3ban 5 of 5"
     Published = 2019-06-11T02:50:38Z
     Duration = 1429000000000
+    VideoType = 1
+  [Videos.Ikr2hViZS3Y]
+    VideoId = "Ikr2hViZS3Y"
+    Title = "Marble Track 3 construction Livestream: Renamed Outer Spiral Supports"
+    Published = 2025-06-19T17:28:45Z
+    Duration = 338000000000
     VideoType = 1
   [Videos.IrH0xOqzHEE]
     VideoId = "IrH0xOqzHEE"
@@ -1181,12 +1391,36 @@
     Published = 2020-07-07T04:41:32Z
     Duration = 121000000000
     VideoType = 2
+  [Videos.JFykpoM3fVw]
+    VideoId = "JFykpoM3fVw"
+    Title = "Marble Track 3 construction Livestream: Nearly Installed Small Marble Saver"
+    Published = 2025-06-08T09:29:14Z
+    Duration = 2637000000000
+    VideoType = 1
   [Videos.JR7FZDBeisI]
     VideoId = "JR7FZDBeisI"
     Title = "Marble Track 3 construction Live Stream"
     Published = 2017-11-06T13:58:34Z
     Duration = 2872000000000
     VideoType = 1
+  [Videos.JSDalruUzq0]
+    VideoId = "JSDalruUzq0"
+    Title = "Marble Track 3 construction Livestream: Installing Small Marble Saver"
+    Published = 2025-06-09T15:29:17Z
+    Duration = 13564000000000
+    VideoType = 1
+  [Videos.JXazoM6M8ds]
+    VideoId = "JXazoM6M8ds"
+    Title = "Marble Track 3 construction Livestream: Glue 18th  Placed Outer Spiral Support"
+    Published = 2025-06-21T07:12:22Z
+    Duration = 9521000000000
+    VideoType = 1
+  [Videos.JcNjAy5BpWg]
+    VideoId = "JcNjAy5BpWg"
+    Title = "MT3 — Full Movie So Far (as of 2026-05-15)"
+    Published = 2026-05-17T13:09:22Z
+    Duration = 929000000000
+    VideoType = 2
   [Videos.Jeud8Y5bu54]
     VideoId = "Jeud8Y5bu54"
     Title = "Marble Track 3: glued three pieces"
@@ -1199,6 +1433,12 @@
     Published = 2019-04-22T11:10:30Z
     Duration = 644000000000
     VideoType = 1
+  [Videos.JqnXbXJ8lZQ]
+    VideoId = "JqnXbXJ8lZQ"
+    Title = "Marble Track 3 Summary: Candy Mama Walks Away after tossing Zog"
+    Published = 2022-02-08T01:59:21Z
+    Duration = 155000000000
+    VideoType = 2
   [Videos.JvyGwxF-1eY]
     VideoId = "JvyGwxF-1eY"
     Title = "Marble Track 3 construction Live Stream: moving chopstick"
@@ -1210,6 +1450,12 @@
     Title = "Marble Track 3 construction Live Stream: Preparing pieces, planning placements"
     Published = 2020-06-02T04:22:32Z
     Duration = 7236000000000
+    VideoType = 1
+  [Videos.K2HlmIN9f1o]
+    VideoId = "K2HlmIN9f1o"
+    Title = "Marble Track 3 construction Livestream: Squarehead not moving"
+    Published = 2025-08-06T15:50:19Z
+    Duration = 5583000000000
     VideoType = 1
   [Videos.KInRqcbDY3s]
     VideoId = "KInRqcbDY3s"
@@ -1319,11 +1565,23 @@
     Published = 2018-11-13T00:58:45Z
     Duration = 7376000000000
     VideoType = 1
+  [Videos.M1vsCh7t_54]
+    VideoId = "M1vsCh7t_54"
+    Title = "Marble Track 3: summary of Planning Paul and almost installing 3rd Arch"
+    Published = 2021-09-26T14:13:37Z
+    Duration = 248000000000
+    VideoType = 2
   [Videos.M2Mbu-6B_mY]
     VideoId = "M2Mbu-6B_mY"
     Title = "Marble Track 3 construction Live Stream: fifteen segments in outer spiral"
     Published = 2018-08-30T11:36:47Z
     Duration = 6932000000000
+    VideoType = 1
+  [Videos.M73eE-g0RXE]
+    VideoId = "M73eE-g0RXE"
+    Title = "Marble Track 3 construction Livestream:Filming stage rotation without Ghost frames"
+    Published = 2025-06-29T15:37:26Z
+    Duration = 11146000000000
     VideoType = 1
   [Videos.M8msxdFzXeo]
     VideoId = "M8msxdFzXeo"
@@ -1343,6 +1601,12 @@
     Published = 2020-07-21T12:55:40Z
     Duration = 2170000000000
     VideoType = 1
+  [Videos.Me6whCkfU04]
+    VideoId = "Me6whCkfU04"
+    Title = "Marble Track 3 snippet: Bringing in Zog Rails and Zog Support"
+    Published = 2022-03-15T08:19:34Z
+    Duration = 102000000000
+    VideoType = 2
   [Videos.MiVFYGSLKW0]
     VideoId = "MiVFYGSLKW0"
     Title = "Marble Track 3 construction Live Stream: ready to cut vertical piece"
@@ -1355,6 +1619,12 @@
     Published = 2018-09-17T10:54:29Z
     Duration = 9000000000
     VideoType = 2
+  [Videos.Ml90wyVHLsE]
+    VideoId = "Ml90wyVHLsE"
+    Title = "Marble Track 3 construction Livestream: Lil Brother backflip"
+    Published = 2025-06-13T23:44:11Z
+    Duration = 7774000000000
+    VideoType = 1
   [Videos.MmYza-6SGKo]
     VideoId = "MmYza-6SGKo"
     Title = "Marble Track 3: tail flipped switch"
@@ -1402,6 +1672,12 @@
     Title = "Marble Track 3 construction Live Stream: redelivered marbles"
     Published = 2018-07-19T06:43:05Z
     Duration = 5702000000000
+    VideoType = 1
+  [Videos.NWsjF0tbxwM]
+    VideoId = "NWsjF0tbxwM"
+    Title = "Marble Track 3 construction Livestream: Gluing 19 Placed Outer Spiral Support"
+    Published = 2025-06-18T17:52:02Z
+    Duration = 7384000000000
     VideoType = 1
   [Videos.N_9ocOflC9I]
     VideoId = "N_9ocOflC9I"
@@ -1487,6 +1763,12 @@
     Published = 2019-09-23T02:37:02Z
     Duration = 10632000000000
     VideoType = 1
+  [Videos.OkiQBeZmO14]
+    VideoId = "OkiQBeZmO14"
+    Title = "Marble Track 3 construction Livestream: G-Choppy flying"
+    Published = 2025-06-06T12:21:16Z
+    Duration = 2672000000000
+    VideoType = 1
   [Videos.Om6LTZYHUH0]
     VideoId = "Om6LTZYHUH0"
     Title = "Marble Track 3: nearly ready for vertical support"
@@ -1540,6 +1822,12 @@
     Title = "Marble Track 3 construction Live Stream"
     Published = 2019-09-28T03:22:43Z
     Duration = 5963000000000
+    VideoType = 1
+  [Videos.Phb0lNRXkr8]
+    VideoId = "Phb0lNRXkr8"
+    Title = "Marble Track 3 Construction Livestream: Paul has entered the game"
+    Published = 2021-10-19T12:37:10Z
+    Duration = 1119000000000
     VideoType = 1
   [Videos.PpmBmGneZSw]
     VideoId = "PpmBmGneZSw"
@@ -1673,6 +1961,18 @@
     Published = 2019-02-10T12:27:29Z
     Duration = 1451000000000
     VideoType = 2
+  [Videos.RqQnmOmIdOA]
+    VideoId = "RqQnmOmIdOA"
+    Title = "Marble Track 3 construction Livestream: Glued 17th  Placed Outer Spiral Support"
+    Published = 2025-06-20T20:13:36Z
+    Duration = 4209000000000
+    VideoType = 1
+  [Videos.S0t93rR6Wsc]
+    VideoId = "S0t93rR6Wsc"
+    Title = "Marble Track 3:Candy Mama's Cookies bounced!"
+    Published = 2021-11-30T04:34:07Z
+    Duration = 95000000000
+    VideoType = 2
   [Videos.SDvHydjZv-M]
     VideoId = "SDvHydjZv-M"
     Title = "Marble Track 3 construction Live Stream"
@@ -1757,6 +2057,12 @@
     Published = 2019-04-27T23:39:26Z
     Duration = 7324000000000
     VideoType = 1
+  [Videos.TlzBk9e_z0U]
+    VideoId = "TlzBk9e_z0U"
+    Title = "Marble Track 3 summary: installed DC 48"
+    Published = 2021-08-24T08:09:38Z
+    Duration = 580000000000
+    VideoType = 2
   [Videos.TwaZkt_T7wk]
     VideoId = "TwaZkt_T7wk"
     Title = "Marble Track 3: kicked a ball"
@@ -1769,6 +2075,12 @@
     Published = 2019-02-09T05:58:57Z
     Duration = 5146000000000
     VideoType = 1
+  [Videos.U2QBq_CYVhg]
+    VideoId = "U2QBq_CYVhg"
+    Title = "Marble Track 3: G Choppy Cutting Caret Splitter Right Hand Side Guider"
+    Published = 2021-02-22T08:10:05Z
+    Duration = 46000000000
+    VideoType = 2
   [Videos.U4dpnSCDzfc]
     VideoId = "U4dpnSCDzfc"
     Title = "Marble Track 3 construction Live Stream:glue U turn"
@@ -1792,6 +2104,12 @@
     Title = "Marble Track 3 construction Live Stream: attached bearing to stage"
     Published = 2017-09-22T09:27:54Z
     Duration = 9883000000000
+    VideoType = 1
+  [Videos.UIOpHq8UNtk]
+    VideoId = "UIOpHq8UNtk"
+    Title = "Marble Track 3 construction Livestream: G Choppy trimming second layer bridge support"
+    Published = 2025-07-11T19:33:19Z
+    Duration = 2501000000000
     VideoType = 1
   [Videos.UImC01xxZ38]
     VideoId = "UImC01xxZ38"
@@ -1876,6 +2194,12 @@
     Title = "Marble Track 3 construction Live Stream: Glued el Lifty Lever Guider (2 of 2)"
     Published = 2020-06-23T02:11:45Z
     Duration = 5586000000000
+    VideoType = 1
+  [Videos.VgeMg1Rr_-E]
+    VideoId = "VgeMg1Rr_-E"
+    Title = "Marble Track 3 construction Livestream: Large Marble rolling onto The First Track"
+    Published = 2025-07-07T19:21:47Z
+    Duration = 8999000000000
     VideoType = 1
   [Videos.ViqCHc0eZZk]
     VideoId = "ViqCHc0eZZk"
@@ -2051,6 +2375,12 @@
     Published = 2019-06-11T01:40:28Z
     Duration = 154000000000
     VideoType = 1
+  [Videos.YYreI7DfthU]
+    VideoId = "YYreI7DfthU"
+    Title = "Marble Track 3 construction Livestream: Gluing Zog Rails Support"
+    Published = 2025-06-03T20:33:22Z
+    Duration = 3424000000000
+    VideoType = 1
   [Videos.Yd0AjM6YhBU]
     VideoId = "Yd0AjM6YhBU"
     Title = "Marble Track 3 Construction Livestream: G Choppy has cut 13th Placed Outer Spiral Support"
@@ -2069,12 +2399,24 @@
     Published = 2017-11-25T08:31:19Z
     Duration = 53000000000
     VideoType = 2
+  [Videos.Yq5aZGkwsSg]
+    VideoId = "Yq5aZGkwsSg"
+    Title = "Marble Track 3 construction Livestream:Super Spoony grabs his marble"
+    Published = 2025-06-30T22:43:41Z
+    Duration = 3883000000000
+    VideoType = 1
   [Videos.Z4wIrrLBPkk]
     VideoId = "Z4wIrrLBPkk"
     Title = "Marble Track 3 construction Live Stream: almost glued inner bar support"
     Published = 2019-02-26T02:20:41Z
     Duration = 7400000000000
     VideoType = 1
+  [Videos.ZENwa551jyg]
+    VideoId = "ZENwa551jyg"
+    Title = "Marble Track 3 summary: G Choppy Finished Curving 3rd Arch"
+    Published = 2021-08-10T09:03:28Z
+    Duration = 957000000000
+    VideoType = 2
   [Videos.ZOGf5NiMnwA]
     VideoId = "ZOGf5NiMnwA"
     Title = "Marble Track 3 Construction Livestream: Ready to cut 15th Placed Outer Spiral Support"
@@ -2105,6 +2447,24 @@
     Published = 2019-08-20T04:54:53Z
     Duration = 66000000000
     VideoType = 2
+  [Videos.ZlVd34qtLRo]
+    VideoId = "ZlVd34qtLRo"
+    Title = "Marble Track 3 construction Livestream: Lowering Entropy"
+    Published = 2025-06-09T20:22:19Z
+    Duration = 3629000000000
+    VideoType = 1
+  [Videos.ZlwLcawEyYQ]
+    VideoId = "ZlwLcawEyYQ"
+    Title = "Candy Mama tosses Zog cookie"
+    Published = 2026-05-18T11:17:38Z
+    Duration = 13000000000
+    VideoType = 2
+  [Videos.ZpbBqcGvdyg]
+    VideoId = "ZpbBqcGvdyg"
+    Title = "Marble Track 3 construction Livestream: G Choppy flying on armature"
+    Published = 2025-06-15T14:58:22Z
+    Duration = 10085000000000
+    VideoType = 1
   [Videos.ZqlQBMl48xU]
     VideoId = "ZqlQBMl48xU"
     Title = "Marble Track 3 construction Live Stream"
@@ -2123,6 +2483,18 @@
     Published = 2017-08-06T06:41:30Z
     Duration = 5501000000000
     VideoType = 1
+  [Videos._6MKfRnVlyg]
+    VideoId = "_6MKfRnVlyg"
+    Title = "Marble Track 3 construction Livestream: Candy Mama stops the stage"
+    Published = 2025-08-01T13:36:34Z
+    Duration = 4225000000000
+    VideoType = 1
+  [Videos._6OqtS2vlng]
+    VideoId = "_6OqtS2vlng"
+    Title = "Marble Track 3 Moment: Installing Paul"
+    Published = 2026-05-18T11:14:26Z
+    Duration = 8000000000
+    VideoType = 2
   [Videos._TfIeczcZ9U]
     VideoId = "_TfIeczcZ9U"
     Title = "Marble Track 3 construction Live Stream:"
@@ -2158,6 +2530,12 @@
     Title = "Marble Track 3 construction Live Stream: finished starting to put together skeleton"
     Published = 2017-07-25T03:52:51Z
     Duration = 1647000000000
+    VideoType = 1
+  [Videos._j5bNBhyZGM]
+    VideoId = "_j5bNBhyZGM"
+    Title = "Marble Track 3 construction Livestream: Gluing 19 Placed Outer Spiral Support"
+    Published = 2025-06-17T20:49:09Z
+    Duration = 6538000000000
     VideoType = 1
   [Videos._mbZojXZtiY]
     VideoId = "_mbZojXZtiY"
@@ -2261,6 +2639,12 @@
     Published = 2020-01-28T06:09:21Z
     Duration = 5077000000000
     VideoType = 1
+  [Videos.bNtQb-ukBG4]
+    VideoId = "bNtQb-ukBG4"
+    Title = "Marble Track 3 construction Livestream: eight threads for ten workers"
+    Published = 2025-06-14T23:56:48Z
+    Duration = 7983000000000
+    VideoType = 1
   [Videos.be7AuagjaC0]
     VideoId = "be7AuagjaC0"
     Title = "Marble Track 3: Nearly placed Caret Splitter Feeder Righter Guider"
@@ -2285,6 +2669,12 @@
     Published = 2017-10-31T13:54:05Z
     Duration = 110000000000
     VideoType = 2
+  [Videos.bvxVRpidmm0]
+    VideoId = "bvxVRpidmm0"
+    Title = "Marble Track 3 construction Livestream: Glue Second Lane Second Level Second Bridge"
+    Published = 2025-07-17T00:05:54Z
+    Duration = 8191000000000
+    VideoType = 1
   [Videos.c2Re2Q2nKXQ]
     VideoId = "c2Re2Q2nKXQ"
     Title = "Marble Track 3: nearly glued triple splitter"
@@ -2327,6 +2717,12 @@
     Published = 2019-10-24T00:40:59Z
     Duration = 36000000000
     VideoType = 1
+  [Videos.cWFskh5DraU]
+    VideoId = "cWFskh5DraU"
+    Title = "Marble Track 3 snippet: Candy Mama turns away while Zog flies"
+    Published = 2022-02-03T02:21:28Z
+    Duration = 97000000000
+    VideoType = 2
   [Videos.cbbXuNWLp6A]
     VideoId = "cbbXuNWLp6A"
     Title = "Marble Track 3 construction Live Stream: Guardrails into Back Right Medium Landing Zone 2 of 3"
@@ -2351,6 +2747,18 @@
     Published = 2020-12-01T01:15:52Z
     Duration = 3807000000000
     VideoType = 1
+  [Videos.d8rGmQK0Sfs]
+    VideoId = "d8rGmQK0Sfs"
+    Title = "Marble Track 3: Mr McGlue glues Paul"
+    Published = 2021-11-10T04:57:00Z
+    Duration = 183000000000
+    VideoType = 2
+  [Videos.dETXzvS18n4]
+    VideoId = "dETXzvS18n4"
+    Title = "Marble Track 3 Snippet: Paul has entered the game"
+    Published = 2021-10-20T01:37:15Z
+    Duration = 82000000000
+    VideoType = 2
   [Videos.dFszY3BsP4c]
     VideoId = "dFszY3BsP4c"
     Title = "Marble Track 3: guess who!"
@@ -2381,6 +2789,12 @@
     Published = 2019-04-16T01:51:04Z
     Duration = 4793000000000
     VideoType = 1
+  [Videos.daG2pXWRBUw]
+    VideoId = "daG2pXWRBUw"
+    Title = "Marble Track 3 construction Livestream: Lil Brother backflip Detail"
+    Published = 2025-06-14T18:58:36Z
+    Duration = 3929000000000
+    VideoType = 1
   [Videos.dn0JMEbLmso]
     VideoId = "dn0JMEbLmso"
     Title = "Marble Track 3 construction Live Stream: glued feed to split bridge"
@@ -2405,12 +2819,24 @@
     Published = 2020-04-28T06:00:46Z
     Duration = 3074000000000
     VideoType = 1
+  [Videos.e1RTxlKjj2k]
+    VideoId = "e1RTxlKjj2k"
+    Title = "Marble Track 3 construction Livestream: Still Installing Small Marble Saver"
+    Published = 2025-06-08T08:29:22Z
+    Duration = 1208000000000
+    VideoType = 1
   [Videos.e1huAMfmlW0]
     VideoId = "e1huAMfmlW0"
     Title = "Marble Track 3 construction Live Stream"
     Published = 2018-04-29T00:32:54Z
     Duration = 3289000000000
     VideoType = 1
+  [Videos.e5MqdYinD88]
+    VideoId = "e5MqdYinD88"
+    Title = "Marble Track 3: Candy Mama almost tosses cookies"
+    Published = 2021-11-23T11:29:25Z
+    Duration = 92000000000
+    VideoType = 2
   [Videos.e5pn-sr-HdY]
     VideoId = "e5pn-sr-HdY"
     Title = "Marble Track 3: Squarehead jumps up"
@@ -2458,6 +2884,18 @@
     Title = "Marble Track 3 construction Live Stream: finished 80 frames as Rabby walks on stage"
     Published = 2017-07-07T13:55:12Z
     Duration = 2412000000000
+    VideoType = 1
+  [Videos.f-8kMxi9SW0]
+    VideoId = "f-8kMxi9SW0"
+    Title = "Marble Track 3: placed Zog Rails Support"
+    Published = 2022-04-01T09:03:48Z
+    Duration = 103000000000
+    VideoType = 2
+  [Videos.f1EPISzbXm4]
+    VideoId = "f1EPISzbXm4"
+    Title = "Marble Track 3 construction Livestream: RG and CM installing Second Lane of the Second bridge"
+    Published = 2025-07-12T21:23:55Z
+    Duration = 5092000000000
     VideoType = 1
   [Videos.fV3JgWuSpHI]
     VideoId = "fV3JgWuSpHI"
@@ -2507,6 +2945,12 @@
     Published = 2019-10-01T02:42:55Z
     Duration = 4507000000000
     VideoType = 1
+  [Videos.gMiJC6SMoUI]
+    VideoId = "gMiJC6SMoUI"
+    Title = "Marble Track 3 construction Livestream: Getting the team back in place"
+    Published = 2025-06-02T12:58:55Z
+    Duration = 1415000000000
+    VideoType = 1
   [Videos.gW3pdoDr1-0]
     VideoId = "gW3pdoDr1-0"
     Title = "Marble Track 3 Construction Livestream: Raising the 15th Placed Outer Spiral Support"
@@ -2531,6 +2975,12 @@
     Published = 2019-01-02T12:38:28Z
     Duration = 5770000000000
     VideoType = 1
+  [Videos.gtCgeHhfyog]
+    VideoId = "gtCgeHhfyog"
+    Title = "Marble Track 3 construction Livestream: Pinky Installing Lower Zig Zag Net Navigator"
+    Published = 2025-07-21T19:06:43Z
+    Duration = 2543000000000
+    VideoType = 1
   [Videos.gxNF33Twol8]
     VideoId = "gxNF33Twol8"
     Title = "Marble Track 3 construction Live Stream: Reversible Guy about to toss sticks"
@@ -2542,6 +2992,18 @@
     Title = "Marble Track 3 construction Live Stream: twenty questions and reinforced outer spiral"
     Published = 2018-09-04T03:10:44Z
     Duration = 6315000000000
+    VideoType = 1
+  [Videos.hGS5pjzMPaQ]
+    VideoId = "hGS5pjzMPaQ"
+    Title = "Marble Track 3 construction Livestream: G-Choppy trims Small Marble Saver"
+    Published = 2025-06-06T18:37:10Z
+    Duration = 7514000000000
+    VideoType = 1
+  [Videos.hNDZ065JBT8]
+    VideoId = "hNDZ065JBT8"
+    Title = "Marble Track 3 construction Livestream :Large Marble rolling past Snake Plate Berm"
+    Published = 2025-07-04T05:13:44Z
+    Duration = 8152000000000
     VideoType = 1
   [Videos.hOC9B5sx6v4]
     VideoId = "hOC9B5sx6v4"
@@ -2567,12 +3029,24 @@
     Published = 2018-09-22T12:27:48Z
     Duration = 2621000000000
     VideoType = 1
+  [Videos.hVNOpyDrOIw]
+    VideoId = "hVNOpyDrOIw"
+    Title = "Marble Track 3 construction Livestream: Glue Second Lane Second Level Second Bridge"
+    Published = 2025-07-16T09:40:05Z
+    Duration = 0
+    VideoType = 1
   [Videos.hxZ3cE1Gh6c]
     VideoId = "hxZ3cE1Gh6c"
     Title = "Marble Track 3: brotherly spat"
     Published = 2018-04-24T04:29:23Z
     Duration = 68000000000
     VideoType = 2
+  [Videos.hy938ueImCM]
+    VideoId = "hy938ueImCM"
+    Title = "Marble Track 3 construction Livestream: Installing Small Marble Saver"
+    Published = 2025-06-07T21:31:58Z
+    Duration = 3283000000000
+    VideoType = 1
   [Videos.hzTbFvOIS4Q]
     VideoId = "hzTbFvOIS4Q"
     Title = "Marble Track 3 construction Live Stream: caught the chopped stick"
@@ -2609,6 +3083,12 @@
     Published = 2017-10-17T03:30:44Z
     Duration = 78000000000
     VideoType = 2
+  [Videos.iHdawNWiwZ4]
+    VideoId = "iHdawNWiwZ4"
+    Title = "Marble Track 3 construction Livestream: Large Marble rolling onto The First Track"
+    Published = 2025-07-09T17:15:09Z
+    Duration = 6982000000000
+    VideoType = 1
   [Videos.iLriprQAnr0]
     VideoId = "iLriprQAnr0"
     Title = "Marble Track 3 construction Live Stream: planning next tracks"
@@ -2651,6 +3131,12 @@
     Published = 2018-09-17T07:29:28Z
     Duration = 6415000000000
     VideoType = 1
+  [Videos.iyGymhlaZ6Y]
+    VideoId = "iyGymhlaZ6Y"
+    Title = "Marble Track 3 summary: planning Zog's flight path"
+    Published = 2021-12-21T06:15:09Z
+    Duration = 315000000000
+    VideoType = 2
   [Videos.j2fJ32if1I0]
     VideoId = "j2fJ32if1I0"
     Title = "Marble Track 3: first rolling marble"
@@ -2699,6 +3185,12 @@
     Published = 2017-11-25T08:31:34Z
     Duration = 55000000000
     VideoType = 2
+  [Videos.jySdgLy2qUI]
+    VideoId = "jySdgLy2qUI"
+    Title = "Marble Track 3 Construction Livestream: Restart after a 3+ year lonnnggg break"
+    Published = 2025-05-29T22:33:34Z
+    Duration = 6739000000000
+    VideoType = 1
   [Videos.k5VyEWCPtZk]
     VideoId = "k5VyEWCPtZk"
     Title = "Marble Track 3 construction Live Stream"
@@ -2939,6 +3431,12 @@
     Published = 2019-03-22T22:00:05Z
     Duration = 33000000000
     VideoType = 2
+  [Videos.oI08JxXZCwM]
+    VideoId = "oI08JxXZCwM"
+    Title = "Marble Track 3 construction Livestream:Super Spoony still grabbing his marble"
+    Published = 2025-07-01T19:37:32Z
+    Duration = 6669000000000
+    VideoType = 1
   [Videos.oIDr7Kw-lg0]
     VideoId = "oIDr7Kw-lg0"
     Title = "Marble Track 3 Construction Livestream: Mr McGlue Glued El Banderín"
@@ -2950,6 +3448,12 @@
     Title = "Marble Track 3 construction Live Stream: Glued El Lifty Lever Guider"
     Published = 2020-06-01T08:54:17Z
     Duration = 4548000000000
+    VideoType = 1
+  [Videos.oJEE9oWpvSM]
+    VideoId = "oJEE9oWpvSM"
+    Title = "Marble Track 3 construction Livestream: Candy Mama bringing Twenty-first Outer Spiral Support"
+    Published = 2025-07-29T00:21:54Z
+    Duration = 1719000000000
     VideoType = 1
   [Videos.oO5f_3mv2qg]
     VideoId = "oO5f_3mv2qg"
@@ -2980,6 +3484,12 @@
     Title = "Marble Track 3 construction Live Stream: nearly ready to wrangle"
     Published = 2017-09-01T11:46:28Z
     Duration = 6421000000000
+    VideoType = 1
+  [Videos.pBNX7e1DGlw]
+    VideoId = "pBNX7e1DGlw"
+    Title = "Marble Track 3 construction Livestream:Large Marble rolling down Triple Splitter"
+    Published = 2025-07-02T20:13:01Z
+    Duration = 7348000000000
     VideoType = 1
   [Videos.pBrzowlgt8E]
     VideoId = "pBrzowlgt8E"
@@ -3022,6 +3532,12 @@
     Title = "Marble Track 3 construction Live Stream: glued seventh placed outer spiral support"
     Published = 2019-01-02T13:15:46Z
     Duration = 5272000000000
+    VideoType = 1
+  [Videos.pZYEZgVlaJU]
+    VideoId = "pZYEZgVlaJU"
+    Title = "Marble Track 3 construction Livestream: Candy Mama removes debris"
+    Published = 2025-06-04T22:30:13Z
+    Duration = 8801000000000
     VideoType = 1
   [Videos.pa_aVE_oPDY]
     VideoId = "pa_aVE_oPDY"
@@ -3070,6 +3586,12 @@
     Title = "Marble Track 3 construction Live Stream: progressing nicely"
     Published = 2018-03-18T05:39:16Z
     Duration = 6249000000000
+    VideoType = 1
+  [Videos.pu48gGe1QtQ]
+    VideoId = "pu48gGe1QtQ"
+    Title = "Marble Track 3 construction Livestream: Zog Rail Ribs Arriving Soon"
+    Published = 2025-07-18T02:22:11Z
+    Duration = 7684000000000
     VideoType = 1
   [Videos.q17NdaUm93I]
     VideoId = "q17NdaUm93I"
@@ -3209,11 +3731,29 @@
     Published = 2018-10-20T02:58:23Z
     Duration = 10000000000
     VideoType = 2
+  [Videos.sID4jbHNEBg]
+    VideoId = "sID4jbHNEBg"
+    Title = "Marble Track 3 construction Livestream: I glued 2nd Layer on 2nd Bridge and 19 Placed OSS"
+    Published = 2025-06-26T17:52:46Z
+    Duration = 4832000000000
+    VideoType = 1
+  [Videos.sPVH5PIf2ec]
+    VideoId = "sPVH5PIf2ec"
+    Title = "Marble Track 3 summary: G Choppy Turned Around"
+    Published = 2021-08-18T00:55:13Z
+    Duration = 296000000000
+    VideoType = 2
   [Videos.sRWpODuN4jQ]
     VideoId = "sRWpODuN4jQ"
     Title = "Marble Track 3: glued half of third landing strip"
     Published = 2017-10-20T06:55:05Z
     Duration = 83000000000
+    VideoType = 2
+  [Videos.sUHgo3TaiRc]
+    VideoId = "sUHgo3TaiRc"
+    Title = "Marble Track 3 Summary: Zog Touchdown"
+    Published = 2022-02-08T02:17:21Z
+    Duration = 148000000000
     VideoType = 2
   [Videos.sV9zeRSxWqs]
     VideoId = "sV9zeRSxWqs"
@@ -3251,6 +3791,12 @@
     Published = 2017-09-28T06:41:23Z
     Duration = 41000000000
     VideoType = 2
+  [Videos.tHsxErEZv7o]
+    VideoId = "tHsxErEZv7o"
+    Title = "Marble Track 3 construction Livestream: Gluing Small Marble Saver"
+    Published = 2025-06-10T17:29:28Z
+    Duration = 4140000000000
+    VideoType = 1
   [Videos.tZAxfzXo63I]
     VideoId = "tZAxfzXo63I"
     Title = "Marble Track 3 construction Live Stream: preparing to glue the first track"
@@ -3317,6 +3863,12 @@
     Published = 2019-09-28T02:48:00Z
     Duration = 7515000000000
     VideoType = 1
+  [Videos.upHHDhLutQM]
+    VideoId = "upHHDhLutQM"
+    Title = "Marble Track 3 Construction is almost halfway finished"
+    Published = 2026-05-18T06:08:53Z
+    Duration = 928000000000
+    VideoType = 2
   [Videos.uttu-9U4G2w]
     VideoId = "uttu-9U4G2w"
     Title = "Marble Track 3 construction Live Stream: calling for help"
@@ -3431,6 +3983,12 @@
     Published = 2019-12-17T03:02:44Z
     Duration = 7393000000000
     VideoType = 1
+  [Videos.wjKE6U5tndI]
+    VideoId = "wjKE6U5tndI"
+    Title = "Marble Track 3 construction Livestream:Filming stage rotation with"
+    Published = 2025-06-27T17:19:04Z
+    Duration = 11884000000000
+    VideoType = 1
   [Videos.wxH5M6T6_n8]
     VideoId = "wxH5M6T6_n8"
     Title = "Marble Track 3 construction Live Stream"
@@ -3442,6 +4000,12 @@
     Title = "Marble Track 3 construction Live Stream: (no audio) Made a helper and added blue to back wall"
     Published = 2017-06-13T07:04:56Z
     Duration = 2043000000000
+    VideoType = 1
+  [Videos.xG3emEUUqwY]
+    VideoId = "xG3emEUUqwY"
+    Title = "Marble Track 3 construction Livestream: Gluing 19 Placed Outer Spiral Support"
+    Published = 2025-06-18T03:37:26Z
+    Duration = 4938000000000
     VideoType = 1
   [Videos.xIUoq1fKTEQ]
     VideoId = "xIUoq1fKTEQ"
@@ -3467,6 +4031,12 @@
     Published = 2018-01-09T05:52:55Z
     Duration = 7217000000000
     VideoType = 1
+  [Videos.xY5Gxz_oGOQ]
+    VideoId = "xY5Gxz_oGOQ"
+    Title = "Marble Track 3: Bringing Zog up the ramp"
+    Published = 2021-11-17T12:59:48Z
+    Duration = 90000000000
+    VideoType = 2
   [Videos.xc4JXLveuMc]
     VideoId = "xc4JXLveuMc"
     Title = "Marble Track 3: Francois kicked the stage into place"
@@ -3491,6 +4061,12 @@
     Published = 2020-01-07T02:57:22Z
     Duration = 7448000000000
     VideoType = 1
+  [Videos.y172rAWyxMY]
+    VideoId = "y172rAWyxMY"
+    Title = "Marble Track 3 summary: Candy Mama's cookies bounced"
+    Published = 2021-11-30T04:13:39Z
+    Duration = 261000000000
+    VideoType = 2
   [Videos.y7Bzg0XQdcY]
     VideoId = "y7Bzg0XQdcY"
     Title = "Marble Track 3: start rotation cycle"
@@ -3551,6 +4127,12 @@
     Published = 2017-10-21T01:54:15Z
     Duration = 88000000000
     VideoType = 2
+  [Videos.z-4t6Y7NSk4]
+    VideoId = "z-4t6Y7NSk4"
+    Title = "Marble Track 3: Mr McGlue glued Small Marble Saver"
+    Published = 2025-06-11T05:05:40Z
+    Duration = 114000000000
+    VideoType = 2
   [Videos.z3HK_DwtI0E]
     VideoId = "z3HK_DwtI0E"
     Title = "Marble Track 3 construction Live Stream: Glued Sixth Placed Outer Spiral Support"
@@ -3605,3 +4187,9 @@
     Published = 2018-01-04T08:27:53Z
     Duration = 76000000000
     VideoType = 2
+  [Videos.zxiR-wscN5c]
+    VideoId = "zxiR-wscN5c"
+    Title = "Marble Track 3 construction Livestream: Pinky Installing Lower Zig Zag Net Navigator even more!"
+    Published = 2025-07-22T16:33:19Z
+    Duration = 8772000000000
+    VideoType = 1
